@@ -1,0 +1,834 @@
+row_id,category_key,category_name,geography_name,partition
+0,accounting services sole traders,Accounting Services (Sole Traders),Australia,development
+1,accounting services sole traders,Accounting Services (Sole Traders),New Zealand,development
+2,acne preventative treatments,Acne & Preventative Treatments,Australia,development
+3,activewear,Activewear,Australia,development
+4,additional residential construction,Additional Residential Construction,Australia,development
+5,adventure holidays,Adventure Holidays,United Kingdom,development
+6,adventure holidays,Adventure Holidays,United States,development
+7,adventure sport amusements,Adventure Sport Amusements,Australia,development
+8,air conditioners,Air Conditioners,Australia,development
+9,air fresheners home fragrances,Air Fresheners & Home Fragrances,Australia,development
+10,air fresheners home fragrances,Air Fresheners & Home Fragrances,New Zealand,development
+11,air fresheners home fragrances,Air Fresheners & Home Fragrances,United States,development
+12,airlines,Airlines,Australia,development
+13,alcohol free beer,Alcohol Free Beer,Australia,development
+14,alcohol free beer,Alcohol Free Beer,United Kingdom,development
+15,alcohol free beer,Alcohol Free Beer,United States,development
+16,allergy relief,Allergy Relief,Australia,development
+17,allergy relief,Allergy Relief,Australia,development
+18,allergy relief,Allergy Relief,New Zealand,development
+19,allergy relief,Allergy Relief,United Kingdom,development
+20,amusements,Amusements,New Zealand,development
+21,amusements,Amusements,United Kingdom,development
+22,antacids,Antacids,Australia,development
+23,appearance services,Appearance Services,Australia,development
+24,appearance services,Appearance Services,New Zealand,development
+25,apples,Apples,New Zealand,development
+26,artwork retailers,Artwork Retailers,Australia,development
+27,asian foods condiments,Asian Foods & Condiments,Australia,holdout
+28,asian foods condiments,Asian Foods & Condiments,United States,holdout
+29,at home covid 19 treatment,At home COVID-19 treatment,New Zealand,development
+30,at home fitness,At-Home Fitness,United States,development
+31,at home monitoring devices,At-Home Monitoring Devices,United Kingdom,development
+32,attractions,Attractions,Australia,development
+33,auckland malls,Auckland Malls,New Zealand,development
+34,audio content,Audio Content,Australia,development
+35,audio content,Audio Content,United States,development
+36,australian news media sources,Australian News & Media Sources,Australia,development
+37,auto glass repair replacement service,Auto Glass Repair & Replacement Service,New Zealand,development
+38,automotive care,Automotive Care,United States,development
+39,baby child products retailer,Baby & Child Products Retailer,Australia,development
+40,baby child products retailer,Baby & Child Products Retailer,New Zealand,development
+41,baby toddler food,Baby & Toddler Food,United States,holdout
+42,baby and child apparel,Baby and Child Apparel,Australia,development
+43,baby and child products,Baby and Child Products,Australia,development
+44,baby and child products,Baby and Child Products,New Zealand,development
+45,baby and child products,Baby and Child Products,United States,development
+46,baby and child products,Baby and Child Products,United States,development
+47,bags purses,Bags & Purses,United States,development
+48,bakeries,Bakeries,Australia,development
+49,bakery goods,Bakery Goods,New Zealand,development
+50,baking ingredients,Baking Ingredients,New Zealand,development
+51,baking ingredients,Baking Ingredients,United States,development
+52,bananas,Bananas,New Zealand,development
+53,bathroom fixtures furniture,Bathroom Fixtures & Furniture,New Zealand,development
+54,bathroom repairs service,Bathroom Repairs Service,Australia,development
+55,bathroom retailers,Bathroom Retailers,United Kingdom,development
+56,batteries,Batteries,United States,development
+57,beauty from within vitamins supplements,Beauty From Within Vitamins & Supplements,Australia,development
+58,beauty from within vitamins supplements,Beauty From Within Vitamins & Supplements,United States,development
+59,bedding bathroom textiles,Bedding & Bathroom Textiles,United States,development
+60,beddings,Beddings,Australia,holdout
+61,beddings,Beddings,New Zealand,holdout
+62,beddings,Beddings,United States,holdout
+63,beds and mattresses retailer,Beds and Mattresses Retailer,New Zealand,development
+64,beer,Beer,United Kingdom,holdout
+65,beer,Beer,United States,holdout
+66,big and tall men s clothing,Big and Tall Men's Clothing,Australia,development
+67,big and tall men s clothing,Big and Tall Men's Clothing,United States,development
+68,biscuits,Biscuits,United Kingdom,development
+69,blinds window furnishings,Blinds & Window Furnishings,Australia,development
+70,body care,Body Care,Australia,development
+71,body care,Body Care,United States,development
+72,bonding and sealing,Bonding and Sealing,Australia,holdout
+73,bonding and sealing,Bonding and Sealing,New Zealand,holdout
+74,bonding and sealing,Bonding and Sealing,United States,holdout
+75,book retailer,Book Retailer,Australia,development
+76,booking software,Booking Software,United States,development
+77,brand health trackers,Brand Health Trackers,Australia,development
+78,breakfast foods,Breakfast Foods,New Zealand,development
+79,breakfast foods,Breakfast Foods,United Kingdom,development
+80,breakfast foods,Breakfast Foods,United States,development
+81,breakfast or health foods,Breakfast or Health Foods,Australia,development
+82,breakfast or health foods,Breakfast or Health Foods,New Zealand,development
+83,butter,Butter,United Kingdom,development
+84,butter margarine oil based spreads,"Butter, Margarine & Oil-based Spreads",New Zealand,development
+85,buy now pay later gimmie,Buy Now Pay Later (Gimmie),Australia,development
+86,buy now pay later service,Buy Now Pay Later Service,Australia,development
+87,buy now pay later service,Buy Now Pay Later Service,United States,development
+88,cafe non dairy milk,Cafe Non-dairy Milk,Australia,development
+89,cafe non dairy milk,Cafe Non-dairy Milk,New Zealand,development
+90,cafes,Cafes,Australia,holdout
+91,cafes,Cafes,Australia,holdout
+92,cafes,Cafes,New Zealand,holdout
+93,cafes,Cafes,New Zealand,holdout
+94,camping equipments,Camping Equipments,Australia,development
+95,camping equipments,Camping Equipments,New Zealand,development
+96,canned soup,Canned Soup,United Kingdom,development
+97,canned tuna,Canned Tuna,Australia,development
+98,caps,Caps,Australia,development
+99,car motorhome rentals,Car & Motorhome Rentals,Australia,development
+100,car motorhome rentals,Car & Motorhome Rentals,New Zealand,development
+101,car dealership,Car Dealership,New Zealand,development
+102,car finance,Car Finance,Australia,development
+103,car insurance,Car Insurance,Australia,development
+104,car insurance,Car Insurance,United States,development
+105,car listing websites,Car Listing Websites,Canada,development
+106,car listing websites,Car Listing Websites,United Kingdom,development
+107,car listing websites,Car Listing Websites,United States,development
+108,car modifications,Car Modifications,Australia,development
+109,car modifications,Car Modifications,United Kingdom,development
+110,car modifications,Car Modifications,United States,development
+111,car rental,Car Rental,Australia,development
+112,car rental,Car Rental,Australia,development
+113,car rental,Car Rental,New Zealand,development
+114,car subscriptions,Car Subscriptions,United Kingdom,development
+115,car sunshades,Car sunshades,Australia,development
+116,caravan campervan motorhome rentals,"Caravan, Campervan & Motorhome Rentals",Australia,holdout
+117,caravan campervan motorhome rentals,"Caravan, Campervan & Motorhome Rentals",Australia,holdout
+118,carpets,Carpets,Australia,development
+119,carpets,Carpets,New Zealand,development
+120,cashback platforms or services,Cashback Platforms or Services,Australia,development
+121,casual footwear sneakers,Casual Footwear/Sneakers,Canada,development
+122,casual footwear sneakers,Casual Footwear/Sneakers,United States,development
+123,cat food,Cat Food,Australia,development
+124,cat food,Cat Food,United States,development
+125,cat treats,Cat Treats,Australia,holdout
+126,cat treats,Cat Treats,United States,holdout
+127,charities,Charities,Australia,development
+128,charities,Charities,Australia,development
+129,charities,Charities,Canada,development
+130,charities,Charities,New Zealand,development
+131,charities,Charities,New Zealand,development
+132,charities,Charities,New Zealand,development
+133,charities,Charities,New Zealand,development
+134,charities,Charities,New Zealand,development
+135,charities,Charities,United Kingdom,development
+136,charities,Charities,United Kingdom,development
+137,charities,Charities,United States,development
+138,charities,Charities,United States,development
+139,charities incl engagement,Charities (incl. engagement),Australia,development
+140,charity lotteries or art union,Charity Lotteries or Art Union,Australia,development
+141,charity lotteries or art union,Charity Lotteries or Art Union,Australia,development
+142,chicken products,Chicken Products,New Zealand,development
+143,children s merchandise,Children's Merchandise,Australia,development
+144,children s television,Children's Television,Australia,development
+145,children s toys puzzles retailers,Children's Toys & Puzzles Retailers,United Kingdom,holdout
+146,children s toys and puzzles,Children's Toys and Puzzles,Australia,development
+147,children s toys and puzzles,Children's Toys and Puzzles,United States,development
+148,children s charities,Children’s Charities,Australia,development
+149,chilled desserts,Chilled Desserts,Australia,development
+150,chilled fruit juices,Chilled Fruit Juices,Australia,development
+151,chilled packaged snacks,Chilled Packaged Snacks,Australia,development
+152,chocolate,Chocolate,Australia,development
+153,chocolate,Chocolate,New Zealand,development
+154,chocolate biscuits,Chocolate Biscuits,Australia,development
+155,chocolate biscuits,Chocolate Biscuits,New Zealand,development
+156,chocolate bars and blocks,Chocolate bars and blocks,Australia,development
+157,chocolate bars and blocks,Chocolate bars and blocks,New Zealand,development
+158,chocolate bars and blocks,Chocolate bars and blocks,United States,development
+159,clothing both genders,Clothing (Both Genders),United States,development
+160,clothing both genders,Clothing (Both Genders),United States,development
+161,coffee,Coffee,Australia,development
+162,coffee,Coffee,Australia,development
+163,coffee,Coffee,New Zealand,development
+164,coffee,Coffee,United Kingdom,development
+165,coffee,Coffee,United Kingdom,development
+166,coffee,Coffee,United States,development
+167,coffee alternatives,Coffee Alternatives,United States,holdout
+168,coffee machines,Coffee Machines,Australia,development
+169,cold flu relief,Cold & Flu Relief,Australia,development
+170,commercial property investment,Commercial Property Investment,New Zealand,holdout
+171,computer repair service,Computer Repair Service,Australia,development
+172,construction building hardware,Construction/Building Hardware,Australia,development
+173,coupons discounts and vouchers,"Coupons, Discounts and Vouchers",Australia,development
+174,craft beer,Craft Beer,Australia,development
+175,craft beer,Craft Beer,New Zealand,development
+176,craft beer,Craft Beer,United Kingdom,development
+177,cream cheese,Cream Cheese,Australia,development
+178,cream cheese,Cream Cheese,United States,development
+179,creative tools,Creative tools,Australia,development
+180,creative tools,Creative tools,United States,development
+181,credit building providers,Credit Building Providers,United States,development
+182,credit cards,Credit Cards,New Zealand,development
+183,credit cards,Credit Cards,United States,development
+184,credit checks,Credit Checks,Australia,development
+185,crumbs coatings and sauces,"Crumbs, Coatings and Sauces",Australia,development
+186,crumbs coatings and sauces,"Crumbs, Coatings and Sauces",New Zealand,development
+187,currency exchange services,Currency Exchange Services,Australia,development
+188,currency exchange services,Currency Exchange Services,New Zealand,development
+189,custom printed products,Custom Printed Products,United Kingdom,development
+190,custom printed products,Custom Printed Products,United States,development
+191,diy tools,DIY Tools,United States,development
+192,dairy meat alternatives,Dairy & Meat Alternatives,United States,development
+193,dairy free yoghurt,Dairy-free yoghurt,Australia,development
+194,dating apps services,Dating Apps & Services,Australia,development
+195,dating apps services,Dating Apps & Services,United States,development
+196,dental flossing products,Dental Flossing Products,Australia,development
+197,deodorants body sprays,Deodorants & Body Sprays,United States,development
+198,deodorants body sprays,Deodorants & Body Sprays,United States,development
+199,department stores,Department Stores,Australia,development
+200,designer fashion,Designer Fashion,United States,development
+201,designer women s clothing,Designer Women's Clothing,Australia,development
+202,dessert cafes restaurants,Dessert Cafes & Restaurants,Australia,development
+203,desserts,Desserts,New Zealand,development
+204,digital cameras accessories,Digital Cameras & Accessories,Australia,development
+205,digital frames,Digital Frames,United States,development
+206,disability services,Disability Services,Australia,development
+207,disability services,Disability Services,Australia,development
+208,dishwasher products,Dishwasher Products,Australia,development
+209,dishwasher products,Dishwasher Products,New Zealand,development
+210,dog food,Dog Food,Australia,development
+211,dog food,Dog Food,Australia,development
+212,dog food,Dog Food,New Zealand,development
+213,dog food,Dog Food,United Kingdom,development
+214,dog food,Dog Food,United States,development
+215,dog treats,Dog Treats,Australia,development
+216,dog treats,Dog Treats,United Kingdom,development
+217,domestic accommodation services,Domestic Accommodation Services,United States,development
+218,domestic airlines,Domestic Airlines,United States,development
+219,domestic holiday destinations,Domestic Holiday Destinations,New Zealand,holdout
+220,domestic tourism all nz,Domestic Tourism - All NZ,New Zealand,development
+221,domestic tourism north island,Domestic Tourism - North Island,New Zealand,development
+222,domestic tourism north island,Domestic Tourism - North Island,New Zealand,development
+223,domestic tourism south island,Domestic Tourism - South Island,New Zealand,development
+224,domestic transport,Domestic Transport,New Zealand,development
+225,door cabinetry hardware,Door/Cabinetry Hardware,Australia,development
+226,drink mixers,Drink Mixers,New Zealand,development
+227,dry shampoo,Dry Shampoo (Female Only),Australia,development
+228,eco products,Eco Products,Australia,development
+229,eggs,Eggs,New Zealand,development
+230,electronics retailers,Electronic Retailers,United Kingdom,holdout
+231,electronics retailers,Electronics Retailers,Australia,holdout
+232,electronics retailers,Electronics Retailers,New Zealand,holdout
+233,energy drinks,Energy Drinks,Australia,development
+234,energy drinks,Energy Drinks,New Zealand,development
+235,entertainment and events,Entertainment and Events,United Kingdom,development
+236,equipment rental services,Equipment Rental Services,New Zealand,development
+237,erectile disfunction,Erectile Disfunction,New Zealand,development
+238,essential oils,Essential Oils,Australia,development
+239,event listing websites apps,Event Listing Websites/Apps,Australia,development
+240,everyday cheese,Everyday Cheese,New Zealand,development
+241,everyday cheese,Everyday Cheese,United States,development
+242,exercise equipment,Exercise Equipment,United States,development
+243,experiences retailer,Experiences Retailer,Australia,development
+244,extra curricular organizations,Extra-Curricular Organizations,United States,development
+245,eye care,Eye Care,United Kingdom,development
+246,eye care,Eye Care,United States,development
+247,eyewear eyecare providers,Eyewear & Eyecare Providers,United Kingdom,holdout
+248,facial suncare products,Facial Suncare Products,Australia,development
+249,family services charities,Family Services Charities,Australia,development
+250,fast casual restaurants,Fast Casual Restaurants,United States,development
+251,fast food,Fast Food,Australia,development
+252,fast food,Fast Food,Australia,development
+253,fast food,Fast Food,Australia,development
+254,fast food,Fast Food,New Zealand,development
+255,fast food,Fast Food,New Zealand,development
+256,fast food,Fast Food,United States,development
+257,female clothing black pepper,Female Clothing (Black Pepper),Australia,development
+258,female clothing black pepper,Female Clothing (Black Pepper),New Zealand,development
+259,female clothing,Female Clothing (Female Only),Canada,development
+260,female contraception fertility or period trackers,"Female Contraception, Fertility or Period Trackers (Female Only)",United States,holdout
+261,female fashion,Female Fashion,Australia,holdout
+262,female fashion,Female Fashion,New Zealand,holdout
+263,female skincare,Female Skincare,Australia,development
+264,female skincare,Female Skincare,New Zealand,development
+265,feminine hygiene products,Feminine Hygiene Products (Female Only),Australia,development
+266,fertility and pregnancy vitamins supplements,Fertility and Pregnancy Vitamins/Supplements,Australia,development
+267,fertility and pregnancy vitamins supplements,Fertility and Pregnancy Vitamins/Supplements,United Kingdom,development
+268,fertility or ivf service,Fertility or IVF service,Australia,development
+269,festivals,Festivals,Australia,development
+270,financial news media sources,Financial News & Media Sources,Australia,development
+271,fine jewellery,Fine Jewellery,New Zealand,development
+272,fitness services,Fitness Services (Female Only),Australia,holdout
+273,fitness apps services,Fitness apps & services,United States,development
+274,flavoured milk,Flavoured Milk,Australia,holdout
+275,flavoured milk,Flavoured Milk,New Zealand,holdout
+276,floor cleaning appliances,Floor Cleaning Appliances,Australia,development
+277,flooring,Flooring,Australia,development
+278,flooring,Flooring,New Zealand,development
+279,flooring,Flooring,United Kingdom,development
+280,flooring,Flooring,United States,development
+281,flooring retailers,Flooring Retailers,Australia,development
+282,flooring retailers,Flooring Retailers,New Zealand,development
+283,florists and floral delivery services,Florists and Floral Delivery Services,United States,development
+284,footwear,Footwear,United States,development
+285,formal footwear dress shoes,Formal Footwear/Dress Shoes,Australia,development
+286,four wheel drive insurance,Four-Wheel Drive Insurance,Australia,development
+287,fragrances,Fragrances,Australia,holdout
+288,free from baked goods,Free-from Baked Goods,Australia,development
+289,free from baked goods,Free-from Baked Goods,New Zealand,development
+290,fresh meat poultry,Fresh Meat & Poultry,Australia,development
+291,fresh milk dairy,Fresh Milk (Dairy),Australia,holdout
+292,fresh milk dairy,Fresh Milk (Dairy),New Zealand,holdout
+293,fresh produce box delivery,Fresh Produce Box Delivery,United Kingdom,development
+294,fresh tomatoes,Fresh Tomatoes,New Zealand,development
+295,frozen asian food,Frozen Asian Food,United States,development
+296,frozen oven chips,Frozen Oven Chips,New Zealand,development
+297,fruit flavoured alcoholic drinks,Fruit-Flavoured Alcoholic Drinks,United Kingdom,development
+298,fuel stations,Fuel Stations,New Zealand,development
+299,funeral services,Funeral Services,Australia,development
+300,furniture,Furniture,Australia,holdout
+301,furniture,Furniture,New Zealand,holdout
+302,furniture homeware,Furniture & Homeware,Australia,development
+303,furniture homeware,Furniture & Homeware,Australia,development
+304,gambling,Gambling,New Zealand,development
+305,garden care,Garden Care,Australia,development
+306,garden watering systems,Garden Watering Systems,Australia,development
+307,gel nail polish,Gel Nail Polish (Female Only),United Kingdom,development
+308,general insurance,General Insurance,Australia,development
+309,general insurance,General Insurance,New Zealand,development
+310,general insurance,General Insurance,United States,development
+311,gifting retailer,Gifting Retailer,United States,development
+312,gin,Gin,New Zealand,development
+313,gin,Gin,New Zealand,development
+314,gin,Gin,United Kingdom,development
+315,group fitness,Group Fitness,Australia,development
+316,group fitness,Group Fitness,United States,development
+317,guided holidays,Guided Holidays,Australia,development
+318,gyms,Gyms,Australia,development
+319,gyms,Gyms,New Zealand,development
+320,hair extensions and accessories,Hair Extensions and Accessories (FEMALE ONLY),Australia,development
+321,hair regrowth,Hair Regrowth,Australia,development
+322,hair removal,Hair Removal,Australia,development
+323,hair styling tools,Hair Styling Tools,Australia,development
+324,haircare,Haircare,Australia,development
+325,haircare,Haircare,United Kingdom,development
+326,haircare,Haircare,United States,development
+327,hats,Hats,Australia,development
+328,hats,Hats,United States,development
+329,hay fever,Hay Fever,New Zealand,development
+330,headphones speakers and other audio electronics,"Headphones, speakers and other audio electronics",United States,development
+331,health beauty retailers,Health & Beauty Retailers,Australia,development
+332,health wellness retailer,Health & Wellness Retailer,United Kingdom,holdout
+333,health drinks,Health Drinks,Australia,development
+334,health drinks,Health Drinks,New Zealand,development
+335,health foods,Health Foods,New Zealand,development
+336,health insurance comparison websites,Health Insurance Comparison Websites,Australia,development
+337,health insurance providers,Health Insurance Providers,Australia,development
+338,health insurance providers,Health Insurance Providers,New Zealand,development
+339,health supplements,Health Supplements,New Zealand,development
+340,health enhancing supplements,Health-Enhancing Supplements,New Zealand,development
+341,health enhancing supplements,Health-Enhancing Supplements,United Kingdom,development
+342,healthcare membership program,Healthcare Membership Program,United States,development
+343,healthier drinks,Healthier Drinks,United Kingdom,development
+344,healthy snacks,Healthy Snacks,Australia,development
+345,healthy snacks,Healthy Snacks,New Zealand,development
+346,healthy snacks,Healthy Snacks,United States,development
+347,heating cooling systems,Heating & Cooling Systems,Australia,holdout
+348,heating cooling systems,Heating & Cooling Systems,New Zealand,holdout
+349,heating systems,Heating Systems,New Zealand,development
+350,herbs spices and seasonings,"Herbs, spices and seasonings",Australia,holdout
+351,herbs spices and seasonings,"Herbs, spices and seasonings",United States,holdout
+352,higher education institutions,Higher Education Institutions,Australia,development
+353,higher education institutions,Higher Education Institutions,Australia,development
+354,higher education institutions,Higher Education Institutions,Australia,development
+355,higher education institutions,Higher Education Institutions,Australia,development
+356,higher education institutions,Higher Education Institutions,Canada,development
+357,higher education institutions,Higher Education Institutions,New Zealand,development
+358,higher education institutions,Higher Education Institutions,New Zealand,development
+359,higher education institutions,Higher Education Institutions,New Zealand,development
+360,higher education institutions,Higher Education Institutions,New Zealand,development
+361,higher education websites,Higher Education Websites,Australia,development
+362,hobby craft retailer,Hobby & Craft Retailer,Australia,development
+363,holiday destinations,Holiday Destinations,Australia,development
+364,home improvement retailer,Home Improvement Retailer,Australia,development
+365,home improvement retailer,Home Improvement Retailer,New Zealand,development
+366,homeware,Homeware,Australia,development
+367,homeware,Homeware,United States,development
+368,homeware retailers,Homeware Retailers,New Zealand,development
+369,honey,Honey,Australia,development
+370,hormone optimisation,Hormone Optimisation,United States,development
+371,hormone products services,Hormone Products/Services (Female Only),United Kingdom,development
+372,hospitality reward programs,Hospitality Reward programs,United States,development
+373,hot rotisserie meats,Hot Rotisserie Meats,Australia,development
+374,hot tubs,Hot Tubs,United Kingdom,holdout
+375,hotels,Hotels,New Zealand,holdout
+376,hotels vegas,Hotels - Vegas,United States,development
+377,household fixtures,Household Fixtures,Australia,development
+378,humanitarian charities,Humanitarian Charities,Australia,development
+379,hunting shooting and fishing apparel and equipment,"Hunting, shooting and fishing (Apparel and Equipment)",United States,development
+380,icecream or frozen desserts,Icecream or frozen desserts,United States,holdout
+381,imperfect fruit and vegetable boxes,Imperfect Fruit and Vegetable Boxes,Australia,holdout
+382,in home care,In-Home Care,New Zealand,holdout
+383,in store charity donations,In-store Charity Donations,Australia,development
+384,indoor outdoor cleaners,Indoor & Outdoor Cleaners,Australia,development
+385,indoor outdoor cleaners,Indoor & Outdoor Cleaners,New Zealand,development
+386,insect repellent,Insect Repellent,United States,development
+387,insurance,Insurance,New Zealand,holdout
+388,international airlines,International Airlines,Australia,development
+389,international airlines,International Airlines,United Kingdom,development
+390,international airlines,International Airlines,United States,development
+391,international cruises,International Cruises,Australia,development
+392,international cruises,International Cruises,United States,development
+393,international money transfer services,International Money Transfer Services,Australia,development
+394,international money transfer services,International Money Transfer Services,Australia,development
+395,international money transfer services,International Money Transfer Services,New Zealand,development
+396,international money transfer services,International Money Transfer Services,New Zealand,development
+397,international money transfer services,International Money Transfer Services,United States,development
+398,international travel bookings,International Travel Bookings,United Kingdom,development
+399,internet provider,Internet Provider,Australia,development
+400,internet provider,Internet Provider,New Zealand,development
+401,internet safety service,Internet Safety Service,New Zealand,development
+402,jeans,Jeans,Australia,development
+403,jewellery and accessories,Jewellery and Accessories,United States,development
+404,job listings websites,Job Listings Websites,Australia,holdout
+405,kids beverages,Kids' Beverages,United States,development
+406,kids packaged snacks,Kids’ Packaged Snacks,Australia,development
+407,kitchenware,Kitchenware,United States,development
+408,kitchenware retailers,Kitchenware Retailers,Australia,development
+409,kiwisaver,KiwiSaver,New Zealand,development
+410,kiwisaver,KiwiSaver,New Zealand,development
+411,landscaping services,Landscaping Services,New Zealand,development
+412,large household appliance retailers,Large Household Appliance Retailers,Australia,development
+413,large household appliances,Large Household Appliances,Australia,development
+414,large household appliances,Large Household Appliances,Australia,development
+415,large household appliances,Large Household Appliances,New Zealand,development
+416,large household appliances,Large Household Appliances,United States,development
+417,laundry care,Laundry Care,Australia,development
+418,laundry care,Laundry Care,United Kingdom,development
+419,laundry care,Laundry Care,United States,development
+420,laundry stain removers,Laundry Stain Removers,Australia,development
+421,laundry stain removers,Laundry Stain Removers,New Zealand,development
+422,lawyers law firms,Lawyers/Law Firms,Australia,development
+423,life insurance providers,Life Insurance Providers,Australia,development
+424,life insurance providers,Life Insurance Providers,New Zealand,development
+425,lip balm,Lip Balm,United Kingdom,development
+426,liquid cooking stock,Liquid Cooking Stock,Australia,development
+427,liquor retailer,Liquor Retailer,Australia,development
+428,liquor retailer,Liquor Retailer,New Zealand,development
+429,loans or lending services,Loans or Lending Services,Australia,holdout
+430,long life fruit juices,Long-life Fruit Juices,United States,development
+431,lotteries,Lotteries,Australia,development
+432,lotteries,Lotteries,United Kingdom,development
+433,loungewear,Loungewear,Australia,development
+434,loyalty programmes,Loyalty Programmes,Australia,development
+435,luggage travel products,Luggage & Travel products,Australia,development
+436,luxury car hire,Luxury Car Hire,United Kingdom,development
+437,luxury cruises,Luxury Cruises,United States,holdout
+438,luxury fine jewellery excl watches,Luxury Fine Jewellery (Excl. Watches),Australia,development
+439,luxury hotels,Luxury Hotels,Australia,development
+440,luxury hotels tasmania,Luxury Hotels - Tasmania,Australia,development
+441,luxury leather bags accessories,Luxury Leather Bags/Accessories,Australia,development
+442,luxury leather bags accessories,Luxury Leather Bags/Accessories,New Zealand,development
+443,luxury leather bags accessories,Luxury Leather Bags/Accessories,United Kingdom,development
+444,luxury leather bags accessories,Luxury Leather Bags/Accessories,United States,development
+445,luxury marketplace,Luxury Marketplace,United States,development
+446,luxury real estate service,Luxury Real Estate Service,Australia,development
+447,luxury tours,Luxury Tours,United States,development
+448,makeup cosmetics,Makeup & Cosmetics,Australia,development
+449,makeup cosmetics,Makeup & Cosmetics,New Zealand,development
+450,makeup cosmetics,Makeup & Cosmetics,United States,development
+451,mattresses beds and pillows online channel,"Mattresses, beds, and pillows (Online Channel)",United States,development
+452,meal delivery,Meal Delivery,New Zealand,development
+453,meal kit delivery service,Meal Kit Delivery Service,Australia,development
+454,meal kit subscriptions,Meal Kit Subscriptions,United States,holdout
+455,meal kits meal planning services,Meal Kits & Meal Planning Services,New Zealand,development
+456,meat alternatives,Meat Alternatives,Australia,holdout
+457,meat and seafood,Meat and Seafood,United States,development
+458,medical diagnostic services,Medical Diagnostic Services,New Zealand,development
+459,medical research organisations,Medical Research Organisations,Australia,holdout
+460,memory or cognitive products,Memory or Cognitive Products,Australia,holdout
+461,men s activewear,Men's Activewear,United States,development
+462,men s athleisure wear,Men's Athleisure Wear,United States,development
+463,men s clothing,Men's Clothing,United States,development
+464,men s formal footwear dress shoes,Men's Formal Footwear/Dress Shoes,Australia,development
+465,men s online health providers,Men's Online Health Providers,Australia,development
+466,men s performance wear,Men's Performance Wear,United States,development
+467,men s personal care products,Men's Personal Care Products (Male Only),United States,development
+468,mental health services,Mental Health Services,Australia,development
+469,mental performance supplements,Mental Performance Supplements,Australia,development
+470,mental performance supplements,Mental Performance Supplements,New Zealand,development
+471,men s major sporting events,Men’s Major Sporting Events,New Zealand,development
+472,mid priced wine,Mid Priced Wine,New Zealand,development
+473,mid priced wine,Mid Priced Wine,United Kingdom,development
+474,mobile gaming accessories,Mobile Gaming Accessories,United States,development
+475,mobile phone services,Mobile Phone Services,Australia,development
+476,mobile phone services,Mobile Phone Services,Australia,development
+477,mobile phone services,Mobile Phone Services,New Zealand,development
+478,mobile phone services,Mobile Phone Services,United States,development
+479,money transfer services,Money Transfer Services,New Zealand,development
+480,money transfer services,Money Transfer Services,United States,development
+481,mortgage investing,Mortgage & Investing,New Zealand,development
+482,mortgages home loans,Mortgages & Home Loans,Australia,development
+483,mortgages home loans,Mortgages & Home Loans,Australia,development
+484,mortgages home loans,Mortgages & Home Loans,Australia,development
+485,mortgages home loans,Mortgages & Home Loans,New Zealand,development
+486,mortgages home loans,Mortgages & Home Loans,United States,development
+487,mouthwash,Mouthwash,Australia,holdout
+488,movie theatres,Movie Theatres,United States,development
+489,m nuka honey,Mānuka Honey,United States,development
+490,nba sponsors,NBA Sponsors,United States,development
+491,nfl sponsors,NFL Sponsors,United States,holdout
+492,nail polish,Nail Polish,United States,development
+493,national football league nfl,National Football League (NFL),United States,holdout
+494,national sports leagues,National Sports Leagues,United States,development
+495,natural deodorant,Natural Deodorant,Australia,development
+496,natural deodorant,Natural Deodorant,United Kingdom,development
+497,natural health supplements,Natural Health Supplements,Australia,development
+498,natural health supplements,Natural Health Supplements,New Zealand,development
+499,new builds,New Builds,Australia,development
+500,new cars,New Cars,Australia,holdout
+501,new cars,New Cars,Australia,holdout
+502,new cars,New Cars,New Zealand,holdout
+503,new cars,New Cars,United States,holdout
+504,new electric cars,New Electric Cars,New Zealand,development
+505,new utes suvs,New Utes/SUVs,Australia,development
+506,new utes suvs,New Utes/SUVs,New Zealand,development
+507,new york news,New York News,Australia,development
+508,news or media sources,News or Media Sources,Australia,development
+509,news or media sources,News or Media Sources,New Zealand,development
+510,nicotine products,Nicotine Products,United Kingdom,development
+511,non dairy milk,Non-Dairy Milk,Australia,development
+512,non dairy milk,Non-Dairy Milk,New Zealand,development
+513,nutrition fitness services,Nutrition & Fitness Services,Australia,development
+514,nutrition fitness services,Nutrition & Fitness Services,Canada,development
+515,nutrition fitness services,Nutrition & Fitness Services,United Kingdom,development
+516,nutrition fitness services,Nutrition & Fitness Services,United States,development
+517,office stationery supplies retailer,Office & Stationery Supplies Retailer,Australia,development
+518,online alcohol retailers,Online Alcohol Retailers,Australia,development
+519,online betting services,Online Betting Services,Australia,holdout
+520,online betting services,Online Betting Services,United Kingdom,holdout
+521,online car marketplace,Online Car Marketplace,Australia,development
+522,online car marketplace,Online Car Marketplace,Canada,development
+523,online car marketplace,Online Car Marketplace,United Kingdom,development
+524,online car marketplace,Online Car Marketplace,United States,development
+525,online casinos,Online Casinos,United States,development
+526,online female fashion,Online Female Fashion,Australia,development
+527,online food delivery,Online Food Delivery,Australia,development
+528,online food delivery,Online Food Delivery,United Kingdom,development
+529,online food delivery,Online Food Delivery,United States,development
+530,online gambling,Online Gambling,Australia,development
+531,online gambling,Online Gambling,United States,development
+532,online grocery delivery,Online Grocery Delivery,Australia,development
+533,online grocery delivery,Online Grocery Delivery,New Zealand,development
+534,online health services,Online Health Services,United States,development
+535,online healthcare,Online Healthcare,Australia,development
+536,online learning platforms,Online Learning Platforms,United States,development
+537,online market places,Online Market Places,Australia,development
+538,online market places,Online Market Places,New Zealand,development
+539,online mental health services,Online Mental Health Services,United States,development
+540,online outlet retailer,Online Outlet Retailer,Australia,development
+541,online packaged holidays,Online Packaged Holidays,Australia,development
+542,online physical health services,Online Physical Health Services (Female Only),Australia,development
+543,online physical health services,Online Physical Health Services (Male Only),Australia,development
+544,online retailer,Online Retailer,Australia,development
+545,online retailer,Online Retailer,United Kingdom,development
+546,online retailer,Online Retailer,United States,development
+547,online travel booking,Online Travel Booking,United States,development
+548,op shops,Op-shops,Australia,development
+549,oral health care,Oral Health Care,Australia,development
+550,oral health care,Oral Health Care,United Kingdom,development
+551,outdoor apparel,Outdoor Apparel,Australia,holdout
+552,outdoor apparel,Outdoor Apparel,New Zealand,holdout
+553,outdoor pursuits apparel,Outdoor Pursuits Apparel,Australia,development
+554,outdoor pursuits apparel,Outdoor Pursuits Apparel,New Zealand,development
+555,outdoor pursuits apparel,Outdoor Pursuits Apparel,United States,development
+556,outdoor pursuits footwear,Outdoor Pursuits Footwear,New Zealand,holdout
+557,outdoor pursuits retailer,Outdoor Pursuits Retailer,Australia,development
+558,outdoor pursuits retailer,Outdoor Pursuits Retailer,United States,development
+559,outerwear,Outerwear,United States,development
+560,packaged baked goods excl bread,Packaged Baked Goods (Excl. Bread),Australia,development
+561,packaged noodles,Packaged Noodles,New Zealand,development
+562,packaged nuts,Packaged Nuts,United States,holdout
+563,packaged rice,Packaged Rice,New Zealand,development
+564,packaged snacks,Packaged Snacks,Australia,development
+565,packaged snacks,Packaged Snacks,New Zealand,development
+566,pain relief,Pain Relief,Australia,development
+567,pain relief,Pain Relief,United Kingdom,development
+568,paint coatings and wood stains retailers,"Paint, Coatings, and Wood-Stains Retailers",New Zealand,development
+569,paint coatings and wood stains,"Paint, coatings, and wood-stains",New Zealand,development
+570,pasta noodles and grains,"Pasta, noodles and grains",United States,development
+571,payroll software,Payroll Software,New Zealand,development
+572,peanut or nut butter,Peanut or Nut Butter,Australia,holdout
+573,peanut or nut butter,Peanut or Nut Butter,Australia,holdout
+574,peanut or nut butter,Peanut or Nut Butter,New Zealand,holdout
+575,performing arts,Performing Arts,United Kingdom,holdout
+576,period products,Period Products,Australia,development
+577,period products,Period Products,New Zealand,development
+578,period products,Period Products,United Kingdom,development
+579,personal banking,Personal Banking,Australia,holdout
+580,personal banking,Personal Banking,Australia,holdout
+581,personal banking,Personal Banking,New Zealand,holdout
+582,personal banking,Personal Banking,United Kingdom,holdout
+583,personal banking,Personal Banking,United States,holdout
+584,personal banking,Personal Banking,United States,holdout
+585,personal banking,Personal Banking,United States,holdout
+586,personal care products,Personal Care Products,Australia,development
+587,personal care products,Personal Care Products,United States,development
+588,personal computers,Personal Computers,Australia,development
+589,personal loans service,Personal Loans Service,Australia,development
+590,personal loans service,Personal Loans Service,New Zealand,development
+591,personal loans service,Personal Loans Service,New Zealand,development
+592,personal loans service,Personal Loans Service,United States,development
+593,personalised books,Personalised Books,United Kingdom,holdout
+594,personalised books,Personalised Books,United States,holdout
+595,personalised gifts,Personalised Gifts,United Kingdom,development
+596,personalised photo books,Personalised Photo Books,Australia,holdout
+597,personalized gifts,Personalized Gifts,United States,development
+598,pest control products,Pest Control Products,Australia,holdout
+599,pest control products,Pest Control Products,New Zealand,holdout
+600,pest control products,Pest Control Products,United States,holdout
+601,pet care,Pet Care,Australia,holdout
+602,pet care,Pet Care,New Zealand,holdout
+603,pet care,Pet Care,United States,holdout
+604,pet care retailer,Pet Care Retailer,Australia,development
+605,pet care retailer,Pet Care Retailer,New Zealand,development
+606,pet care services,Pet Care Services,Australia,development
+607,pet food,Pet Food,Australia,development
+608,pet food,Pet Food,New Zealand,development
+609,pet food,Pet Food,United States,development
+610,pet food,Pet Food,United States,development
+611,pet oral care,Pet Oral Care,United States,development
+612,pharmacy chemist retailers,Pharmacy/Chemist Retailers,Australia,development
+613,pharmacy chemist retailers,Pharmacy/Chemist Retailers,New Zealand,development
+614,physiotherapists,Physiotherapists,New Zealand,development
+615,picture art framing services,Picture & Art Framing Services,United States,development
+616,pop music artists,Pop Music Artists,Australia,development
+617,pop music artists,Pop Music Artists,United Kingdom,development
+618,pop music artists,Pop Music Artists,United States,development
+619,pre made meal delivery service,Pre-made Meal Delivery Service,Australia,development
+620,pre made burgers patties,Pre-made burgers/patties,New Zealand,development
+621,pre mixed alcoholic drinks rtds,Pre-mixed alcoholic drinks/RTDs,Australia,development
+622,pre mixed alcoholic drinks rtds,Pre-mixed alcoholic drinks/RTDs,New Zealand,development
+623,pre mixed alcoholic drinks rtds,Pre-mixed alcoholic drinks/RTDs,New Zealand,development
+624,pre mixed cocktails,Pre-mixed cocktails,Australia,holdout
+625,premium breakfast cereals,Premium Breakfast Cereals,Australia,development
+626,premium breakfast cereals,Premium Breakfast Cereals,New Zealand,development
+627,premium butter spreads,Premium Butter & Spreads,United States,development
+628,premium cookware,Premium Cookware,Australia,development
+629,premium cookware,Premium Cookware,United Kingdom,development
+630,premium cookware,Premium Cookware,United States,development
+631,premium dog food,Premium Dog Food,Australia,development
+632,premium dog food,Premium Dog Food,United States,development
+633,premium dog food,Premium Dog Food,United States,development
+634,premium dog food,Premium Dog Food,United States,development
+635,premium fast food,Premium Fast Food,United States,development
+636,premium haircare,Premium Haircare,United States,development
+637,premium hotels tasmania,Premium Hotels - Tasmania,Australia,development
+638,premium men s activewear,Premium Men's Activewear,United States,development
+639,premium men s clothing,Premium Men's Clothing (Male Only),Australia,holdout
+640,premium men s clothing,Premium Men's Clothing (Male Only),New Zealand,holdout
+641,premium men s underwear,Premium Men's Underwear,Canada,holdout
+642,premium men s underwear,Premium Men's Underwear,United States,holdout
+643,premium red meat,Premium Red Meat,United States,development
+644,premium sparkling water,Premium Sparkling Water,United States,development
+645,premium supplements both genders,Premium Supplements (Both Genders),United States,development
+646,premium supplements,Premium Supplements (Female Only),Australia,holdout
+647,premium toilet paper,Premium Toilet Paper,Australia,holdout
+648,premium wine,Premium Wine,Australia,holdout
+649,premium wine,Premium Wine,United States,holdout
+650,premium women s clothing,Premium Women's Clothing,United States,development
+651,premium haircare,Premium haircare (Female Only),Australia,development
+652,premium haircare,Premium haircare (Female Only),United States,development
+653,premium haircare,Premium haircare (Female Only),United States,development
+654,prescription eyewear,Prescription Eyewear,Australia,development
+655,property listing websites,Property Listing Websites,Australia,development
+656,property valuations estimates,Property Valuations & Estimates,New Zealand,development
+657,protein bars,Protein Bars,Canada,development
+658,protein bars,Protein Bars,United Kingdom,development
+659,protein bars,Protein Bars,United States,development
+660,rv rentals,RV Rentals,Canada,development
+661,rv rentals,RV Rentals,United States,development
+662,ready to drink protein shakes,Ready-To-Drink Protein Shakes,United Kingdom,development
+663,ready made meals,Ready-made Meals,United Kingdom,development
+664,real estate agencies,Real Estate Agencies,New Zealand,development
+665,real estate service,Real Estate Service,Australia,holdout
+666,real estate service,Real Estate Service,Australia,holdout
+667,real estate service,Real Estate Service,New Zealand,holdout
+668,real estate service,Real Estate Service,United States,holdout
+669,recruitment,Recruitment,Australia,development
+670,recruitment,Recruitment,New Zealand,development
+671,red meat,Red Meat,New Zealand,development
+672,residential construction,Residential Construction,New Zealand,development
+673,residential renovations services,Residential Renovations Services,New Zealand,development
+674,retail establishments,Retail Establishments,Australia,development
+675,reusable bottles,Reusable Bottles,Australia,holdout
+676,reusable bottles,Reusable Bottles,New Zealand,holdout
+677,reusable drinkware,Reusable Drinkware,Canada,development
+678,reusable drinkware,Reusable Drinkware,United States,development
+679,rice crackers,Rice Crackers,New Zealand,development
+680,ride share service,Ride-share service,Australia,development
+681,roadside assistance membership,Roadside Assistance Membership,United States,development
+682,roofing,Roofing,New Zealand,development
+683,rugs,Rugs,Australia,development
+684,rugs,Rugs,United States,development
+685,running gear,Running Gear,New Zealand,development
+686,rural services,Rural Services,New Zealand,holdout
+687,salmon,Salmon,New Zealand,development
+688,sandals flip flops open toed footwear,"Sandals, flip-flops & open-toed footwear",Australia,development
+689,sandals flip flops open toed footwear,"Sandals, flip-flops & open-toed footwear",United States,development
+690,savoury packaged snacks,Savoury Packaged Snacks,Australia,development
+691,savoury spreads,Savoury Spreads,Australia,development
+692,self tan,Self Tan (Female Only),Australia,development
+693,self tan,Self Tan (Female Only),Australia,development
+694,self tan,Self Tan (Female Only),United Kingdom,development
+695,self tan,Self Tan (Female Only),United States,development
+696,shares brokers and trading apps website,"Shares, brokers, and trading apps/website",Australia,development
+697,shares funds and term deposits,"Shares, funds, and term deposits",Australia,development
+698,ski fields and services,Ski fields and services,New Zealand,development
+699,skincare,Skincare,Australia,development
+700,skincare both genders,Skincare (Both Genders),United States,development
+701,skincare both genders,Skincare (Both Genders),United States,development
+702,skincare,Skincare (Female Only),Australia,development
+703,skincare,Skincare (Female Only),Australia,development
+704,skincare,Skincare (Female Only),Australia,development
+705,skincare,Skincare (Female Only),Australia,development
+706,skincare,Skincare (Female Only),New Zealand,development
+707,skincare,Skincare (Female Only),United Kingdom,development
+708,skincare,Skincare (Female Only),United States,development
+709,smart watches and wearables,Smart watches and wearables,United States,holdout
+710,smoothies and juices,Smoothies and Juices,United Kingdom,holdout
+711,snackbars and other packaged snacks,Snackbars and other packaged snacks,United States,holdout
+712,social media platforms,Social Media Platforms,Australia,development
+713,social media platforms,Social Media Platforms,United Kingdom,development
+714,social media platforms,Social Media Platforms,United States,development
+715,socks,Socks,United Kingdom,development
+716,socks,Socks,United States,development
+717,soft drinks,Soft drinks,Australia,development
+718,soft drinks,Soft drinks,United Kingdom,development
+719,soft drinks,Soft drinks,United States,development
+720,solar energy services,Solar Energy Services,New Zealand,development
+721,solar power,Solar Power,New Zealand,holdout
+722,soups and broths,Soups and broths,United States,development
+723,speciality cheese,Speciality Cheese,New Zealand,development
+724,specialty produce,Specialty Produce,United States,development
+725,specialty supermarkets,Specialty Supermarkets,United States,development
+726,specialty fruit,Specialty fruit,United States,development
+727,sports goods retailer,Sports Goods Retailer,Canada,holdout
+728,sports merchandise,Sports Merchandise,Australia,development
+729,sports merchandise,Sports Merchandise,United States,development
+730,sports nutrition,Sports Nutrition,Australia,holdout
+731,sports supplements,Sports Supplements,United States,development
+732,sports and nutrition products,Sports and Nutrition Products,New Zealand,development
+733,sports beverages and powders,Sports beverages and powders,Australia,development
+734,sports beverages and powders,Sports beverages and powders,New Zealand,development
+735,sports beverages and powders,Sports beverages and powders,United States,development
+736,sportswear,Sportswear,Australia,development
+737,sportswear,Sportswear,New Zealand,development
+738,sportswear,Sportswear,New Zealand,development
+739,sportswear,Sportswear,United States,development
+740,storage services,Storage Services,Australia,development
+741,streaming services,Streaming Services,Australia,development
+742,streaming services,Streaming Services,New Zealand,development
+743,streaming services,Streaming Services,United Kingdom,development
+744,streaming services,Streaming Services,United States,development
+745,streetwear,Streetwear,Australia,development
+746,streetwear,Streetwear,United States,development
+747,streetwear brands retailers,Streetwear (Brands & Retailers),Australia,development
+748,sugar confectionery,Sugar confectionery,Australia,development
+749,sugar confectionery,Sugar confectionery,New Zealand,development
+750,sugar confectionery,Sugar confectionery,United States,development
+751,suncare,Suncare,Australia,development
+752,suncare,Suncare,Australia,development
+753,suncare,Suncare,United Kingdom,development
+754,suncare,Suncare,United States,development
+755,sunglasses,Sunglasses,Australia,holdout
+756,superannuation funds,Superannuation Funds,Australia,development
+757,superannuation funds,Superannuation Funds,Australia,development
+758,supermarkets,Supermarkets,New Zealand,holdout
+759,supermarkets,Supermarkets,United Kingdom,holdout
+760,supermarkets,Supermarkets,United States,holdout
+761,sweet baked goods,Sweet Baked Goods,Australia,development
+762,sweet baked goods,Sweet Baked Goods,Australia,development
+763,swimming pools,Swimming Pools,New Zealand,holdout
+764,swimwear,Swimwear,Australia,development
+765,takeaway food delivery,Takeaway Food Delivery,New Zealand,development
+766,teeth whitening,Teeth Whitening,Australia,holdout
+767,temporary tattoos,Temporary Tattoos,Australia,holdout
+768,theatre ticket platforms london,Theatre Ticket Platforms - London,United Kingdom,holdout
+769,theatre ticket platforms new york,Theatre Ticket Platforms - New York,United States,development
+770,therapy services,Therapy Services,United States,holdout
+771,tile retailers,Tile Retailers,Australia,development
+772,timber fencing or outdoor solutions,"Timber, fencing or outdoor solutions",New Zealand,development
+773,tortilla wraps,Tortilla wraps,New Zealand,development
+774,trade safety footwear,Trade & Safety Footwear,Australia,development
+775,travel booking,Travel Booking,United Kingdom,development
+776,travel insurance,Travel Insurance,Australia,development
+777,tyre services,Tyre Services,New Zealand,holdout
+778,uk news,UK News,Australia,development
+779,underwear lingerie,Underwear & Lingerie,Australia,development
+780,underwear socks and basics,"Underwear, socks, and basics",Australia,development
+781,underwear socks and basics,"Underwear, socks, and basics",United States,development
+782,utilities,Utilities,United Kingdom,development
+783,vaping,Vaping,New Zealand,development
+784,vegetarian vegan products,Vegetarian & Vegan Products,New Zealand,development
+785,virtual assistants,Virtual Assistants,Australia,holdout
+786,virtual assistants,Virtual Assistants,United States,holdout
+787,virtual reality fitness,Virtual Reality Fitness,United States,development
+788,vision support,Vision Support,New Zealand,development
+789,vitamins and dietary supplements,Vitamins and Dietary Supplements,Australia,development
+790,vitamins and dietary supplements,Vitamins and Dietary Supplements,Australia,development
+791,vitamins and dietary supplements,Vitamins and Dietary Supplements,Australia,development
+792,vitamins and dietary supplements,Vitamins and Dietary Supplements,New Zealand,development
+793,vitamins and dietary supplements,Vitamins and Dietary Supplements,New Zealand,development
+794,vitamins and dietary supplements,Vitamins and Dietary Supplements,United Kingdom,development
+795,vitamins and dietary supplements,Vitamins and Dietary Supplements,United States,development
+796,vitamins and dietary supplements,Vitamins and Dietary Supplements,United States,development
+797,vocational training,Vocational Training,Australia,development
+798,vocational training,Vocational Training,Australia,development
+799,vodka,Vodka,United Kingdom,development
+800,water sports equipment accessories,Water Sports Equipment & Accessories,United Kingdom,development
+801,water toys,Water Toys,United States,development
+802,water toys and pools,Water Toys and Pools,United Kingdom,development
+803,wealth management,Wealth Management,Australia,development
+804,wealth management,Wealth Management,New Zealand,development
+805,wealth management service,Wealth Management Service,United States,development
+806,weight loss,Weight-loss,Australia,development
+807,weight loss,Weight-loss,New Zealand,development
+808,weight loss both genders,Weight-loss (Both Genders),Australia,development
+809,weight loss both genders,Weight-loss (Both Genders),United Kingdom,development
+810,weight loss,Weight-loss (Female Only),United Kingdom,development
+811,weight loss drugs,Weight-loss drugs,United States,holdout
+812,whisky bourbon,Whisky/Bourbon,New Zealand,development
+813,whisky bourbon,Whisky/Bourbon,New Zealand,development
+814,whisky bourbon,Whisky/Bourbon,United Kingdom,development
+815,whisky bourbon,Whisky/Bourbon,United States,development
+816,whisky bourbon,Whisky/Bourbon,United States,development
+817,wine,Wine,Australia,development
+818,wine,Wine,New Zealand,development
+819,wine,Wine,United Kingdom,development
+820,wine,Wine,United States,development
+821,wine,Wine,United States,development
+822,women s activewear,Women's Activewear (Female Only),Australia,holdout
+823,women s shoes,Women's Shoes,United States,development
+824,womens clothing,Womens Clothing,New Zealand,development
+825,women s clothing,Women’s Clothing (Female Only),United Kingdom,development
+826,women s major sporting events,Women’s Major Sporting Events,New Zealand,development
+827,workplace education,Workplace Education,New Zealand,development
+828,yoghurt,Yoghurt,Australia,development
+829,yoghurt,Yoghurt,New Zealand,development
+830,yoghurt,Yoghurt,New Zealand,development
+831,yoghurt,Yoghurt,United Kingdom,development
+832,yoghurt,Yoghurt,United States,development

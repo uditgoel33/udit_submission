@@ -1,0 +1,1317 @@
+embedding_text_id,embedding_text
+d572479322108ec4cc0d451ef4b94678e7c4f3d95af66fd204b5ada76068ca34,"Question: a sole trader? (by sole trader we mean someone who uses a personal business to earn all or part of their income, whether that be as a freelancer, contractor, consultant, or a self-employed worker.)
+Qualifying answers: No, but a close family member is a sole trader | No, but a close friend is a sole trader | No, but my partner is a sole trader"
+185797721cba6fc82af646cdf811a15b2cb6e07c2bca86f1ff16097c8114daef,"Question: purchased any acne treatments or preventative products? (this includes cleansers, moisturisers, patches, etc.)
+Timeframe: past 3 months"
+19051e13e8b6b76c1fcb263755fd62f5f127cbeefa19dc619acc769ddcb33f59,"Question: purchased activewear
+Timeframe: past 12 months"
+c0bd66082a056c903fa6d99920da95b0bfe9e66328b004fb8583e3fe5de7cbfe,"Question: built a new structure on your property? (this could include a garage, cartport, patio, sheds, external office, etc.)
+Timeframe: past 5 years"
+f51c3ba70c5dc18ca675ae9464c05b9db925a24a7d0ea1539344fc76c296d4c9,"Question: booked an adventure holiday? (by adventure holiday we mean an organised, packaged trip which includes adventure sport like climbing, white-water rafting, hiking, cycling, this could be domestic or international travel)
+Timeframe: past 12 months"
+2e65b84a712ce4a00079b3e6ba0dbf1729974149e98a0265569f7fc63d60b0ed,"Question: paid for adventure sport activities or amusements? (this could include climbing, zip-lining, surfing, skydiving, etc.)
+Timeframe: past 12 months"
+f18205b0eb459fb2f136223701003c444e9f3dc300b329a0a546a88684a1d4d6,"Question: purchased an air conditioner for your home
+Timeframe: past 2 years"
+3e753b1c95f5e1586b7574e43943173695691d62bbe864c143aa3b12e1e5e2db,"Question: purchased air fresheners or home fragrance products
+Timeframe: past 3 months"
+8e2e4c7eb6748a12ecb2d0187bd5b743567af1bc8af48af0462e2f4f97f0f2de,"Question: booked a flight
+Timeframe: past 12 months"
+70ba406e3610dfd87c37c3b5ed26c82b05338b727c966da87ac3d7b7864b3ef1,"Question: been in a situation where beer is normally consumed and...
+Timeframe: past 3 months
+Qualifying answers: Consumed a low alcohol or alcohol free drink instead of beer | Thought about consuming a low alcohol or alcohol free drink instead of beer"
+e87ef7c988e5cfdab1784ecf039e71d5ecd51ea56de6b7f127a27bdd89433454,"Question: purchased non-alcoholic beer
+Timeframe: past 3 months"
+72e2583bb6b91838fa78de373f48e339018c45a4685e40249dfb579973d0fb19,"Question: purchased allergy relief products
+Timeframe: past 12 months"
+b9a6f23b1738c2c6dae81fd8469a6c4a0d1b86120849a8c547a09cc1763abd2d,"Question: paid for amusement activities? (this could include amusement parks, mini golf, bowling, carnivals, the cinema, arcade centres, etc.)
+Timeframe: past 12 months"
+2642da5f1bfa8cdd9b8ce8b5ccea82a8920f7c23bdb5e0773c949a588754fb2e,"Question: purchased antacid products? (these are products which provide relief rom acid reflux or heartburn)
+Timeframe: past 3 months"
+a854fbbe5acbee72d57e41fb0880eb1b707c16cc73e3c9cfff56fdc5d9ba6124,"Question: paid for appearance services? (by appearance services we mean skincare, skin treatments, acne treatment, laser hair removal, injectables)
+Timeframe: past 2 years"
+0ed21385f08a0f384f9c4afa3f0b404e6c6a822bed6802748a323f9b25edafd0,Qualifying answers: I do some or all of the household grocery shopping and I've bought apples in the last month
+12cf66434f9bf377b39cadd16b05f8fb518238dab85724f481dea6dd54693d38,"Question: purchased an artwork
+Timeframe: past 2 years"
+87c8014865f275c4392910bfbee7f55c51c666b0bcfe4227a8f6835df22d1e1c,"Question: purchased packaged or pre-made asian foods or condiments? (this includes sauces, pastes, frozen foods, snacks, and also includes imported products)
+Timeframe: past 3 months"
+39ca573916243b8d45c6ea66680b07799b5e489ece62469a42b2cb9008b82186,Question: Would you consider taking a tablet at home to treat COVID-19 if you tested positive
+ae091933e57e399f3ef09431b79c389b2a20f755396bda67d67234998d42bca0,"Question: paid for at-home fitness products or services? (by this we mean online classes, coaching and/or at-home fitness equipment)
+Timeframe: past 12 months"
+984e1ab2589835b4922217c7113db9ea751ccf9bd04b5247dc691c54eb17f7fb,"Question: purchased an at-home health monitoring device? (this can include blood glucose monitors, blood testing kits, wearable health monitors, etc.)
+Timeframe: past 2 years"
+5f466a9a1f282602ebf0f110f29bd68e170e964fe5644271e073cfda6fe366b8,"Question: visited a major attraction within Australia? (by major attraction we mean an iconic building, heritage site, national museum/art gallery, tourist experience, etc.)
+Timeframe: past 12 months"
+bbe1b60df48576eb963a82cc07e871e57252170f4a30b0a6d1c11b1cd6f77455,"Question: visited an Auckland mall
+Timeframe: past 12 months"
+b05846d6502602bb3a34e0934e81972e55d0e74f8e91ef31f5e83fc433c45692,"Question: streamed or downloaded audio content? (by audio content we mean, music, radio, audiobooks, podcasts)
+Timeframe: past 12 months"
+6e81f83303625cfe5f44d1ca92944ce97a7a9267ba8c71e5c58eee50e464e723,"Question: read, listened to or watched any Australian news or journalism content
+Timeframe: past 12 months"
+194b6f1591cc9908812bfa6ca3e6d1ac41cfb58f4fbfe250311728896de45b63,"Question: used an vehicle glass repair and replacement service? (this includes windshield and window glass)
+Timeframe: past 12 months"
+c594b2b0697bfc00cf1235f19f363764e942d77fb427f91d1bb2f24561d7fbb3,"Question: bought automotive care products? (This includes cleaning, maintainence, paint, polishes, fragrance, and other products tailored for use in your vehicle)
+Timeframe: past 12 months"
+6edd7f3cee351a7d2ee1afd00f7a667bea033c2b87d7bdd43ee127284c088ec7,"Question: purchased from a baby or child products retailer? (by baby or child products retailer we mean retailers that sell clothing, toys, gear, furniture, etc., designed for babies or children)
+Timeframe: past 12 months"
+b5c2551712118b542999d1c334257c571aff87f7fcee03672bc14301d81f55ce,"Question: purchased baby or toddler food? (by baby and toddler food we mean foods specifically made for children 3 years old or under)
+Timeframe: past 3 months"
+b2034d36aa49371c088a8861a196899dd2bef0b323e86f2022683e219e0240d3,"Question: purchased baby or child apparel? (by this we mean clothing, accessories, and footwear designed for babies and children)
+Timeframe: past 12 months"
+e96156e2b374529e0d9a364dc416f8eeb1603536517658a0701ea6aded1e6244,"Question: Please select which of the following statements applies to you
+Qualifying answers: I am a parent with a baby or child (under 5 years-old) | I am likely to buy a gift for a baby or toddler in the next 6 months | I am pregnant/my partner is pregnant and expecting a baby | I intend to start a family in the next 2 years"
+30c52245d4168de99e7b5facb19a9b78fb033e14668c0aa59e0962677e2770bd,"Question: purchased baby products? (This includes car seats, strollers, cots, and other baby and child equipment and furniture)
+Timeframe: past 12 months"
+ecc3be6eacbe36bd660ea8622fcc44886d138e4f1ee556671a21db21f39a9ffe,"Question: purchased a handbag or purse
+Timeframe: past 2 years"
+7cf199ee21a7f965ff46f1677c9de8d823d963ab64db9a46a4a863ba1cf65421,"Question: purchased food or drink from a bakery
+Timeframe: past 12 months"
+9cc983331b02a76aafc18f2724f77033a23ef79d1e7e2c81c2a96eac544ed281,Qualifying answers: I do some or all of the grocery shopping and I have purchased bagels in the past 2 months | I do some or all of the grocery shopping and I have purchased crumpets or muffin splits from the supermarket in the last 2 months | I do some or all of the household grocery shopping and I have purchased bread or bakery items from the supermarket in the last 2 months
+a03a9babd257fd9fb3ba1582ec10669e5bbfac53e489331047e5ec0204c4549d,"Question: purchased baking ingredients? (This includes flour, sugar, baking soda and powder, etc.)
+Timeframe: past 3 months"
+7fbb3deca84253ce5959e903b70afe85163684a9f18970eff47d4e0003678844,"Question: purchased baking ingredients
+Timeframe: past 3 months"
+931a794aac2f71fa23b1be361b203a71b5136c5cc609a7deb50b28c8ec7db907,"Question: purchased bananas
+Timeframe: past 3 months"
+8a6310d5a66db9a5ea32de706049a1cda680ecdc6092a4b2a9dd2f518cbe2282,"Question: purchased bathroom fixtures, furniture, or accessories? (this can include toilets, showers, vanities, shelves, caddies, baths and basins, etc.)
+Timeframe: past 2 years"
+290d916dd280b220c24ee30627b21324593b3e87e3b024411f648d210ca58401,"Question: used a bathroom repair service? (this includes plumbing or leaking repairs, fixture replacements etc)
+Timeframe: past 12 months"
+11b67fce86c6cb9b7f562a475939d0b09f087d3f559399259ba23d1677df2a72,"Question: purchased bathroom fixtures, furniture, or accessories? (this can include toilets, showers, vanities, shelves, caddies, etc.)
+Timeframe: past 2 years"
+caffe614074fdfb6bf1a34530edf0df2ea22b6c69373d2c7672d56a8be2db58b,"Question: purchased batteries
+Timeframe: past 3 months"
+8d290d5eb7364d8eb4a24c5090ac733f73f9fef43389134c4bd1d6684e8dd179,"Question: purchased ‘Beauty From Within' vitamins or supplements? (by this we mean vitamins or supplements that are designed to improve hair, skin, nails, etc.)
+Timeframe: past 3 months"
+6a60a40534db86208a4ef33bd85af54f6b3c46b54d539051d9d6bdf0e904ff43,"Question: purchased bedding or bathroom textiles? (this could include sheets, pillowcases, towels, etc.)
+Timeframe: past 12 months"
+8c3d2b3d4a7a6d79d117d2e1fd460255d6a7127b5c69f078efc4500d198bcca7,Qualifying answers: I have purchased a bed and/or mattress in the past 2 years | I intend to purchase a bed and/or mattress in the next 6 months
+89a6a7fd8e5b905a21a557e4a79872566e40138bf19dcd454dea5c3959b4a5a5,"Question: purchased bedding? (This includes sheets, pillow cases, covers, duvets)
+Timeframe: past 3 years"
+ca44853bc2a1474173aec5e263186fbe84f681f18a711bdf65bb798e2c0457ee,"Question: purchased a bed or mattress
+Timeframe: past 2 years"
+a6bf256bea0d4f3ab5262c16c3df49305c49d81e9b954e3d3b475432717a653e,"Question: purchased beer
+Timeframe: past 3 months"
+cb85714567c9a48f3194c5ec78b6afa347ab28d993489eade931f59f7c4038f2,"Question: bought mens big or tall clothing? (by big and tall clothing we mean clothes made for larger or taller than average men that typical clothing does not fit)
+Timeframe: past 6 months"
+3164abdbfb5427f6a12f77b4e14b028101dc516dac4c7fd7b5bfa38659e22135,"Question: purchased biscuits
+Timeframe: past 3 months"
+cd959b074eb95410870e6c259759376b4b91502c379b350de2298b79e77c90ec,Question: own a house or rental property
+8604d7beda7df495513146e934dbd2fecd73febb898194aa58a69b2fbccfb27a,"Question: purchased body wash, lotion or soap products
+Timeframe: past 3 months"
+bee55d4a55e9a326e429cdbc40fbc4b1122f7b58efbe0b0b808b14447259df67,"Question: purchased sealants, adhesives, gap fillers or foams for construction or building purposes
+Timeframe: past 12 months"
+4f00fad8fd54de5d9b58879b9ad8278f3c018dbe44182bb57e25ce4f835a1a00,"Question: purchased sealants, adhesives, gap fillers or foams for DIY or building construction purposes
+Timeframe: past 12 months"
+aabdc0f62fead5b4b35f1ac65c032e4395a753741c7c88f28ed346d63cfcf37d,"Question: bought a book? (this could be online or in-store)
+Timeframe: past 12 months"
+b8fda79925caf29a40aff6fc5cf06530881006992bfa712c689f9462eca38606,Question: currently work at a business that provides appointment-based services? (by this we mean customers can schedule an appointment in advance to receive the service)
+385cc04b7952d23bf166b0f0525d0d63d758f18a16d45e717008b320143bdf18,"Question: work in positions or professions
+Qualifying answers: Brand management | C-Suite or decision maker for a consumer brand | Marketing"
+5bb24c81db99319d3d7c366e0fa02feab4edc34936819cb7cb1753f5112c641b,"Question: purchased breakfast foods? (by breakfast foods we mean porridge, granola and cereal)
+Timeframe: past 3 months"
+dcc57ce181ef62cdc4594cb5a5f453cf47e175e8e84e06f8533c6ef6d53587c9,"Question: purchased and eaten breakfast cereals
+Timeframe: past month
+Qualifying answers: Cornflakes | Muesli | Oats | Other breakfast cereals | Wheat biscuits"
+0790716ea2f8cbe570da70bcae9637bd060bda6b0535c01221ed823dc6220f81,"Question: purchased butter
+Timeframe: past 3 months"
+37a80301bafe6ec32799a96c640d44553412e77b71eaf4061e68afddab7a7bcd,"Question: purchased butter, margarine or oil-based spreads
+Timeframe: past 3 months"
+74ba5c8faa48e162e1411544bcce675a61b111bd9b31ac7252d27bdcdafb18dd,"Question: purchased, or thought about purchasing, home appliances/white goods, furniture or tech/electronics (e.g. TV, smartphone, computer) and...
+Timeframe: past 12 months
+Qualifying answers: Spread payments over time, used a buy now pay later service or purchased on a rent-to-own plan | Thought about spreading payments over time, using a buy now pay later service or purchasing on a rent-to-own plan"
+b158420bc83f167ad88cb6f03276c1486f00a50e9037de407168630eddffd0ff,"Question: used a Buy Now, Pay Later (BNPL) service? (by Buy Now Pay Later services we mean payment options that allow you to purchase goods/services immediately, but payment is broken down into smaller installments over time)
+Timeframe: past 12 months"
+885ef6f523e5f0da6b2fcadf94a09d070b6f03a569d80f2284e9a2137f6bfa16,"Question: purchased a hot drink in a cafe with non-dairy milk
+Timeframe: past 3 months"
+fbaed59ffcef942b52a2edd963638e7c16289522cccd9e72aa25ca0582337734,"Question: visited a café
+Timeframe: past 12 months"
+91c50615d4d6ddfc0eee8aa80d2d7fd77bb4dfd9d8488103da29f47c5edaaf99,"Question: would you normally visit a cafe
+Timeframe: a typical month"
+d0edd85dd5e68886c8a4a4198b2878d00400e00447a271ed859b1b553055e7d7,Qualifying answers: I have been camping in the past 12 months | I have purchased camping equipment in the past 2 years | I intend to go camping the next 12 months | I intend to purchase camping equipment
+8d867c9ebfc9c8fb9889ed839b6cf8e34704322b7f085d0ad8ca7cf2f837ce2f,"Question: purchased canned soup
+Timeframe: past 3 months"
+eb512e8cf28579d0c95bb6c14683123c5b60307efb7dc35a30ceee364c7a3db6,"Question: purchased canned tuna
+Timeframe: past 3 months"
+784e091d8eef712cb42cfeca30b3bebbf77d8f50a10121e9c7af2e277d4d8232,"Question: purchased a cap? (this includes baseball caps, bucket hats, snapbacks, etc.)
+Timeframe: past 12 months"
+3f1f787a3153e25fbfa8d213c245c862e9314bc4b297ade080f37693ecf0dc0a,Qualifying answers: I have booked a rental car for future travel | I have booked a rental motorhome for future travel | I have hired a rental car in the last year | I have hired a rental motorhome in the last year
+ef8f1c2388cfa94cdb048e1dec0932f2357150e8c4b8858d935fe0ce2eaf9b56,"Question: purchased a brand new car from a dealership? (by dealership we mean a car retail group that represents different car brands)
+Timeframe: past 3 years"
+1f91dcd32c93b5ef20e592831ef2a8d2aab255e9eadb6a970e61dd99972e9629,"Timeframe: past 12 months
+Qualifying answers: Considered purchasing a car using a car loan or finance | Purchased a car using a car loan or finance"
+e992940f9e9fae13f4538c84e8c8816589819059f354f785ab8b02bb238bdf19,"Question: purchased or paid into a car insurance policy
+Timeframe: past 12 months"
+244f2a969f828b79db56cb803e4ac228625782e9a886a49582b990e5189f2354,"Question: visited a car listings website
+Timeframe: past 12 months"
+1aed2c8db45b6b475821f859773239c54e4f18aa7263670917c5bf7358df37cb,"Question: purchased or made a significant modification to your car? (by a significant modification we mean major mechanical or cosmetic changes, but not changes such as battery replacement and touching up scratches)
+Timeframe: past 5 years"
+93c7b75c481b94cddc6d38bb4382ba05f2053a3092bb0ddbc853d670fb07db71,"Question: purchased a modification for your car? (by a significant modification we mean major mechanical or cosmetic changes, but not changes such as battery replacement and touching up scratches)
+Timeframe: past 5 years"
+4a106405104104d9be33709434597f4412859a889f9286b180b5b23c1c76839a,Qualifying answers: I have booked a rental car for future travel | I have hired a rental car in the last year
+294f9514064b48febcab6d09391b46daf1a406d3f75b4c1221790b21e19b3d0a,"Question: paid into a car subscription (not incl. leasing, financing or rentals)? (by car subscription we mean a service where you typically pay a monthly fee to use a car, including insurance and maintenance, with the option to swap it out for different/newer versions over time)
+Timeframe: past 12 months"
+9ec3fa4f2db1b8d65532afdcc445882819db2f390fea82cecc4c333515a0e6a5,"Question: purchased car sunshades or window shades? (This includes products designed to protect car interiors from sunlight and heat, such as foldable sunshades and window shades.)
+Timeframe: past 12 months"
+4f5633f0b117ea0b4143ca9d98f96a992367a073809ec67c4420cbbdcb791ca7,"Question: rented a caravan, campervan or motorhome? (by these we mean recreational motor vehicles or trailers that can include living spaces)
+Timeframe: past 12 months"
+aca3e56e5a0f1046b7545f099ef5ccafb008efa559f19de484dcb1b7cd96e890,"Question: purchased carpet
+Timeframe: past 5 years"
+45774aa00a143a154716d33591c1b43d0e063f40dc796913e5419568cf1f5567,"Question: used a cashback platform or service? (by cashback we mean a provider or service that allows you to earn money back on in-store or online purchases)
+Timeframe: past 12 months"
+e81030d268b5fd413b188e1042e19ec88eeb79cc92aa6e4b8ff803927d26e859,"Question: purchased casual footwear or sneakers
+Timeframe: past 12 months"
+61cf5ccc47c5abe430858d9dc2bd4f14c05a9790c1c07598087794fae1d0e8a5,"Question: purchased cat food? (This includes both dry, wet cat food and treats)
+Timeframe: past 3 months"
+8e3ee485811eb4e7f29ee02211219f0e1e3063e875307b1c78b08427fb3e4fbb,"Question: purchased cat treats
+Timeframe: past 3 months"
+8ba4ddd07536cfe9fa919abbac3d28882e2c2c429205502169cdd0ea8af3b082,"Question: donated to a charity
+Timeframe: past 12 months"
+c1ca89bdcc8e988876a6585253296c6a56a646c9a4c369cd79fa0fc9629f2689,"Question: donated to a charity
+Timeframe: past 12 months
+Qualifying answers: I have donated to a charity whose main purpose was to benefit others | I have donated to charity that benefited me or my family (e.g., club)"
+a7c3a18c774206f11c1f36fcc35564280940fd90d69dd7c50fdc7b2fde6f1b2b,"Question: donated to or engaged with a charity? (engagement can include using helplines, websites, apps, etc., for support, education, or other services)
+Timeframe: past 12 months"
+5be7fbca41fb154092c77edde04bcc5b533a67c4652e333a67013f35db28a2b5,"Question: purchased a charity lottery or Art Union ticket? (Art Unions can only be conducted to raise funds for non-profit organisations such as charities, sporting clubs, etc., where the winners are chosen through a ticket draw)
+Timeframe: past 12 months"
+51922dc8705051fd97ec49b84408ddde81594d0dac6ff91b66cc99ef2ae4ffbd,Qualifying answers: I do some or all of the household grocery shopping and I've bought fresh or frozen chicken in the last month
+7612770e39b45abd7e0292b3215c59e2336bf8a26dec8ff5862cf3d2265b152d,"Question: purchased branded merchandise (toys, clothes, books, games etc) aimed at children aged 7 and under
+Timeframe: past 12 months
+Qualifying answers: No, but open to or likely to in the near future"
+7a3ec6e135f842fc1082bc2c09a47b5d345cab0ef5b92a9758e392246afcbad4,"Question: have watched or allowed children to watch children's television
+Timeframe: past 12 months"
+79a30d49cbfb86a1cab57281af82dc639282bc67a5e27fc9d8c00d66aab98ebe,"Question: purchased from a childrens toys or puzzles retailer
+Timeframe: past 12 months"
+4834b4572016213de9bcaced738cc350a6a36da346fed468c1a805d5a5d364f5,"Question: bought childrens toys or puzzles
+Timeframe: past 12 months"
+e5d2ac817383772b335e6a9b19a631486ff9db85a46d0a4687d59c108c4d81d3,"Question: donated to a children's charity? (by this we mean charities focused on supporting children and their families.)
+Timeframe: past 12 months"
+a6bc0487a405f238be99249a8dd099c82a61d8924b9b2090253126484b709fdd,"Question: purchased chilled desserts? (this can include puddings, mousses, yoghurt, and other packaged chilled treats)
+Timeframe: past 3 months"
+8a47fef933465839a9002816c42902c07dabf2c5abfa2ed19e45cb5a445455ff,"Question: purchased chilled fruit juice? (by chilled fruit juice we mean juice purchased in the chilled section, rather than long life, shelf-stable juice)
+Timeframe: past 3 months"
+e656c86c06e2a765dc9187731277c77b96b80480857c3e82db06745e1e5120c3,"Question: purchased ready-to-eat cheese/meat snacks? (this can include cheese and crackers, meat and crackers, meat and cheese snacks, etc.)
+Timeframe: past 3 months"
+184044e61728657a34262f007ae32d1254071ed901cbcd679a5a97dd627653d6,"Question: purchased...
+Timeframe: past three months
+Qualifying answers: Baking Chocolate | Chocolate | Hot Chocolate / Drinking Chocolate"
+f6c0db6906d28f46746556650e64c93517f1e9cd067809ac5208ddb1f92328c2,"Question: purchased chocolate biscuits
+Timeframe: past 3 months"
+066a1c244d61eb229e8b210dd212b6ad39575c90b906557d70a112feadd9153b,"Question: purchased a block of chocolate
+Timeframe: past 3 months"
+6be3e847045c226b3fc09fcf52ef84ae8b3c84f0edf386aca41168995cc11c27,"Question: purchased a bar of chocolate
+Timeframe: past 3 months"
+7b35d452fbf43bacd270694961308367ee6aa81b737236706b1860e040429d82,"Question: bought clothing? (This includes clothing for men, women and children)
+Timeframe: past 12 months"
+1c38bbee95c551e9997f9d34962ef3ae3fbd5d6a886d7f79b4c93bbffde7a625,"Question: bought coffee products, or purchased a coffee in a café or restaurant
+Timeframe: past 3 months"
+6eaabfe314aaf1cf2255710cfd001fa565e770ed346ed858cb8cfd4da6239e53,"Question: purchased a coffee alternative? (Note by coffee alternative, we mean a powder or beverage designed to replace a coffee, typically with a health benefit or function)
+Timeframe: past 12 months"
+cf7be488411c61258d46aad2986a85a0626f861358d66772ef5e65b5700f1217,"Question: purchased a coffee machine
+Timeframe: past 12 months"
+9d3a2deb8b8e8c49ee751d6c24836321cb99d268352eece41eb3ca118fb20b76,"Question: purchased cold or flu relief products? (this could include cough medicine, throat lozenges, decongestants etc.)
+Timeframe: past 3 months"
+dfdc4bd5a706cdb6845e9d9ce54d8134b10cfa506d9c946cbffd186b12694342,"Question: invested in a commercial or residential property
+Timeframe: past 3 years"
+fa67debcb62a6ee632e1a8129690a8c3ade025b8f79ef5f94aba6f641638a169,"Question: used a computer repair service? (by this we mean services such as diagnosing and fixing hardware, software, or physical issues with your computer)
+Timeframe: past 12 months"
+872eecdfe500515dfaa2ff48a354c9d34f1af4a211fea691d3386413b9ec9a83,"Question: purchased construction or building hardware? (by construction or building hardware we mean screws, fasteners, bolts, rivets, nails, brackets, etc.)
+Timeframe: past 12 months"
+a3ea245e278d41e07d33036b1e1811d37b3dcfbcee60f656d56ae48c5090d469,"Question: used coupons, discounts or vouchers
+Timeframe: past 12 months"
+22b22ca49a060e9461dec960666fbe4c3ea88ceeb7680cf44b9eb4f142deef8e,"Question: purchased craft beer
+Timeframe: past 3 months"
+ff02ee5eb6339054e27cf9cf3bcfe9602f23b1c565c78ff714917baa72b20e2a,"Question: purchased cream cheese
+Timeframe: past 3 months"
+9513aec3a375c38593c53b99403ebaf060bb04da5058b9300a8ad777e165d2f3,"Question: used a creative software platform? (by this we mean software to edit photos, create designs, documents, illustrations, videos, animations and 3D designs etc.)
+Timeframe: past 12 months"
+8a783c2e01086f2a4a60f6bc2c5d2f087983da40488c5e44af36416703431e55,"Question: used a credit building app or service? (by this we mean a service designed to help individuals establish or improve their credit history)
+Timeframe: past 12 months"
+e7a36e8b6487ecfe538300b88cabe9044514cb23426e8dca13eb2fb24a53a9c8,"Question: used a credit card
+Timeframe: past 12 months"
+c87a47054b2153850f27cf0a3f10596ca8f26ed02f41cc43e9206d22affcb772,"Question: requested a credit check
+Timeframe: past 12 months"
+7dea2d4d4f9225152982f093f1005038a506d76a032f9352a30e2a25278a5f1a,"Question: purchased crumbs, coatings or sauces? (this can include batters, crumbs, seasonings, spice blends, recipe bases, simmer or cooking sauces, etc. used in food preparation and cooking)
+Timeframe: past 3 months"
+0ff00cb1b3c34d9e60b552f25e6a881a97bdae7a9261c65fcc4cccf0ce19ef8b,"Question: used a currency exchange service
+Timeframe: past 12 months"
+c778767da736cf66bba91e02f1552d56a018d2b4af5d2a20858af7d8e428299d,"Question: purchased personalised/custom printed products? (this includes personalised holiday cards, home decor, t-shirts, wall calendars etc.)
+Timeframe: past 12 months"
+c934b8eacef3a82f6566f92f4d33dbfea73c40d5e65edb0290c70f92a51b555e,"Question: purchased personalized/custom printed products? (this includes personalized holiday cards, home decor, t-shirts, wall calendars etc.)
+Timeframe: past 12 months"
+a8c0316ce8783ec11e679a78a476946b0f4e78ebbe12cd1dc1bbdad1af8f8142,"Question: bought DIY tools
+Timeframe: past 12 months"
+a4e2ddfe1249d2de124ead65ed16dbedbfa04cc9fa45f39b10acee0d94958fc7,"Question: purchased dairy or meat alternatives? (by dairy alternatives we mean milk, cheese, yogurt and similar not made from the milk of animals, and for meat alternatives we mean products simulating meat, these could be classed as vegetarian, vegan or plant-based)
+Timeframe: past 3 months"
+f4136ef0b3d96f4803540f50ec2186b505556f1e84d616e0a65497963e0c62ae,"Question: purchased dairy free yoghurt? (by dairy free yoghurt we mean yoghurt made from non-animal milk like coconut, soy, oat etc.)
+Timeframe: past 3 months"
+66f9850d245654c2aebcfc9e528041270a0d423ed4ad3ae87fe8ab448c5502b6,"Question: used a dating app or site
+Timeframe: past 12 months"
+2ac58b3b2f498ef1520c3e0d133197477671f25426f6311e510a503a83269459,"Question: purchased dental flossing products? (this can include dental string/tape, picks, water flossers, etc.)
+Timeframe: past 3 months"
+596129663f846a9fff5d800c5745b96b6aee8ecebf8faae2a678558cfb0ed94b,"Question: purchased deodorant, antiperspirant, or body sprays
+Timeframe: past 3 months"
+e85bfc78967ae23ec8dc19acfb4b95611b9509b11fbee95b4bf69567cafdc719,"Question: made a purchase from a department store? (by this we mean, a store where you can purchase apparel, accessories and homeware etc.)
+Timeframe: past 12 months
+Qualifying answers: No, but i'm open or likely to in the near future"
+03b7d4c8d1182a16a6fbba7bf183414654de321be6b442eaef1b2b53e6388e01,Question: In the 12 months have you purchased designer fashion
+b965aa81ca565fe007448b682df96bb0b17b8a90b615a5db8e6bed0b94f30384,"Question: purchased designer women's clothing? (by designer we mean premium clothing brands, and not high-street fashion)
+Timeframe: past 2 years"
+5264a98c3546f92e0021d40cbe79b174d80d44dc3686be076ec13833e17ad6d6,"Question: visited a dessert café/restaurant
+Timeframe: past 12 months"
+0b67007ef81696b53b9d0c92c6293948e51888ee85a5de0c1acc534d477aa92b,"Question: purchased a dessert? (by this we mean desserts which are frozen, chilled or pre-made)
+Timeframe: past 3 months"
+5feb3254eb4c907ea6362697a0dbb8cda96b41fda1a7f2d8c7144ed671eb302c,"Question: purchased a digital camera or accessories? (camera accessories include lenses, tripods, bags or cases, memory cards, batteries, etc.)
+Timeframe: past 12 months"
+590431a7be9d9476b5ff7b87b5e4e78a607c8c5b49ef578465163982ab932e37,"Question: purchased a digital frame? (by this we mean frames that display digital photos on a screen)
+Timeframe: past 2 years"
+f811930ba8c6668a1fb2a4602ce0f2f32b1fb6e4458cdaf0b2e17f6570347c70,Question: have a disability or care for someone with a disability? (by disability we mean a condition or impairment of the body or mind that makes it difficult to perform day to day tasks)
+82be018fb21b16376cfb80b6dd3a6c72b03c2da3b61905cb9fc20922191dc4fb,"Question: purchased dishwasher products? (by dishwasher products, we mean tablets, powders and rinse aids etc.)
+Timeframe: past 3 months"
+41f2643cbd4f4e1784619d49805396caed300fb64458f77fe37aa4fd069467ed,"Question: purchased dishwasher products? (By dishwasher products, we mean tablets, powders and rinse aids etc.)
+Timeframe: past 3 months"
+9153ac59b2913b0b6ea33c3a5d436333c555468bfbf0560b4319e82348041bff,"Question: purchased dog food? (This includes both dry, wet dog food and treats)
+Timeframe: past 3 months"
+f00c65fa34f2841d27af7e416b812c121639cec3a2cbd052bdcb903b80c273c9,"Question: purchased dog treats
+Timeframe: past 3 months"
+919a7a9f8bdc84a3ef52f56b253c9cd6ad05ffef39cf85c666866e2ccdddf2f8,"Question: booked accommodation within the United States? (this includes hotels, vacation rentals, or outdoor lodging)
+Timeframe: past 12 months"
+c13f605df1623e012e92a67eac7f48eee45db911cc43632e8ebce78dc9c91d94,"Question: booked an domestic flight
+Timeframe: past 12 months"
+8e6d15815a4493814b6e07dfc0187c0adeee4c30f389b00f352fbedf06ecf911,"Question: gone on a domestic holiday? (by domestic holiday we mean one or more nights away from your home for leisure, pleasure or recreation within New Zealand)
+Timeframe: past 2 years"
+842f7212eb462595f50d108cebba014bb3e88fa9a0c8110ee308e671106f7c74,"Question: participated in a paid tourism activity ? These might be in your hometown or on holiday.
+Timeframe: past 12 months
+Qualifying answers: Yes in the North Island | Yes in the South Island"
+cc7fc304785e5350de806b83f1f6fdd9d2bee0cd5909f917e51279e59f2e017a,"Question: participated in a paid tourism activity ? These might be in your hometown or on holiday.
+Timeframe: past 12 months
+Qualifying answers: Yes in the North Island"
+e21406df4366c1a8bc7690df001b28eb021a14d3b8afbf881d80b9ddda44234f,"Question: participated in a paid tourism activity ? These might be in your hometown or on holiday.
+Timeframe: past 12 months
+Qualifying answers: Yes in the South Island"
+866f464010126e45ca2970f14fccb1ec49bf20e54a858455b6d327ff436ffbb2,"Question: travelled domestically within New Zealand, over 100km from your home
+Timeframe: past 12 months"
+1cae699aa8eb4795ce1b38a0968c3ae316e0479aa2ccefa4ce62b3daeba29fc5,"Question: purchased door or cabinetry hardware? (by door or cabinetry hardware we mean handles, locks, knobs, hinges, etc.)
+Timeframe: past 12 months"
+fd8921867725647bbe20b83e2bf2ab1a4d798d6ddcc320f8eb15358d1047445c,"Question: bought premium drink mixers and sodas e.g. tonics, ginger ale, soda waters etc.
+Timeframe: past 3 months"
+236a93fadd124b7281f06843b989d1a1d5728fc194ded796eab018f0fc9cdb01,"Question: purchased dry shampoo
+Timeframe: past 3 months"
+3daddff6e2a1e44f8e45aa9583bf3f562d9996cb66badaddf42db80aa23f383a,"Question: bought product types with an eco-friendly or sustainable focus
+Timeframe: past 6 months
+Qualifying answers: Cleaning products | Confectionary (Vegan chocolate) | Handwash, soap or hand sanitiser | Health and wellness products (Vitamins, Supplements, Natural remedies, Superfoods, Sexual health products, Protein powders, Sleep support) | Personal care items (Skin care, Hair care, Body care, Cosmetics and makeup etc)"
+bfbd9771393bc7ae8fba362b826e73c571ca8ba2d43c2def27de6c8a76146957,"Question: purchased eggs
+Timeframe: past 3 months"
+d2632170b03e5d3ba604cdcabe638f8bab5b6a5c1f6316946b7de4b8b09fd9ee,"Question: purchased from an electronics retailer? (this includes both online and in-store)
+Timeframe: past 12 months"
+e3c254d0805f71483b4770c11f07d367699173a9f3637b6944370be847f6e049,"Question: bought electronics? (this could include televisions, speakers, computing, audio, gaming and small appliances etc.)
+Timeframe: past year"
+208658694ac2a5e484a25dac88b0ac8c02d857abd6b641f95b753812a47efbc6,"Question: purchased energy drinks
+Timeframe: past 3 months"
+bf6c55cb0b64e5c44431ef81fa34fdc1151d5c61be3cc4343abc922fd4d68199,"Question: attended or watched a major event? (by major events we large scale festivals or national sports, arts, or cultural events etc.)
+Timeframe: past 2 years"
+a2c49258ccad7336479ad2f36793e0413e5d90f62a708c597a8ea04c6c1ee501,"Question: rented building, renovation, or landscaping equipment? (by this we mean cherry picker, mulcher, drills, diggers, lawn mowers, trailers etc.)
+Timeframe: past 2 years"
+1b73e3a4158296bc28ccd280b377a48a7b697f6c5b6ec04976f06a90b637f8f1,"Question: It is estimated one in two kiwi men over the age of 40 experience erection problems, have you ever experienced any"
+b8f0c69cf69e3544596d6bb0d3ca11345bae0966b4081a2ca5225076099972da,"Question: purchased essential oils
+Timeframe: past 3 months"
+2c5a1aab81346b2d846b46560dea06bcc9979f7493bd67d4a3c4fb3ee0581738,"Question: used an event listing website or app? (by this we mean a platform to find or browse events like concerts, festivals, or local activities.)
+Timeframe: past 12 months"
+687e70ab586a16db3db7b4ef4d0058b46f06a20e30587899bd462c859da8fdbd,"Question: bought everyday cheese? (this can include blocks, grated or slices)
+Timeframe: past 3 months"
+5ae9cfca3a45a62c29cc5b450b89da9cffb5c9ab5491d88b99e9f03046827914,"Question: purchased exercise equipment? (This includes products used in exercise, post-excerise and recovery)
+Timeframe: past 12 months"
+763c3d4ee5d11f145c0f48b6b80b960fb0164c4d3d59b3aef4e7788dee420517,"Question: purchased or gifted an experience? (this could include experiences such as skydiving, hot air balloon rides, watersports, theme parks, winery tours, fine dining, etc.)
+Timeframe: past 12 months"
+1fbfa0175aba5bef319a19c4504ffdefca0ba5442e9f5e237da4f93b0d1c0aa8,"Question: has your child participated in extra-curricular activities? (By this we mean any organized activities outside of regular school curriculum)
+Timeframe: past 12 months"
+84584fb9ceccf211c6b5ff799be46c0cdb23c4cfbe131602b5d4286a5bf367f4,"Question: purchased eye care products? (by eye care we mean products dedicated to eye health like eye drops, masks and solutions)
+Timeframe: past 12 months"
+5508a8c1fe34d221fc47be9c8fc664449e9d88a4e691444a0116159f6023177d,"Question: visited an eyewear or eye care provider
+Timeframe: past 12 months"
+90114816b64ffc26e5488e25804ce36c9c92ef0b8ebe7a6aecb7f5bec33c5979,"Question: purchased facial suncare products? (by suncare we mean sunscreen, sun-tan lotion, and other sun protection products used specifically for your face)
+Timeframe: past 12 months"
+87ddd93ee99ec55f93b8746d308858757a9cc9d4d55f82a710e317fe2d2aebe5,"Question: donated to or engaged with a family, care, or social service/provider? (by this we mean services/providers offering support with foster care, disability, family support, etc.)
+Timeframe: past 12 months"
+1e31f03da8829d1bc291cd324557a4b3c51db795d975e94a1cd5933dda1e1c2f,"Question: visited a fast casual restaurant? (fast casual restaurants are in-between fast food and casual dining, offering the speed of self-service, but with made-to-order, high-quality food and an elevated dining atmosphere, etc.)
+Timeframe: past 3 months"
+737c2aa348879226e89f8c6a20d7d6b22adcee1b4f105d25070ee0b80bde6c56,"Question: purchased fast-food? (this includes quick and convenient options such as sandwiches/wraps, pizza, burritos, salads, and burgers, etc)
+Timeframe: past 3 months"
+a2c593fa2141a10e4d6dd87114f1f8701eac0712a5ce2cf97e88736d9487e5d1,"Question: purchased fast-food? (this includes quick and convenient options such as sandwiches/wraps, pizza, burritos, salads, and burgers etc)
+Timeframe: past 3 months"
+91881fb6f5db9419ad90d21bc589940a911e75712b9a08ff15b29dcbfefd01ed,Qualifying answers: I've bought female clothing online or in-store in the past 12 months
+81e2ab8287350026b703fd55e9f63ef19540c0908f6794661cb66dee82c49a76,"Question: purchased female clothing
+Timeframe: past 12 months"
+e93aa38b7801452972ca0e5f37d90db9b54141560c796911fdfeb0aa69df21a2,"Question: used a period tracker or fertility/female contraception products, services or apps
+Timeframe: past 12 months"
+fb71e5fdb45ecd31ee22f99718ad08edf2bedec34fc574a44ae721552e6da67f,Qualifying answers: I've bought female clothing online or instore in the past 6 months
+d6cb0cd2ea402643d27804abe49f19ecf18989fa6b9de18533e7cc8783b9451e,Qualifying answers: I've bought female clothing online or in-store in the past 6 months
+2da3007b47a0b0758d78ae18c102ba9eac208b96b557824372b1d53588ec8efc,Qualifying answers: I've bought female skincare in the last 3 months
+745c8e0662e43c72068333a71e63d7d4a36c3bb2aadd83558bd2d0c04f17d21a,"Question: purchased any feminine hygiene products? (by this we mean intimate hygiene products specifically designed for women, and can include washes, wipes, sprays, moisturisers, etc.)
+Timeframe: past 3 months"
+ae411d5594e1ee033afacfbf633aac0e063c9a64483c7a56173517732eb7d12b,"Question: purchased fertility or pregnancy vitamins or supplements? (this includes for conception, pre, during and postnatal)
+Timeframe: past 12 months"
+cfc659bc848c0177e4792a21343bf9d3acc7d4779b81c1bc9f9bf20856676327,"Question: engaged a fertility or IVF service
+Timeframe: past 5 years
+Qualifying answers: No, but I am planning to start a family in the next 2 years"
+2ded480eca84866a45259a039e3a3fbffe2dfface75d9d2b5741c369c6ca98eb,"Question: attended or watched a major event? (by major events we large scale festivals or national sports, arts, or cultural events, conferences etc.)
+Timeframe: past 2 years"
+ce4d7bca3dbcf56d02928c0a31a0732ae1175c725025cd5a43d66ab84e2cf1a1,"Question: read, listened to or watched any financial news or journalism content
+Timeframe: past 12 months"
+f59c71af2f54ec62547ef2b86e9c1973011464237a1bb5d0d9d014f2b92e5c39,"Question: purchased fine jewellery? (by fine jewellery, we mean made with precious metals such as platinum, gold, silver etc. and/or gemstones such as diamonds, sapphires, rubies etc.)
+Timeframe: past 3 years"
+ab14fe01f5270011dbb94669027327d69814f0a502ecac44ac32b8fdd7305129,"Question: attended a gym or fitness class? (this could be for self-directed gym training or group yoga, pilates, HIIT, strength classes, etc.)
+Timeframe: past 12 months"
+b87ce9e1c3103ef28851844612d4f5d601cc801cafd4530bcd210e93db09fd28,"Question: used a fitness app or service
+Timeframe: past 12 months"
+1d9d41a77cbb8621b4cc0e0ccb7b2d82c5f02085ba16041c5048e2711a2b0a0a,"Question: purchased flavoured milk? (these are ready-to-drink flavoured milks normally purchased in the supermarket and can include flavours such as chocolate, strawberry, coffee, etc.)
+Timeframe: past 3 months"
+682244ee00ca949c0534ecb9eadf06c28ef3e8c6989e7aadf8639be260ba7942,"Question: purchased floor cleaning appliances? (by floor cleaning appliances we mean vacuums, carpet cleaners and other floor cleaning appliances))
+Timeframe: past 3 years"
+d36ec156bb6ea5e017442dbcfe2954f179a23b0bf424e3b37fc639895fe3f17f,"Question: purchased flooring? (by flooring we mean vinyl, carpet, laminate, wood, tiles, etc.)
+Timeframe: past 2 years"
+2b11afecbf3de85e1f0a03acc4163d269db436117add37079ce0fa2aa8729109,"Question: purchased flooring? (by flooring we mean vinyl, carpet, laminate, timber, tiles, etc.)
+Timeframe: past 2 years"
+ff98bf044e6b3a2e5967575a5d5860f69144fb1b5bde984af5d309b377e00e21,"Question: purchased flowers through a florist or floral delivery service for yourself or someone else
+Timeframe: past 12 months"
+ca41360fd7880b2fd6da2f0d492f2fd524b99a89471b47b21fd663f53dade0be,"Question: purchased footwear? (This includes any type of shoe, sandal, or sneaker)
+Timeframe: past 12 months"
+21d36d1a62ca78a6f0c11c9fed26c8a8fe79bc6105740970b5961ea134e14e4e,"Question: purchased formal footwear or dress shoes
+Timeframe: past 12 months"
+e1a87746ce8d58dd260afa0ca90378bb5b3e3dc84e98d5f2e1ef0f32919c3a3f,"Question: purchased or paid into a four-wheel drive vehicle, caravan or camper trailer insurance policy
+Timeframe: past 2 years"
+1dc240411f5d229045be7f675471b6f49b47e04321bf4a4fa5c550f8d92148ab,"Question: bought fragrances
+Timeframe: past 3 months"
+8c12a1a1e27249f2cc6b871136c8f021266ccf9d0b94405f8da8d6658aa80704,"Question: purchased free-from baked goods? (by this we mean bread and other baked goods that have typically had allergens removed like gluten, soy, or dairy)
+Timeframe: past 3 months"
+fc4ba6f16f4386a0968e8a6d8ee6da598f91fdd2e9926a82e54cfabb82140210,"Question: purchased any meat or poultry products? (this includes beef, lamb, chicken, etc.)
+Timeframe: past 3 months"
+c2c27f57723b8f769550a96c819754a31cdccecb4734f03ce69a53acb1e2e55c,"Question: purchased fresh milk (dairy)
+Timeframe: past 3 months"
+16fee04ab94029356cf0a48c66e685062015241f70de07802e2efc7c9e5890b5,"Question: purchased a fresh produce box? (by this we typically mean fruit or vegetables that are delivered to your home, but this may also include meat, eggs and dairy products)
+Timeframe: past 12 months"
+07adb0b9817af92c5f4d82e628a39a983767933e87b47db6c211cee84105c379,Qualifying answers: I do some or all of the household grocery shopping and I've bought fresh tomatoes in the last month
+4058f51039e140703e0290778a8c1074f610b96f74e6be3c2a8ce35bf6816a38,"Question: purchased frozen asian foods? (this includes frozen dumplings, noodles, buns (bao), spring rolls and etc.)
+Timeframe: past 3 months"
+402bc898f9fedae8d8d0205129714a568b06c5f0113b0be8ab78bff567b8f5b1,"Question: purchased frozen oven chips? (by frozen oven chips we mean potatoes pre-chopped and prepared for cooking in an oven)
+Timeframe: past 3 months"
+2cd17d7d4a7a8200da5e9b491c84259260a57a70d694433cdd992ea04d8e285a,"Question: purchased a fruit-flavoured alcoholic drink? (this could be a fruit-flavoured beer, cider, liqueur, spirit, or pre-mixed drink etc.)
+Timeframe: past 3 months"
+dccba79f9bbc20c5d0af7b30a5f61f21c639b3e82e2cc100a65bf89fcc5b5f03,"Question: purchased fuel / petrol
+Timeframe: past 3 months"
+ae365fcf4d91315f52fa61b8a1201e9877e20d4a052ae3106b5786696d2102a9,"Question: engaged or considered a funeral service
+Timeframe: past 5 years
+Qualifying answers: Yes, I have considered a funeral service in the past 5 years | Yes, I have engaged a funeral service in the past 5 years"
+23617fa8e139301eb2f19a9df902deec96957a4962cf2a94ea89ec76b6f9de98,"Question: purchased furniture? (this could include household, home office or outdoor furniture)
+Timeframe: past 12 months"
+7524f5d0f790bf15b0238c2932aab77cff20a66cc297e25e45f156be8e17cf2a,"Qualifying answers: Considering purchasing household furniture, office furniture, outdoor furniture or homeware in the next 12 months | Purchased household furniture, office furniture, outdoor furniture or homeware in the past 12 months"
+7053a5303bba713af1a9332460adb3fc4b8d835efd9d40440b07685b49bc8757,"Question: Please confirm you are over 20 AND you have...
+Timeframe: past 6 months
+Qualifying answers: Placed a bet at the TAB | Placed a bet online | Played a slot machine at a pub or club | Played at an online casino | Played bingo | Played instant kiwi | Played poker | Purchased a Lotto ticket | Visited a casino"
+7141603f5b13fa72a7c9ea3701e9332bf8122b5a30941688e75b48bc4e1606c4,"Question: purchased garden care products? (this includes plant seeds, plant food, soil, etc.)
+Timeframe: past 12 months"
+ce438394e46c46dbab27952387837140918f2138007720deade06f6a106b5cc4,"Question: purchased garden watering products or tools? (this includes hoses, sprinklers, etc.)
+Timeframe: past 12 months"
+368c60c09327621f2b3a91dc5f64bc201564e1c8b84f492d10c2684c5a807b6f,"Question: purchased gel nail polish or related accessories? (this includes the gel nail polish, curing light, removers, kits and styling tools etc.)
+Timeframe: past 12 months"
+64af9d062eda2150c7492ae1463b55342905bbbf19a4bb31d080a6b1e2268b27,"Question: purchased or paid into an insurance policy? (this could be any type of personal insurance i.e. Contents, Life, Car, Pet, etc.)
+Timeframe: past 12 months"
+421a92d42f9945d5c538223d0eafa3dc6f166b569db7d741d37aa6417231d095,"Question: purchased from a gifting retailer? (by this we mean a website or store which specializes in personalized, occasion based or demographic specific gifts)
+Timeframe: past 12 months"
+25291d7b62fc90b3f62b0a0a6a297e44ffebba4c32daa0af944c3092ec8e0838,"Question: consumed spirits
+Timeframe: past 3 months
+Qualifying answers: Gin"
+b25685cd128aaa0c265e810eb38b159c2784795c14c595523967a0a4dbab72d6,"Question: purchased gin
+Timeframe: past 3 months"
+bf2646b98a803cc9b4353e3bb7c6ba6e0ac765ac135c4ee9f4548354ab58790b,"Question: paid for a group fitness class? (this refers to gym facilities or companies that only provide group fitness training/classes, not a gym for self-directed training)
+Timeframe: past 12 months"
+8336902536d9e6a4c09c7b999e108a01a49db511669b0f3a8beec710d2864bcf,"Question: paid for a guided holiday? (this is usually a multi-day domestic or international group tour with predefined destinations/routes, lead by a guide and could be on a coach, train, boat, etc.)
+Timeframe: past 12 months"
+2bca6ec969743c5b2fa2221a506185fb29279912b28978c05d780c547f818f1b,"Question: visited a gym? (this could be for self-directed training, personal training, etc.)
+Timeframe: past 12 months"
+c12576613ebc544daa8d3d67d6fa64b61689344f6ea9b2808c95e5ded5d728de,"Question: purchased hair extensions or accessories? (by this we mean products such as clip-in extensions, hair ties, headbands, or similar items)
+Timeframe: past 12 months"
+86ea3a717c0d79e4fdbfaf33fe077c1d6c5ea346ff48f43f903b7b6e6b7f9f47,"Question: purchased hair regrowth treatments, supplements or services? (by hair regrowth we mean treatments, supplements and services to help you typically treat hair loss)
+Timeframe: past 12 months"
+68dd53b425a622e955db1abaf214c260644a5dd1d343429986817fbc0b2da814,"Question: purchased hair removal products (this could include waxing kits, creams, razors etc.)
+Timeframe: past 3 months"
+b33be209d0b8fe71fd815497bf87fb9785c1eb60b214ea3ea12ded1e221ca805,"Question: purchased a hair styling tool? (this can include hair dryers, straighteners, curlers, etc.)
+Timeframe: past 12 months"
+61f96c7844c28c3c933829f82aaa09d5f5a69b19cee1dce725b88424911c6747,"Question: purchased haircare products? (This includes shampoo, conditioner, treatments, etc.)
+Timeframe: past 3 months"
+bbc2ce7cc9a99b63149996f5965679e5b71eee30ce8a042ce6d1d59dbf19b3da,"Question: purchased haircare products
+Timeframe: past 3 months"
+e169827a384fcb4ca7295b6412393c528d2c53c84a6b202712484938fdea1236,"Question: purchased a hat? (by this we mean brimmed hats, beanies, caps, fedoras etc.)
+Timeframe: past 12 months"
+374e757c7a9ffd81f9a8821c6a89dbaa713e6368c786afe65ee4b6db50efbbc3,"Question: Now thinking about medicines, have you...
+Timeframe: past 12 months
+Qualifying answers: Been prescribed by a doctor or had an in-store consultation at a pharmacy for erection problems | Taken non-prescription hay fever medicines from a pharmacy"
+bae5a8382ab86178d09bbef2be16f1d8bf0bc135e2c1279f4a32d350b5ef777a,"Question: purchased headphones, speakers or other audio electronics
+Timeframe: past 3 years"
+01c420723d316635db729b33537a37815fa456d512fa2f1e8b2b0617eebd34d3,"Question: bought product types
+Timeframe: past 6 months
+Qualifying answers: Beauty products such as skincare, make up, bath and body products or hair care | Handwash, soap or hand sanitiser | Health products such as vitamins, natural remedies, superfoods, sexual health products, protein powders or sleep support | Naturopathic products | Sunscreen or fake tan"
+4ce0f30e72f83e0539401e9f142207ce62159804ba4fe0fdb1a41365b69af0cd,"Question: purchased from a health and wellness retailer? (by this we mean retailers selling vitamins, supplements, superfoods, other health foods and natural health products)
+Timeframe: past 12 months"
+b246296654bab0e37e78637c7953cc35e1a37c1bbbdb35165318d45b68e56ad2,"Question: purchased a health drink
+Timeframe: past 3 months"
+22e0759341fcb03126a02e5d0469e0c391fc8cef414f5f2ef0603d70c59592d9,Qualifying answers: I do some or all of the household grocery shopping and I've bought health foods in the last month
+011058bf048177b76d9f19bb2ce58f4be678a7c5dc04b85843cd7dbd5655bafc,"Question: used a comparison website to compare health insurance policies from different providers
+Timeframe: past 12 months"
+8b53841907845e2d34dd86872fc7aa15b236987121e882e84cb7f6afc870a2c5,"Question: purchased or paid into a health insurance policy? (this could be for yourself, for another, or paid for by your employer)
+Timeframe: past 12 months"
+4cca027de98935c1441a95285747836701718010a45c863b99c4eca9caeb3fff,"Question: purchased health supplements? (this could include collagen, mental performance supplements, probiotics, stress, sleep or fitness support)
+Timeframe: past 3 months"
+259f909f72c026f1ddfb26af4464939d8929f228d3ad930b1e15e39fa3725599,"Question: purchased health-enhancing supplements? (this could include collagen, mental performance supplements, probiotics, stress, sleep or fitness support)
+Timeframe: past 3 months"
+68bdcbcbd13b41c4620550529fab4afa271759be6a0f581bdece4f25db8fbd0d,"Question: subscribed to a healthcare membership program? (by this we mean a paid subscription for personalized healthcare services, including benefits such as next-day appointments, tailored treatment plans, and other personalized healthcare options)
+Timeframe: past 12 months"
+e8033e1faa52833156527ec73ca838a401fcb29a391135deff7e497f16c17e7b,"Question: purchased a healthier drink? (e.g. has additional health benefits such as aiding mental wellbeing, gut health or diet, low calorie, low sugar)
+Timeframe: past 3 months"
+33e2081d030dffdd51796d766e7f4c02f4aa3ea10e96b1df4feeb2b519c48bc6,"Question: purchased packaged healthy snacks? (By packaged healthy snacks we mean convenient, wrapped or bagged sweet or savoury snack foods, that are made from healthier alternatives e.g. muesli bars, bliss balls, protein bars, nuts, dried fruit, etc)
+Timeframe: past 3 months"
+88140a5c03ed29ddb7d60946bb821ab13389f131ffcfc55fd9e1ab9875fec6ae,"Question: purchased packaged healthy snacks? (by packaged healthy snacks we mean sweet or savoury snacks with health benefits e.g. muesli bars, rice crackers, bliss balls, seaweed snacks, protein bars, nuts, dried fruit etc)
+Timeframe: past 3 months"
+7b53aea0d00402666b1c00ba9b354fb30e4deadebde389cf876efdbff1e8c2f5,"Question: purchased a home heating or cooling system
+Timeframe: past 2 years"
+4ded32908d23d32c9d5f2dbd02e42f39a1d66749db055cfe5eebc951293da4de,"Question: bought herbs, spices, or seasonings
+Timeframe: past 3 months"
+943e8043c1408ddc15700c60ba2a69b287a1f33763b5897bb0954135ba90acc9,"Question: or your child enrolled or completed higher education? (by higher education we mean universities, colleges and technical institutions providing undergraduate, postgraduate degrees or vocational qualifications of a similar level)
+Timeframe: past 3 years"
+a730dfddee8d1ba0ea5c86d5d6db6f1342d1de95b4f4cb6b821216e2dcf2bfc4,"Question: or your child enrolled or completed higher education? (by higher education we mean universities, colleges and polytechnics providing undergraduate, postgraduate degrees or vocational qualifications of a similar level)
+Timeframe: past 3 years"
+f7afbff57ebea901a118fe9c05c70701bb873f64f867dad5b78a731d35d28eda,"Question: visited university or other higher education websites for enrolment
+Timeframe: past 5 years"
+8398ed6d2e04ada5258ea7077367403a094d08dc0c9c0a479f24c46b327ce631,"Question: purchased supplies from a hobby and craft retailer? (by this we mean a retailer that sells items such as art materials, craft tools, DIY kits, or other craft-related products.)
+Timeframe: past 12 months"
+3e10a0ca50c719eb49f147f800f27fe23863a80ab6edb552adcbe641367eebb2,"Question: gone on a holiday? (by holiday we mean one or more nights away from your home for leisure, pleasure or recreation within Australia or overseas)
+Timeframe: past 2 years"
+958e7e11ef51ce4ff6907f9cd3f17ef5a1c89ebe1890f3eb4d5f92ae37646bbc,"Question: made a purchase from a DIY or home improvement retailer? (this includes hardware, tools, paint, plumbing, electrical, gardening, outdoor, and homeware product etc.)
+Timeframe: past 12 months"
+2b548fcd1a35fb25a07740798b40924c580f39f731d135655ebb1fe008839995,"Question: purchased homeware products? (This includes bedding, throws, candles, furniture, home decor products etc.)
+Timeframe: past 12 months"
+f29828652e8e0ef38fc4a8bf231170da000099a3f3067f6dea652f70d944a731,"Question: purchased honey
+Timeframe: past 3 months"
+4523fd39fa25c3437adbcacda4c15b20e7b1f03e2be153f6dd1ad695e4e8b073,"Question: purchased a hormone optimization product or service? (this could include diagnostic services, personalized medicines/ supplements, and other wellness-related treatments specializing in hormone optimization)
+Timeframe: past 12 months"
+449aef73a8f4c0158ddd1927ae1fdaf29cdb2f9839abedb2b69413034c81a7cc,"Question: purchased female hormone products or services? (by this we mean hormonal, fertility and menopause products and services or women's health diagnostic treatments and services)
+Timeframe: past 12 months"
+6f5d37a56f62496007ce3515f743ba062e5ff05eff35899d70597cf9ccf32e0a,"Question: signed up or collected points as part of a hospitality rewards program? (Note by this we mean a rewards program for entertainment, food, hotels, dining etc)
+Timeframe: past 12 months"
+1af5c7adef494b34efdc77cb9c42d5146c7e53114bd3254c267527e1b8b067e5,"Question: purchased a hot rotisserie or roasted meat product from the supermarket? (this includes items such as roast chicken, pork, beef, etc.)
+Timeframe: past 3 months"
+262ed2298237c38c2f55486b42d049f40edb65217f4b914e4af496985ca5d520,"Question: purchased a hot tub or jacuzzi? (this can include hard case or inflatable hot tubs and jacuzzis)
+Timeframe: past 5 years"
+842fcb94f66a03ed7aeecf1dd515e9285663d7ea5b640766ef7cfd64c8d795a8,"Question: booked a night at a hotel within New Zealand
+Timeframe: past 3 years"
+04ee1bd08d11945e7300092ef7ea112d8820ae18b876f216c0345988910034db,"Question: booked a night at a hotel within Vegas
+Timeframe: past 3 years"
+f0e5dc47f392a5f27c33373298f897307686c25d820489cc26c5f3099c59eb1c,"Question: purchased fixtures for your home? (this includes plumbing fixtures like tapware, sinks, toliets, lighting fixtures, built-in cabinets and shelving etc.)
+Timeframe: past 2 years"
+7ae0e237fbdcefd4a175561043605f0d0dae7e4a1d6b89638fe4d9c1fc663c52,"Question: donated to or engaged with a humanitarian charity? (by humanitarian we mean charities who provide aid and support to individuals or communities)
+Timeframe: past 12 months"
+4cee24321a2a643b5429ebcac5eed9c2f5f59eb19aca63be50aee99909926d61,"Question: purchased hunting apparel or equipment
+Timeframe: past 3 years"
+02c174156d96bc14e9de21d110fc0ab7bee3684a827b9b4acb35af45fe16750d,"Question: purchased ice cream or other frozen desserts? (This includes dairy and not dairy ice cream, frozen yogurt, frozen cheesecakes, etc.)
+Timeframe: past 3 months"
+2625446551fd071e08e0277d7b17993852337ae3c5bab29866002f3048636005,"Question: purchased a fresh but imperfect fruit or vegetable box? (by this we mean fruit or vegetables that have been rejected by large scale grocers but is fresh and useable and is normally packaged and delivered to your home)
+Timeframe: past 12 months"
+e05849a9867db8834b15e28acfcf3dfb358c737ea9774ad8590a7b0628ba358b,"Question: received or organised in-home care for yourself or someone close to you
+Timeframe: past 3 years"
+01a35539bd5cb6bdacfb2449b587b7333aa17520712acc0727d2005b203f5f9b,"Question: made an in-store donation to an op-shop/thrift shop? (by this we mean donation of second hand goods, including apparel, homeware, etc.)
+Timeframe: past 12 months"
+f2fc1251192cd7ac255bf05a32dbf3822e3c74073741c2deca43dbd7b7dd64ff,"Question: purchased cleaning products from a hardware store for applications
+Timeframe: past 12 months
+Qualifying answers: Bathroom | Deck | Driveway / Paths / Patio | Indoor Mould Removal | Shower | Windows"
+5a03a49622bde121126b8482aaf926e32a0cab051bd636be294662193f279fd6,"Question: purchased products for cleaning outdoor surfaces
+Timeframe: past 12 months
+Qualifying answers: Deck | Driveway | House | Roof | Windows"
+165d52ac1ba86b3ea18fde122297dc71ee7292fabaf8b5459580047c6f589996,"Question: purchased insect repellent products
+Timeframe: past 12 months"
+3a33f9b7a508d286f775a8aebb3f8dec499107cf60de269d6764d92035846700,"Question: booked an international flight
+Timeframe: past 12 months"
+7d5f005064a289710255ff226c9b620b293aee6b57114ea47fd5bf1257cf4050,"Question: been on an international cruise
+Timeframe: past 2 years"
+a19f19b2b7f005b2b20d6b6b0719fa93085397dac2e8dde7fbad2bdbf75f666b,"Question: made an international money transfer to an individual
+Timeframe: past 2 years"
+068d4c36a0d2ae502422ca80239d6c412a7b4d0a4e1ec14d8732ecbd3ec8adb6,"Question: used an international travel booking service? (by this we mean online or offline platforms or services for planning, booking, and managing various aspects of international travel)
+Timeframe: past 12 months"
+7a9b96ef717c6cfbb3e71a6bf6d74d927588445c733a0a50e322d46bfb41468b,"Question: purchased or paid into an internet plan? (by internet plan we typically mean a broadband, fibre service)
+Timeframe: past 12 months"
+b0152e6726c3d39c671aecff17b4cc8612867d163784c4771b54f4864e5b4624,"Question: sought information, guidance or support about staying safe online
+Timeframe: past 12 months"
+f6ca91421bf404d4db2b3f3f2d5e45dc6c57a17188a1ddf9535b1bfad24ed18d,"Question: have purchased jeans
+Timeframe: past 12 months"
+9e470d9c37cda1921514f31ce12f6399cfe76e86db1220cb74d8c53a84e0a8cb,"Question: purchased jewelry/accessories? (by this we mean earrings, necklaces, rings, bracelets, hair clips, headbands etc.)
+Timeframe: past 12 months"
+789a33d8c1f5ec677b71df1831b8de8b87f3a54b2739bbabedd862db135eaaaa,"Question: visited or used a job listings website
+Timeframe: past 12 months"
+e445d0d921b001fcf7d22bb10b1f5378a6435dea129b618b12d0847aa754b0cf,"Question: purchased kids' beverages? (these are products aimed at kids and could include juice, milk, soda, etc.)
+Timeframe: past 3 months"
+2ee20b9c26a0a997be19755d9ffcd0b37b0e6d210307af4dba4f5d930b041978,"Question: purchased kids' packaged snacks? (these are products aimed at kids and could include chips, crackers, cookies, muesli bars, etc.)
+Timeframe: past 3 months"
+49067ee6bc0ef4461564fe73304125b9b2f7f2421ccf77f08cc26cc85cb7e7cc,"Question: purchased kitchenware or kitchen appliances
+Timeframe: past 3 years"
+47d61e6b75a38c14cadd015e2d8bc5317f0d1b84a77c529a26e934638472993a,"Question: purchased kitchenware or tableware? (by this we mean kitchen utensils, appliances, plates, glasses or related)
+Timeframe: past 12 months"
+e03645814f920df881c0e9197b2f3e42d328426f6c96d10b9f4b270c318d600c,"Question: have a KiwiSaver account
+Qualifying answers: Yes, and I've contributed towards it in the last year"
+36c00483249f62985f9247d5b1fab3088566ec2caed0f7e0cc25b96d75851dc0,"Question: used a residential landscaping service? (By residential landscaping services we mean the design, construction or maintenance of outdoor areas, such as patios, gardens and lawns)
+Timeframe: past 3 years
+Qualifying answers: No, but I have investigated residential landscaping services"
+4bd088da99f0e96b00ee998174eb6fa48a98443b2907b32d5d47dab5eb5cb067,"Question: purchased a large household appliance? (this could include, fridges, washing machines, dryers, ovens, etc.)
+Timeframe: past 2 years"
+facf50f5b0cf8d1968cc0075b9252da7993e13c8ed7ea2b8a9a5088b60e104a4,"Question: purchased a large household appliance? (this could include fridges, washing machines, dryers, ovens, etc.)
+Timeframe: past 2 years"
+b234f2e512a5e9850058d54c34e1303f385f68f09dd256f5fba05baae7318501,"Question: purchased a large household appliance? (this could include fridges, washing machines, dryers, ovens, dishwashers, etc.)
+Timeframe: past 2 years"
+cff3b09fc856f931cf522681d1efbac6a26e04f264134707013de453b7a65d79,"Question: bought laundry detergent or care products? (this could include detergent in liquid, capsule or powder form and other laundry care products)
+Timeframe: past 3 months"
+731613ee482a25a606a08b5a1d35c738506b0ea89abd06d02c061ec6da5f5133,"Question: purchased a laundry stain remover
+Timeframe: past 3 months"
+51c4054405b1ff7cd25761e1eabedf2ddf3dc4fccad2877c18e05ec7c7880230,"Question: engaged a lawyer/law firm
+Timeframe: past 5 years
+Qualifying answers: No, but I would engage a lawyer if the need arose"
+0e5fdcd7ee79b2779a4aeb08becf8d566be68f99839235d7e07f66cfa43f52f8,"Question: purchased or paid into a life insurance policy? (this could be any type of life insurance, including life cover, trauma cover, income protection, etc.)
+Timeframe: past 12 months"
+c324b920e22eda0f4f848496dfcd51db0a8c0c4b40e6ec2c3b372a5f3f456e23,"Question: purchased a lip balm
+Timeframe: past 3 months"
+8525e4bf18914bb569390c125a49f52ab7c0913b3b45b2339d7cefe59873502b,"Question: purchased liquid cooking stock
+Timeframe: past 3 months"
+9c488f0ceafb6d87cc566f45a343949f50526ba4ea8b1edba8259d68ed37ff10,"Question: made a purchase at a liquor store or off-licence
+Timeframe: past 3 months"
+d45a577b9f1b629f65827d537d6cc9ef6938ad6510d98aa528462d2c33dc656c,"Question: taken out a loan or used a lending service? (this includes home, car, personal loans, etc.)
+Timeframe: past 12 months"
+8d8185d18fe63cc0fdce930e2edc9e3461a8bae98e7def491f8ac22b7c009c1d,"Question: purchased long-life fruit juice? (this includes typically juices found in cartoons or bottles which are not located in the chilled section of a store)
+Timeframe: past 3 months"
+34337900c8410403ac10c663a757e723609ee108255d242b179225bb2db462d6,"Question: purchased a lottery ticket? (by lottery ticket this could be for national, state or private lotteries)
+Timeframe: past 12 months"
+880103111cbef374c50653efcc524067a23315bea9267fd2475f23d39233253f,"Question: purchased a lottery ticket? (by lottery ticket this could be for national, regional or private lotteries)
+Timeframe: past 12 months"
+3464889d969d4731da0d618e53805f3ce8105bca99084dd93c6c675e6c72f36b,"Question: purchased loungewear? (this includes comfortable clothing, wearable blankets, pajamas etc)
+Timeframe: past 12 months"
+e6578a5214fba24ac959b788d41f7ab02a4c631ff53fa1fa9b4de1bf41d05cfb,"Question: signed up or collected points as part of a loyalty rewards program
+Timeframe: past 12 months"
+79527f4f7604b6d4c417d3ca88e6749cecc66e92b57ca4d9ffb0646adbd69b22,"Question: purchased luggage or other travel products and accessories? (this can include luggage, bags, packing organisers, tags, etc.)
+Timeframe: past 2 years"
+d4775700fa84dadfc4fb40572118fc7cddb28ceba148b5f02e7b8f6230509998,"Question: rented a luxury car? (by luxury we mean car brands that have superior quality, advanced performance, cutting-edge technology, or sit at a higher price point, etc.)
+Timeframe: past 12 months"
+28354e2a4f3429beb92f7c63e53adbc5dfb8b88532fcaba12ebab5629431e68c,"Question: been on a luxury cruise (more than USD$5000 per person, per week)
+Timeframe: past 3 years"
+0b94c804841fa652f83ae605799cfcdf2d2e262f0b9578439b223a5fd838e48b,"Question: purchased luxury fine jewellery (excluding watches)? (by luxury fine jewellery we mean designer jewellery made with precious metals such as platinum, gold, silver etc. and/or gemstones such as diamonds, sapphires, rubies etc., typically AUD$2,000+ per item)
+Timeframe: past 3 years"
+1f1c13347027f1e11d3a15c893014b29d3fc69d5a611ff00aaeb37cfd0e77af1,"Question: booked a night at a luxury hotel within Australia (more than AUD$400 a night)
+Timeframe: past 3 years"
+e28aedfed205ae8bd201168aef1349c145a7645543dcccc5ad3d3162706c0d0e,"Question: booked a night at a luxury hotel within Tasmania (more than AUD$400 a night)
+Timeframe: past 3 years"
+e27fa02456c03656284d0f4574b7dc2974f709c62bd728e953ac6659b422cb7c,Qualifying answers: I am considering purchasing a luxury leather bag or accessory in the next 3 years | I have purchased a luxury leather bag or accessory in the last 3 years
+10c0b65b2290ae6e5e6b10e53e0532e0f139ce89d730fae643ecb5937c484855,"Question: purchased a luxury leather bag or accessory? (by luxury we mean bags or accessories that are made from high quality materials and expertly crafted, with the smaller items starting at £100)
+Timeframe: past 2 years"
+2147cfb58067f8f05775b42126d8456e5f46b1f5ecb0741b24c1cf9c91372bd1,"Question: purchased a luxury leather bag or accessory? (by luxury we mean bags or accessories that are made from high quality materials and expertly crafted, with the smaller items starting at USD$100)
+Timeframe: past 2 years"
+017b72c319c5bf6b1b74203f7267737fa78db42377bdc353cb15ca858c530e6e,"Question: bought or sold luxury goods through an online luxury marketplace? (by this we mean a consignment platform where individuals or businesses can buy or sell high-end items from various brands)
+Timeframe: past 3 years"
+af2577e4ce44cb57af33307f7292955617d6eadf52878c33a56d901b0d49877e,"Question: bought, sold, rented a luxury property or visited a luxury property listing website? (by luxury we mean property built using high-end materials, in prime locations or with added amenities that are typically higher in value, etc.)
+Timeframe: past 5 years"
+d3fe34315b58602d5b4f82878214e9d71671d239e947998ab71a49465f41622e,"Question: paid for a luxury tour? (Note by luxury tour we mean a multi-day holiday organised by a provider, often with luxurious accomodation, dining, and unique or personalised excursions/experiences. At a price per person of USD$2,500+)
+Timeframe: past 2 years"
+671676425d07473b1ed0eea816bda830455857e0245370d6a9763af98dba2b71,"Question: purchased makeup/cosmetics
+Timeframe: past 3 months"
+5fd5b6db8872239cbda29e4bb40418669e8bddd2f8ffce0d3855b65cf88807ad,"Question: purchased bedding items online (e.g. mattresses, beds, and pillows)
+Timeframe: past 2 years"
+a7b020256e507ab41fbb0eafc48bb3bb4487bf171194ea852265fc313761a53c,"Question: used a drink or take out food delivery service
+Timeframe: past 6 months
+Qualifying answers: Yes I have used a beverage delivery service | Yes I have used a take out food delivery service"
+d28a3a5d83c8168c0c671368c9802ccbe83dfb6e2dbd2f8daa77446cd923bad8,"Question: used a meal kit delivery service? (by meal kit delivery service we mean delivered pre-portioned ingredients and recipes or partially prepared meals)
+Timeframe: past 6 months
+Qualifying answers: No, but I have researched/investigated a meal kit delivery service"
+8591b58617b30b9406e89082b724ded3899deb0f30476e6d189401b3fc79d424,"Question: subscribed to a meal kit delivery service? (by this we mean a service that typically provides proportioned, and prepared ingredients and recipes to create meals)
+Timeframe: past 12 months"
+d4d1d0c0ce566ef999b4ab396037926c89181b2d2b6ff3164cbc5cc09f256ff0,"Question: used a meal kit or meal planning service? (this includes websites or apps where you can search recipes, plan meals, generate grocery lists, or receive the ingredients)
+Timeframe: past 12 months"
+ad8cae96c9c24b7b2364ad075f12c821b5837edef785ac09d3a37ceca4b120d5,"Question: purchased meat alternatives? (by meat alternatives we mean products simulating meat which could be classed as vegetarian, vegan or plant-based)
+Timeframe: past 3 months"
+0b9c64570e0d2ddde4685853dc8bb3203ec06cf69505c288b251d6a201a641db,"Question: purchased meat or seafood
+Timeframe: past 3 months"
+fd394364d7a8cf7836f70088b6db88c11748cc1975d0017cb092e20fcf51ea6c,"Question: paid for a medical scan or testing? (this can include payment covered by your insurance provider)
+Timeframe: past 2 years"
+533faef0c8353447beed9c2d51712677e3f97208f0dd0835fc8b5437390a9948,"Question: donated money to a medical research organisation? (this includes organisations who conduct research into disease prevention, treatment, etc.)
+Timeframe: past 12 months"
+73fd143264a2765ec8a4b716dff506359efb94d37b702f0d116b470d0674fe2b,"Question: purchased memory or cognitive health products? (by memory or cognitive health products we mean items to improve cognition, or treat/manage conditions such as Alzheimer's, Dementia etc)
+Timeframe: past 12 months"
+71934e7034862a4167acd5a7e34ae8b37f3beffc660d45eed599e9383cd798c3,"Question: purchased mens activewear
+Timeframe: past 12 months"
+d3768f9a4ad8ecfe7d1622c4a18dbb84baef6854ca8e56cf4743e107e0f944d2,"Question: purchased men's athleisure wear? (by athleisure wear we mean clothing for everyday, using more stretchy and flexible materials and performance features)
+Timeframe: past 12 months"
+0990ac1d1f0e5422d11cdbb39a888895af4da8284b7a9539932996ffc330d547,"Question: purchased men's clothing
+Timeframe: past 12 months"
+ba99cc293d0b20c31cbc8d448125fa8fda6523d7aa9602c0d053fba1f483c588,"Question: purchased men's formal footwear or dress shoes
+Timeframe: past 12 months"
+0b2c704d6166f642f0fc9e4c9ad3dd5bbf9dcace542d2e8b42cd0720f9347dec,"Question: Please select that apply...
+Qualifying answers: In the next 3 months I am booked in or considering going to a doctor or other healthcare professional about a medical issue | In the next 3 months I would consider using a telehealth, app or web based service about a medical issue I think I may need to seek medical advice on | In the past 6 months I have been to or thought about going to a doctor or other healthcare professional about a medical issue | In the past 6 months I have searched online or googled a medical issue I think I may need to seek medical advice on | In the past 6 months I have used a telehealth, app or web based service about a medical issue I think I may need to seek medical advice on"
+97a428db8a8e7c52600a5a84e54ba2b1df10ac1e5eebcb1bc426eb40da8ad02a,"Question: In past 12 months have you purchased men's everyday performance wear? (by performance wear we mean clothing for everyday, using more stretchy and flexible materials and performance features)"
+3bf308c6c6ee54846ec99ecef2aeb6b58d9e77d1e51a9e7e3d9aaab10396b7fe,"Question: In past 3 months have you purchased men's personal care products? (this includes skincare, haircare, soap/body wash, deodorant etc.)"
+a80497df621f904a09de803613782e0b98aba05b091dff8a877084d3c9c0765b,"Question: donated to or engaged with a mental health or wellbeing support service? (engagement can include using websites, social media, apps, workshops, etc. for support, education, meditation, or other services)
+Timeframe: past 12 months"
+cb5ca020a4c1b1e6a0695449f47e9a7f02926803e201dd568b5b994bd32765e5,"Question: used to help you function or perform better mentally
+Timeframe: past 3 months
+Qualifying answers: Another drink or food | Energy drinks | Functional foods or drinks | Other | Powders | Remedies | Supplements | Tonics"
+46d99d8d0c1994c18b3e912ee531793902ac61823e2c5652fa71c05a05d1784a,"Question: attended or watched a major men's sporting event
+Timeframe: past 2 years"
+1087b029cc2eb8f8e465b4aa79e2ca8e6743054b153914e328a5f770581c4eff,"Question: What price ranges of wine have you purchased
+Timeframe: past three months
+Qualifying answers: $13-$16 | $17-$20 | Under $12"
+0c9470736ec9b52d5d3d80d0a236e400b1b32b170fb58e0da0e0e1293b33660e,"Question: What price ranges of wine have you bought
+Timeframe: past three months
+Qualifying answers: $13-$16 | $17-$20 | Under $12 | Under £5 | £10-£11.99 | £10-£20 | £12-£14.99 | £15-£19.99 | £6-£7 | £7-£9.99 | £8-£10"
+e0e510c01ded814fcbfe2c63682764f2314c0fc7c5d16f06c0b7b8c6e49d0f10,"Question: purchased mobile gaming accessories? (this can include attachable controllers, stands, headsets, etc., designed for gaming on your mobile phone)
+Timeframe: past 12 months"
+b97584d15067ecef135e24b0e9bce2ea09c4a6cdd3eded7a8fce4a0f54ca2374,"Question: purchased or paid into a mobile phone plan? (this includes annual, month-to-month or pay-as-you go plans)
+Timeframe: past 12 months"
+5074e9d30d47abeceff9a4c4e211d9a353cadb1567ff0a56475609c18a289bbc,"Question: purchased or paid into a cellular phone plan? (this includes annual, month-to-month or pay-as-you go plans)
+Timeframe: past 12 months"
+71ea717c23b1ae9a94ecf5da30dcaa105c03aa83f8f927513e29ed5ab5f26b70,"Question: transferred money to friends or family
+Timeframe: past 3 months"
+6a4735b30e51b73e7f7534056a505ad9292ee06c8663c66f00330b6347d06843,"Question: used a money transfer service? (by money transfer services we mean sending money electronically from another account or person)
+Timeframe: past 12 months"
+b8af98f3360ca46e92925d5cb9b4a072617df7853e99be207e788bd5e5dd770d,"Question: Please select that apply
+Qualifying answers: In the last 2 years I have had my mortgage reviewed for better interest rates | In the last 2 years I have invested my money to get better returns | In the last 2 years I have purchased an investment property | In the last 2 years I have purchased my first/ next home | In the next 2 years I plan to get my mortgage reviewed for better interest rates | In the next 2 years I plan to invest my money to get better returns | In the next 2 years I plan to purchase an investment property | In the next 2 years I plan to purchase my first/ next home"
+f92cd5f2678263a111399aa5dcbdc66441cfb1bf75c491a6984d73a53977d450,"Question: paid into a home loan/mortgage
+Timeframe: past 12 months"
+ba5222e0d6d9d17281d1804edfb95aac5de2cd3db6846fef237906d77d4e1a96,"Question: obtained a home loan/mortgage or made a payment toward one
+Timeframe: past 12 months"
+c27aa387a5e2305e801dd050dcd078d40dd85944fc26805d2624b2da39a36957,"Question: purchased mouthwash
+Timeframe: past 3 months"
+2bdf77fc95a76fb02c08aa636a8d4fce1f1cdbde458b6badc81f65f853eecdb5,"Question: visited a movie theater
+Timeframe: past 12 months"
+5d2eea2f74ff105906860a58f76906c8d37577c8bb32aa042c8dc1e6caf57674,"Question: purchased mānuka honey? (Mānuka honey is a type of honey native to New Zealand with many scientifically proven health benefits)
+Timeframe: past 12 months"
+1e2ee38f50a3e99df5be8fed8c5cfb5499164c5cbfc116104a4f13e83e7ee18f,"Question: followed or watched the NBA
+Timeframe: past 12 months"
+e04a4b84ffb330269937929ab2ff8bfc04cd60b49c639d76837aed91343d9697,"Question: followed or watched the NFL
+Timeframe: past 12 months"
+ff0d75efa2d3d093a041e26ca6bfd0d3c461d72e9830baeb38d5998a84217d68,"Question: purchased nail polish? (this can include nail lacquer, gel polish, acrylics, dipping powders, press-on nails, nail strips etc.)
+Timeframe: past 12 months"
+f110ec5ef68091e2f3f79e86c80de52d3867f204da02037775d150bb2210b2ab,"Question: watched, followed or attended a national sports league game
+Timeframe: past 12 months"
+9b7891a45ed6263bca0b25156bcbceb68c248f35a886741c28ea05b99f17962d,"Question: bought a natural deodorant? (by natural deodorant we mean made with all natural ingredients)
+Timeframe: past 3 months"
+3971b4defd002211a840108f2a74b8d807831e0262e4b93f3be04b42653e20e5,"Question: purchased natural health supplements? (by natural health supplements we mean supplements derived from nature rather than pharmaceuticals)
+Timeframe: past 3 months"
+5b51bfab37c1d5a5c3934f4d04d0d861ccce564c9fb14f080c6b81deebd41304,"Question: built a new home
+Timeframe: past 3 years"
+c9a7369f6658f58e254c9e0b2874253be6a75180627d031c53ef9b2fe05e0c0e,"Question: bought a brand new car? (by brand new, we mean you are the first owner of that car)
+Timeframe: past 3 years"
+9e3da5107d4f4b43f58c5cf11b5d7374b2724a7c14bac54e9f349420089f5bf2,"Question: purchased a brand new electric car? (by brand new, we mean you are the first owner of that electric car)
+Timeframe: past 3 years"
+d770262435046db906bd964ce3b612ceaef817f9c09827d728ece102299f7ab3,"Question: purchased a brand new Ute or SUV? (by brand new we mean you are the first owner of that car)
+Timeframe: past 3 years"
+d8452434bde955ba2d95e17aa36b9249a75873491c32b071427edbc7464b802a,"Question: read, listened to or watched any New York based news or journalism content
+Timeframe: past 12 months"
+a3e9fa014e8ec8df2de64a7e86c7dbcbc5b2561a30221ee07e2ece485240e749,"Question: read, listened to or watched any media or news content? (this could include podcasts, radio shows, online and print news articles, etc.)
+Timeframe: past 12 months"
+927483842937b0ab8681f439381f175b235b4d576bb98e3d39e72342a32cd533,"Question: done
+Timeframe: past month
+Qualifying answers: Listened to the news on the radio | Looked up a current event or news online | Read a news article online or via an app | Watched the news on TV or a TV app (e.g. ThreeNow)"
+b49ef20575e09993e1c001d4e714d5b0eb9985c5b355a702a03f6d66e5f11ad1,"Question: purchased nicotine products? (these are typically nicotine products such as gum, patches, pouches, lozenges, etc.)
+Timeframe: past 3 months"
+46bd90e4bd8b9ecc1f58697b9fd3c8a749b399f298e05c20dac69dc6bd0f76ba,"Question: purchased non-dairy milk? (by non-dairy we mean plant-based milk, not from animals e.g. rice, oat, almond, etc.)
+Timeframe: past 3 months"
+bc5c37159d8c070c0f947d581af6621731016ae4b41d9b9461b1613d7c55ddc6,"Question: used a nutrition and fitness app or service? (by nutrition and fitness services, we typically mean apps and websites that track exercise or what you eat)
+Timeframe: past 12 months"
+a2b4edea9c131f124c993e952d48ecb1f193bd6339772cedfc323b8ba60452be,"Question: purchased from an office and stationery supplies retailer? (this includes items such as pens, paper, notebooks, office furniture etc)
+Timeframe: past 12 months"
+bc568e38cfcb202ffc09c3722590119b5efd731c4469901d4dc25831223fc120,"Question: purchased alcohol online? (this could include beer, wine, or spirits)
+Timeframe: past 3 months"
+10af4808df911dfdc7c09fc757dc4cf6ac7eeb8247c56d2956e0a92594bb709c,"Question: used an online bookies/betting service? (by bookie/betting service we mean a service that allows you to place bets on sports or racing either via a website or mobile app events)
+Timeframe: past 12 months
+Qualifying answers: No, but I am open or likely to use an online bookie/betting service in the near future"
+80bb1b4c697415115cfa0e943d6c558e1b58cba3e4073646b4a1b994cc306d26,"Question: used an online bookies/betting service? (by bookie/betting service we mean a service that allows you to place bets on sports or racing either via a website or mobile app)
+Timeframe: past 12 months"
+80393d7c563c4a49bc4dd65bebf39f45e250e43e138ac6a9edfa5c39bed6916d,"Question: bought or sold a car through an online marketplace
+Timeframe: past 3 years"
+4242ad1eeed16d5a6fb138923889f1b436b78295a64a1d35aa426a73e5eb9612,"Question: used an online casino? (by online casinos we mean online platforms that replicate the experience of a physical casino, where you can play slots, roulette, blackjack, poker, etc. online)
+Timeframe: past 12 months"
+af0f43c5589701fd745548104607315bc7d15eeb359778a7c0e58718c5f210af,"Question: purchased women's clothing online
+Timeframe: past 12 months"
+baaacbe6eae55b9936758f6d412c17223329dc21c77343dfd5cef96651351ba5,"Question: used an online food delivery app or service
+Timeframe: past 12 months"
+3a2ff499663877d988958e0cf32a8df9f04bfd0790d57c1b6442ce7ec8f6ced3,"Question: gambled online? (this can include sports betting, bingo, poker, etc. that can be played online)
+Timeframe: past 12 months"
+498a5c26b538da5b1879c32d8a9f413860dfe5b4190896f6ff8ec048a1b387df,"Question: paid for an online grocery delivery service? (by this we mean groceries delivered to your home through an app or online platform)
+Timeframe: past 12 months"
+5f1964b559d8193e1d1c548b6666816a4bbda155851ac4de85730d3651ac533e,"Question: used an online or app-based physical or mental health service? (this includes any form of health or well-being monitoring, coaching, or diagnosing solution)
+Timeframe: past 12 months"
+0e24269a3a7d98561323cec37bb407f1cd9b0ab71f9c0a7a51efb3526a7e6af0,"Question: used an online healthcare provider? (by this we mean a healthcare provider who operates solely online)
+Timeframe: past 12 months"
+aed00d91e6b605b0f387d1695f8734a36eee96e4b66f21474d81dc5baf3060a1,"Question: used an online learning platform? (by online learning platform we mean a digital environment where you can access courses to learn new skills for personal or professional development)
+Timeframe: past 12 months"
+56e3b6fcefbb9430df0819178ea32704d6b6161a5473440f2a924f9b8f5e8f05,"Question: used an online store or online marketplace? (This could be to purchase products, vouchers for activities or experiences, etc.)
+Timeframe: past 12 months"
+b6f7300f45336823457c34aebe60189c8d81910e0838358925010fe7629a44d4,"Question: used an online store or online market place to purchase
+Timeframe: past 6 months
+Qualifying answers: Clothing | Electronics | Fitness and sports sessions or products | Grocery or alcohol products | Health, nutrition or dental experiences/ products | Home and garden products | Hotels, holidays or travel | Local activities | Other products | Restaurants, bars or cafe experiences"
+ce2fa3793342d741df5293cbc5b8ca855e53d727cae9c9786c300e07284d10b3,"Question: used an online or app-based mental well-being service? (this includes any form of meditation, sleep and preventative mental well-being content, tools or monitoring, that may help with stress, anxiety, focus, performance, or better sleep)
+Timeframe: past 12 months"
+0433b9759bbcdda725f7eeff942783e80000500dab87648d5353527e03bec1da,"Question: shopped at an online outlet retailer? (by online outlet we mean a retailer that offers discounted products from various brands online)
+Timeframe: past 12 months"
+c62dd0d8acf1f06665cab00538ab850c3443822ddc38d7cfa3d9cdcbf3b01778,"Question: purchased a packaged holiday online
+Timeframe: past 12 months"
+e816ae8e089f8889dd4ae760d593614dac044317a49ac250ad33719b0419ed0d,"Question: used an online or app-based physical health service? (this includes any form of physical health diagnosing or treatment solution, that may help with hair-loss, weight-loss, skincare, etc.)
+Timeframe: past 12 months"
+f60c00316bca600588e5a11fb0d77e92581adccbb4d636318485e7a220f36c75,"Question: used an online or app-based physical health service? (this includes any form of physical health diagnosing or treatment solution, that may help with hair-loss, weight-loss, sexual health, etc.)
+Timeframe: past 12 months"
+797d027e454d3f160ab16074798b43b703a1916ac0d107faf416840787002bfc,"Question: purchased from an online retailer? (by this we mean an online retailer that offers a wide variety of products from different brands across various categories)
+Timeframe: past 12 months"
+ebb92d62b79e3bf815c56d2b862b250c37915e263929ae0991487c00801978b8,"Question: used an online travel booking platform or service? (by this we mean platforms and services for planning, booking, and managing various aspects of travel)
+Timeframe: past 12 months"
+e52db86fdde4e10addeb3af41628ab2a44e1b6615008c6c1f347e0d85299374b,"Question: made a purchase from an op-shop/thrift shop? (by this we mean shops that sell second-hand goods including apparel, homeware etc.)
+Timeframe: past 12 months
+Qualifying answers: No, but i'm open or likely to in the near future"
+1e2df66d9b884b32766130052c6016f320d63b3434f6104330873efc26757606,"Question: purchased oral health products? (by this we mean toothbrushes, toothpaste, floss etc.)
+Timeframe: past 3 months"
+d55b556e69b053d649609ac50aeda50128a6f325aca7a75bf30e63960ad98c1f,"Question: purchased outdoor apparel? (by outdoor apparel we mean clothing, accessories, and footwear made for the outdoors)
+Timeframe: past 12 months"
+281c34aa92f39d2e49a623cfcaf0e654b410d6728dd79ad7afd22d2e0a82d8f0,"Question: purchased outdoor pursuits apparel? (by outdoor pursuits apparel we mean clothing, accessories, and footwear made for the outdoor activities such as hiking, climbing, and snow and water sports)
+Timeframe: past 12 months"
+43b76ea0320aa504a9d1690c2c1f7277b1d0cc99b9b1c59996e92abe0650d76f,"Question: purchased outdoor pursuits apparel? (by this we mean apparel for outdoor activities such as hiking, climbing, etc.))
+Timeframe: past 12 months"
+147b1493ec4b4d2cca1c3e9fcc3574cac60d9f242d8ff72419f2eacdd4fe781d,"Question: purchased outdoor pursuits footwear? (by this we mean footwear designed for hiking, camping, water and other outdoor activities, etc.)
+Timeframe: past 12 months"
+a39f4e6ebd202592541419448d3458ae3b45e8f9f0ec6c01acc396c9e364b7d0,"Question: purchased from an outdoor pursuits retailer? (by outdoor pursuits retailer we mean a retailer that sells equipment and/or apparel for activities such as camping, hiking, snow sports, cycling, fishing, boating, etc.)
+Timeframe: past 12 months"
+3d21bf5d6cdeae15a07b39df3b411607258dfd78dae57e95388e04b8387bcef0,"Question: purchased everyday outerwear? (by outwear we mean coats, jackets, jumpers and other warm and protective garments)
+Timeframe: past 12 months"
+c72d34dd6f125cacbb96aed86c7c7655e31ffa7e660ecf5959b29e690adc0002,"Question: purchased packaged baked goods (excl. sliced bread)? (this can include bagels, buns, pizza bases, crumpets, etc.)
+Timeframe: past 3 months"
+03f4e72fb8ec132edfa975a804973d769119e395f7e092271dc339a43dc760d5,"Question: purchased packaged noodles
+Timeframe: past 3 months"
+30a012d5ec56611473abd1c6fa1d0e07b9e34b2f4f44f491566043370222b006,"Question: purchased packaged nuts
+Timeframe: past 3 months"
+39204e28379c9f8e1515f2874807f789aaef0f5ba0cff9780ae2ef566ab09082,"Question: purchased packaged rice? (This includes dried/uncooked and microwaveable pouches/cups)
+Timeframe: past 3 months"
+e2a7ffdf35be965efb7858e7231808e68a556e1846cf2ebcf90ec0d51b9f7041,"Question: purchased sweet or savoury packaged snacks? (this can include chips, crackers, biscuits, chocolate, etc.)
+Timeframe: past 3 months"
+aa7dbb4fc1cb0aab1f2803c09ffea958d01eb45bf781fbb921310aa929c2706a,"Question: purchased pain relief products
+Timeframe: past 3 months"
+db3686c6c580b29fc93fbccd668e6a913d77f89e5dbde588a66c70a912d91dff,"Question: purchased paints, coatings or wood-stains from a retailer
+Timeframe: past 3 years"
+e66dae11c2231551d10b66bd66f55860ade4e7b036695b59d9f9648b75e8c9c9,"Question: purchased paints, coatings or wood-stains
+Timeframe: past 3 years"
+d7c9f7a68c45cd53d6cfda50775e782ade66de6e5c1fc0aa033f4d71726e5091,"Question: purchased pasta, noodles, rice or other grains
+Timeframe: past 3 months"
+2e3575e3ad652772e1e90bd94c675b06bd27176a3b7eef36d83ea121672b346f,"Question: work in or own a business with employees and are you...
+Qualifying answers: In another job that involves payroll | In the finance team | In the HR team | In the management team | In the operations team | The owner"
+d4a1cc9281b88f94b28e4cf5e322d113d23245d260eb3cc364cfdab67014cff0,Qualifying answers: I do some or all of the household grocery shopping and I have purchased peanut butter or nut butter (e.g. almond) from the supermarket in the last month
+b1517267ea48195954a32f34adf014340c16daa3a9f02de3b46594edb1c0720a,"Question: paid to see a performing arts event? (this includes ballet, dance, opera, theatre, orchestra)
+Timeframe: past 12 months"
+b064fe44f6dd72a5416868d99162b5f3366cf8b1427a26bf78bfd588706cdc89,"Question: purchased period products? (by period products we mean sanitary pads, tampons, menstrual cups/discs, period underwear, etc.)
+Timeframe: past 3 months"
+a7463cb75f0ce7ac0e9efc2fded7b0eafa69fa0aefe69bd753427d39f4dc59a7,"Question: purchased period products? (by period products we mean sanitary towels, tampons, menstrual cups/discs, period underwear, etc.)
+Timeframe: past 3 months"
+edf361ca75876b2b6f2859a9cd18ceeee0c7fef5d9f0a2b6e7250f74d9d538aa,"Question: held or contributed to a personal bank account with a bank in Australia? (this only includes bank accounts for personal use, and does not include accounts used for business purposes)
+Timeframe: past 12 months"
+932aef0ae14b9386781ff586b4ad0c0eeb6b058aaf49e263c67decd39f714acc,"Question: held or contributed to a personal bank account with a bank in the New Zealand? (this only includes bank accounts for personal use, and does not include accounts used for business purposes)
+Timeframe: past 12 months"
+a0ab3e6f044fe3f69e110bad46f7ec2c24eab4d41ee691d42958abd8c5e46c14,"Question: held or contributed to a personal bank account with a bank in the United Kingdom? (this only includes bank accounts for personal use, and does not include accounts used for business purposes)
+Timeframe: past 12 months"
+6a0a35782d6521ef78231564eda3d443719eb5279614a2683c102bf5fa36804f,"Question: held or contributed to a personal bank account with a bank in the United States? (this only includes bank accounts for personal use, and does not include accounts used for business purposes)
+Timeframe: past 12 months"
+065755adf3086f1cd3f08044c406a30ae6404b9bbb0d49137210d40bf6f82610,"Question: In past 3 months have you purchased personal care products? (this includes skincare, haircare, soap/body wash, deodorant etc.)"
+934953922273018a60eb8e6094cb5e27089e8c31943aa8f29b6438f87b66e2e5,"Question: purchased a personal computer
+Timeframe: past 12 months"
+cb2eae3ea5e6a7de6ff8d68de774477fd04dcef29b78ac207856605b26ebf210,"Question: used a personal loan service
+Timeframe: past 3 years"
+92d89d69a1ab7428e983dc3f7dcb9ef0c8325c0049679695b309a9b394896aa4,"Question: purchased a personalised book? (by personalised book we mean a book that has been customised to have specific names, characteristics or other features included in the storyline for both kids and adults)
+Timeframe: past 12 months"
+cf3b1680f79be944fcd94e1e144cd6fd93544c2ec41b8674dc40a38dde915d35,"Question: purchased a personalized book? (by personalized book we mean a book that has been customized to have specific names, characteristics or other features included in the storyline for both kids and adults)
+Timeframe: past 12 months"
+0631a8844d054bdf195e7861c0d4fb67e57af7d85d642fa0c66e0eed9762ff41,"Question: purchased a personalised gift? (this can include personalised books, cards, engraved jewellery, customised art, etc.)
+Timeframe: past 12 months"
+8962438b1fb3e02c15ce8625ae8303f0d4a339f47c3c5b0de44bee8e0abe8ce5,"Question: purchased a personalised photo book or album? (by personalised photo book we mean a book that has been customised with personal photographs and text)
+Timeframe: past 12 months"
+c45e1ed890d119a2523dc273ba3966c8a2faca0351c1a1a91104cea13a555f3e,"Question: purchased a personalized gift? (this can include personalized books, cards, engraved jewelry, customized art, etc.)
+Timeframe: past 12 months"
+7b6a3bf400230b2e04a8970e09dadad2df2ddda72fa0c2790811dc83d9935893,"Question: purchased pest control products? (this includes sprays, traps, bombs, etc.)
+Timeframe: past 3 months"
+f5df173ede81a2e82ac9d311134aafcffdd5292dff9575b4165f1b7aa8e50c65,"Question: purchased pet care products (incl. parasite treatments, supplements, grooming, accessories, etc. for a cat or dog)
+Timeframe: past 12 months"
+cd310db43ea5accf031aeb945e3f079dae1853a7110c5eb80983f1c97d958901,"Question: purchased from a pet product retailer? (by pet product retailer we mean retailers that sell items such as pet food, pet care products, etc.)
+Timeframe: past 12 months"
+5cefd088c73b9366d27099bfd8037994dae06a46adf2546509f7aa1b49623a87,"Question: used a pet care service? (this can include pet sitting, walking, daycare, boarding, grooming, etc.)
+Timeframe: past 12 months"
+e380b4aaa9613d42e21cc158e84bd2e64fbdd53d8befe86358080fecc5a37c4d,"Question: purchased pet food? (This includes both dry, wet pet food and treats, for both cats and dogs)
+Timeframe: past 3 months"
+c853dc7e1e8a4fc7c3bf33bf9e88a25d89060c04b64da6d141b730b2611776d9,"Question: purchased
+Timeframe: past month
+Qualifying answers: Cat food | Cat supplements | Cat treats | Dog food | Dog supplements | Dog treats"
+d7b99ff22eb67af56520426e264b06a5bb1acdb2882843788d130e5fee626a2f,"Question: purchased pet oral care products? (this includes toothbrushes, toothpaste, dental chews, wipes, oral gels/sprays/powders etc. for a cat or dog)
+Timeframe: past 3 months"
+7709a90e8ef2d0dba3a34b34c694c9e34b19707657837e586bed1b76d5f929b3,"Question: purchased from a pharmacy/chemist retailer? (this can include over-the-counter medication, personal care items, etc.)
+Timeframe: past 12 months"
+6918727a476861b67a8d26f6112109b4ceb929fffdf3e554227651fa6e5f6cfc,"Question: visited a physiotherapist
+Timeframe: past 12 months"
+1ec1976acc005b7bd73a910ad8bfdcfd3b02ebbb0030ef886dc66f0014365e67,"Question: used a service to custom frame art or photos
+Timeframe: past 12 months"
+56257c0e672a44f763a8e950dbe97ce9327601fbc8078e888154fd74e0b013f1,"Question: bought or streamed pop music? (this could be CD's, vinyls, digital downloads or online streaming and by pop music we mean large scale solo artists or bands)
+Timeframe: past 12 months"
+3a77d560967bedab54e1549f2d2299bfd678037c66336c75c3315641fe2623d5,"Question: paid for a pre-made meal delivery service? (by this we mean delivery of pre-made/packaged meals to your home, that can include subscription options)
+Timeframe: past 12 months"
+2c4358ec021367488fd541184af7cedd8b2d202e8da5519e96372b661afa618d,"Question: purchased pre-made burgers/patties? (This includes meat, fish, meat-alternatives and veggie alternatives)
+Timeframe: past 3 months"
+1d9b57e45e09d1ab5fc047114dee2965f0b7a403805e289fefdc2350b735a8de,"Question: purchased pre-mixed alcoholic drinks/RTDs
+Timeframe: past 3 months"
+a7b6b70e49464b4aab0301017363b68c97d5b2906787b4322908655934e2fddd,"Question: purchased a pre-mixed cocktail? (by pre-mixed cocktails we mean pre-packaged cocktail mixes with or without the alcohol already added)
+Timeframe: past 3 months"
+727686cbd572a9fa27ba137d66d532ad636247ff33525832d7e1ee605b76d698,"Question: purchased a premium breakfast cereal? (by premium breakfast cereal we mean high-quality, artisanal or gourmet cereal products that may have a health-conscious focus)
+Timeframe: past 3 months"
+7eeb0f814a537c692caba9362e5952dccb7c6618f0fe1ecf5c7a55c4ed773001,"Question: purchased premium butter, ghee, or other dairy or oil-based spreads? (By premium, we mean sourced from specific locations, potentially international, and may include various flavors or aromas)
+Timeframe: past 3 months"
+b857c0c803602ce6ca6e055dc7614150b7f717674838b61125702627b7349256,"Question: purchased premium cookware? (by premium cookware we mean superior quality, design, performance, and longevity, made from premium materials such as copper or cast iron etc.)
+Timeframe: past 3 years"
+2b83d7b075e471eb60321d1f1ea460e590605d2eb695f2b0889e757aae7e35e5,"Question: purchased premium dog food? (by premium we mean dog food with higher quality ingredients and whole meats typically sold at specialist pet food stores and approximately priced at AU$10+ per kg)
+Timeframe: past 3 months"
+e6f861ca5b8613816fbba80e1832396c99b3c1b5adf43b6a6c58cddf418e3f26,"Question: purchased premium dog food? (by premium we mean dog food with higher quality ingredients and whole meats typically sold at specialist pet food stores and approximately priced at USD$10+ per lb)
+Timeframe: past 3 months"
+a602e78dec5cd966d5c492a8c54ea9457e5b5ae5603d998d3a3f0f66382afca9,"Question: purchased premium fast food? (by premium we mean higher-quality fast food that may offer an elevated dining experience or customization options, etc.)
+Timeframe: past 3 months"
+01124e56d7fd9cbfe8642fb33419741efa36fcfbcd8b131361afa4538f253f8d,"Question: purchased premium haircare products? (This includes shampoo, conditioner, treatments, dye, stylers, hairspray and dry shampoo, these products are typically $25USD+ and not found at a supermarket)
+Timeframe: past 3 months"
+a274fc88b597672939cf55930efac775490ea5d0693a6965926ee8ff14c3d957,"Question: booked a night at a premium hotel within Tasmania (less than AUD$400 a night)
+Timeframe: past 12 months"
+02714f7e127ef5dd94665b4636e6af51e703ffacc6883ca6b5efd0f1ff9ca8dd,"Question: purchased premium men's activewear? (by premium we mean items priced at $50USD or more, typical made from higher quality materials)
+Timeframe: past 12 months"
+8b01759694d08d25226aacd7fe002fbacd34dfbfa58f7d5824bb8f14efcabe21,"Question: purchased premium men's clothing? (by premium we mean men's clothing made with high-quality fabrics that is often more expensive than mass-produced brands, usually AUD$120+ per item)
+Timeframe: past 2 years"
+6c76006e5b7afaacabf2f4f87fd97a627f5d75bdbb9f9de6b3188ac3c2e4ff47,"Question: purchased premium men's clothing? (by premium we mean high quality fabrics, this does not include mass production brands)
+Timeframe: past 2 years"
+3da8c19d06023683130a2dcdaace590af0b9e4333e774e724990ccae8ee9d89e,"Question: purchased premium men's underwear? (by premium underwear we mean underwear priced $20 CAD or above for a single pair)
+Timeframe: past 12 months"
+92d18485075c7f0e21abe2ab2e8b42fb9d7aa12dff57ae82855174f81529a235,"Question: purchased premium men's underwear? (by premium underwear we mean underwear priced $15 USD or above for a single pair)
+Timeframe: past 12 months"
+3837fd0e8d9699f452657c98b164e6a64b6842d1e2c2699f41a3c3b99b7f2a70,"Question: purchased premium red meat? (by premium we mean red meat that has been specially sourced or processed, typically using more sustainable practices)
+Timeframe: past 3 months"
+adee110ef61cc6ca4108e1cec8abe5eb465984f0c603c3c435b00884026b61d6,"Question: purchased premium bottled or canned sparkling water? (by premium we mean sparkling water sourced from natural springs typically from international destinations)
+Timeframe: past 3 months"
+93f3c82fa1e56a5763dea12f9a4b75f281bd44924b9874cfb0aaf263f63e1aa5,"Question: purchased premium supplements? (by premium supplements we mean supplements purchased at a chemist, pharamacy or specialist store)
+Timeframe: past 3 months"
+b4df72bffe6929cd2276c8d920bb40192ec079a2a38eac594fa327519c81b722,"Question: purchased premium supplements? (by premium supplements we mean supplements purchased at a chemist, pharmacy or specialist store)
+Timeframe: past 3 months"
+2b626bea29720e3ced8dd14333636fb11b4f7f425099145f1452944d603c3388,"Question: purchased premium toilet paper? (by premium we mean high-quality, eco-friendly or hypoallergenic toilet paper, that can come with subscription options)
+Timeframe: past 3 months"
+3ac469a6a09378d1d4dd5bfefb02cbf58cadddb3b1024d1a21f0a69a15371e05,"Question: purchased premium wine? (by premium we mean wine of higher quality that is usually AUD$20+ per bottle)
+Timeframe: past 3 months"
+238f9b6425fa1d050a280ef0530fb2572752e7dc00a57670472250fc8faaf412,"Question: purchased premium wine? (by premium we mean wine of higher quality that is usually USD$15+ per bottle)
+Timeframe: past 3 months"
+2edd47ae49ceebe3ad012f41bc641a7a6154136fdd0134333cf397d989804868,"Question: purchased premium women's clothing? (by premium we mean high quality fabrics, this does not include mass production brands such as H&M or Zara)
+Timeframe: past 2 years"
+589c766d2d28f788d516f1c1014301bbc260320b948537468e270568afd48771,"Question: purchased premium haircare products? (this includes shampoo, conditioner, treatments, dye, stylers, hairspray and dry shampoo, these products are typically $40AUD+ and not found at a supermarket)
+Timeframe: past 3 months"
+98a879467f154bac78d0d1919fc8fe9fd071268a419dd7955f9c765fcaebe248,"Question: purchased premium haircare products? (This includes shampoo, conditioner, treatments, dye, stylers, hairspray and dry shampoo, these products are typically $25USD+ and not found at a grocery store)
+Timeframe: past 3 months"
+86b25b210713557493478cd5ab60e6ac244bbb0b1f6597325abfdfd711935a44,"Question: purchased a pair of prescription glasses
+Timeframe: past 12 months"
+a24b871e44c47b05c3523a4c022c07e5958a26db8cfd21fcaa78eb392d162e25,"Question: visited a property listing website or listed a property on a website
+Timeframe: past 2 years"
+347940268000eb102a442072eb3d90e5bb54977266717b143c3627df731a98de,"Question: used a property valuation or estimation service? (by this we mean a property valuation or estimation service for buying or selling a home)
+Timeframe: past 5 years"
+cefc27fb659716a1503eac1f7664fd2efdb12f820ea4a31ea2f12d01a3ad55b6,"Question: purchased a protein bar
+Timeframe: past 3 months"
+7e08d2ca9475f06bffff848bd578c160d6640983acd1229d80765947ef2faed4,"Question: rented an RV? (by this we mean recreational motor vehicles or trailers that include living spaces designed for accommodation)
+Timeframe: past 12 months"
+1f5dda41ab1214edd6f4ebcad5e2ec54d13b128668cb2f22ac481e81f17e3cc3,"Question: purchased a ready-to-drink protein shake/drink
+Timeframe: past 3 months"
+aaca853ea6d28affe0a3e9651588ee263e0b79b6ef995bc9d7328f9625a95fca,"Question: purchased a ready meal? (by this we mean packaged pre-prepared meal)
+Timeframe: past 3 months"
+faff2379592e89290bef16f5f9a0f3a1ed04bdf504ee118ff61a41a2122c1ad6,"Question: purchased or sold a property
+Timeframe: past 5 years"
+d5606777bafabc6d24960ac2032a039043f4f50b9574ad493f1a0578b8422da0,"Question: Please select that apply
+Qualifying answers: In the last 2 years I have had a property managed by a Real Estate Agent | In the last 2 years I have purchased a house, apartment or another type of property | In the last 2 years I have rented a house, apartment or another type of property | In the last 2 years I have sold a house, apartment or another type of property | In the next 2 years I plan to have a property managed by a Real Estate Agent | In the next 2 years I plan to purchase a house, apartment or another type of property | In the next 2 years I plan to rent a house, apartment or another type of property | In the next 2 years I plan to sell a house, apartment or another type of property"
+d74f4728995ca92b41bfb9ef6b1bd0af9048554ed7d2677db4d9ff0bef821172,"Question: bought, sold, rented a property, or visited a property listing website
+Timeframe: past 2 years"
+99e38f7598909686bb65bd1db0d83546741cba703533d009d280b2da6b505e16,"Question: applied for or posted a job with a recruitment company
+Timeframe: past 3 years"
+1482bca7c3d1e161ec0bec6804a5c37b8d01dbe66685998fc388c5057cc61623,"Question: purchased red meat? (by red meat we mean beef, lamb, mutton, pork, veal, venison, goat)
+Timeframe: past 3 months"
+7c969a5476ada3f78c879ea7a9892a82af7afa40163d6c7b541a813d665e914e,"Question: purchased a newly built home
+Timeframe: past 5 years"
+8dca0f39e3bead715e725db00f636e29c797a2a2f75c410cec4ae98038f8097b,"Question: engaged a residential renovations provider? (by a renovation provider/service we mean companies specialising in house extensions, whole house renovations, or a specific room renovations i.e. kitchen, bathroom)
+Timeframe: past 3 years
+Qualifying answers: No, but I have investigated renovation providers"
+9896c08996fb1d5f66f9a803d977d88c6defacd121d2056b06f726417a8f98cf,"Question: shopped at a retail establishment? (this includes specialty, department or discount stores, shopping centres, pop-up shops, etc. both in-store and online)
+Timeframe: past 12 months"
+b02f76c74cb2f126ebff193ed625a81656306be0f6574b13f7c39f9f2f9f4bb7,"Question: purchased a reusable bottle
+Timeframe: past 12 months"
+82e8903177c3c17b8db32e1e2cc19ad1fd760ea703ede68f9c94e7843ff5d7da,"Question: purchased reusable drinkware? (this includes bottles, mugs, cups, etc.)
+Timeframe: past 12 months"
+4662f0947f0e822b2b4330d7331918f5eb5efcd86645c4265368db2f164ed1fc,Qualifying answers: I do some or all of the household grocery shopping and I've bought crackers or rice cakes in the last month
+e3056fb3a3637d6f8baa0a406455004924d4a017b0eb16263541619710d502f7,"Question: used a ride-share app or service? (by this we mean an app or service that allows you to book a driver for transportation)
+Timeframe: past 12 months"
+9bba2f0759ed7fa87d0026d1a42d9226087b6ec0b274cdc2c36c766826bb80c1,"Question: paid for a roadside assistance membership? (by this we mean a membership that provides emergency help for vehicle breakdowns)
+Timeframe: past 12 months"
+25a73461952da8ed4021e1ee8dc4ab54689df24df7d035cfc6d9e5dd7902d735,"Question: Please select which of the following apply? I own a home or rental property AND ...
+Qualifying answers: In the last 2 years I have built or been involved in the build of a home or rental property | In the last 2 years I have replaced or renovated a roof on a home or rental property | In the next 2 years I am planning to build a new home or rental property | In the next 2 years I am planning to replace or renovate a roof on a home or rental property"
+85cfddb78ea8b9a5c393095e22854ce2d03c595736f439484ab311b8a5fdb8ea,"Question: purchased a rug
+Timeframe: past 2 years"
+a992f04c2f770c8b571ef3409f265f068ce7082cf522b5d9f29c8dc820e6dc5d,"Question: Please let us know if you have purchased
+Timeframe: past 12 months
+Qualifying answers: I have purchased running hats or running clothing"
+d5a749344ba979f4d71b6e4c25700f6978261500d44304365305445f58e27902,"Question: Thinking about farming, agriculture or horticulture businesses, do apply
+Qualifying answers: I am involved in the decision making for a business that produces agricultural or horticultural products (e.g. farm or orchard) | I give financial or non-financial consulting to farmers, those producing agricultural products or those producing horticultural products | I work for a business that produces agricultural or horticultural products (e.g. farm or orchard) | My job in some part supports the businesses in the agriculture and horticultural sector"
+f7a9fee10d9038dbab598f8a57a9e2bb94de77d0c0b4ab5d262eed5306dd98e5,Qualifying answers: I do some or all of the household grocery shopping and I've bought pre-packaged salmon in the last month
+e48920082ac7b190b2fad7dcffb638980fcf51ea77103aa25d1d7f1fb0044ce5,"Question: purchased sandals, flip-flops or other open-toed footwear
+Timeframe: past 12 months"
+8e693fdab1586cbea797b3b47186fe7437f84acebf98c11b5a380b6267711b30,"Question: purchased savoury packaged snacks? (this can include chips, savoury biscuits, crackers, crispbreads, rice cakes, etc.)
+Timeframe: past 3 months"
+ded706fb1c91d0b1ffc663a34f053753c6eb2d451ec50951b33ace3c37599184,"Question: purchased a savoury yeast based spread
+Timeframe: past 3 months"
+bda3e6a698305c9c1d0fe9e72308b5a305a6116dd3e58bd7e6087a3cb126866b,"Question: purchased self-tanning products? (this also includes tinted moisturisers or similar)
+Timeframe: past 12 months"
+2ea074ef6b034de8affcb354817f3e49eb307b1bab519933ca41ea50ff592884,"Question: invested money using a broker or trading app or website
+Timeframe: past 12 months"
+3c339b4c9bb73ee7dade7ff3f294f316e98a6799288f60a69747612befd27f8c,"Question: have any money currently invested in
+Qualifying answers: Another way (what is that?) | Managed fund | Shares, either by yourself, through a brokerage or an online platform | Term deposit with a bank"
+e4116b7e4f6b85640915201c33fa8db72cd837a293a8ebb8a8cfc02e0c09e96a,"Question: visited a ski field in New Zealand
+Timeframe: past 2 years"
+46983c0c9ee3d93e8ec1672b623a8e4d5e3d598eeac2efd65eb32cfc10c31df1,Qualifying answers: I've bought skincare in the last 6 months
+4587c694cd9406a4e3e23c273dfce6b0d544dc5620bb6a86ccbe663b9f764ecd,"Question: purchased skincare? (by skincare we mean moisturisers, exfoliants, cleansers, anti-aging etc.)
+Timeframe: past 3 months"
+d164b7261150a9fceec80f736ab85c510495b3db48f7cf9bb512268afa934a5e,"Question: purchased skincare? (by skincare we mean moisturisers, exfoliants, cleansers, anti-aging, serums etc.)
+Timeframe: past 3 months"
+9d2e78a2f79779d6be3cf506539d5a2624b0856333b86b782708c072050c8b9f,"Question: purchased a smart watch or wearable device
+Timeframe: past 12 months"
+06f432c65c875fd4229b97f956ce11be9a0bdfdac487c86f5474b41a5f9d494b,"Question: purchased pre-packaged smoothies or juices
+Timeframe: past 3 months"
+62bf078a25197a962f19964a40ee86af790610838a9ef417f92c124c1c3cc0a5,"Question: purchased snackbars
+Timeframe: past 3 months"
+88882b90f380c31668aad1bc22d7662f754ff1c29ae7b0c9ce17636d6263bcdb,"Question: used a social media platform
+Timeframe: past 12 months"
+b96a2ff5c41a9da29f7bbd3c2062ce61afe16ab34dfd3502a0dad53eb19992c5,"Question: purchased socks
+Timeframe: past 12 months"
+06de4984073e8f2f530d6e63f7c32ba2f25d146e29e66e7b7bf04462e7cea584,"Question: purchased a soft drink
+Timeframe: past 3 months"
+2ce558f6910d783e124c338526a6e497a5c6bda433ad0f0a77bed55504401eae,"Question: purchased soda
+Timeframe: past 3 months"
+d95b21198fa1f1e86f6702a58bd5f57ce0de7c2acb978d65b3bb2b6ff7adcd52,"Question: installed solar panels on your home
+Timeframe: past 5 years
+Qualifying answers: No, but I am open or likely to install solar panels on my home in the near future"
+8ed0665c4f82d09fce6631670d2c47906b91f63aa9d8c637cda12871593256cf,"Question: installed solar panels on your home
+Qualifying answers: I am considering getting solar panels installed on my home | I have solar panels installed on my home | No, but I own a property AND would be interested in installing solar panels | Yes, I have solar panels installed on my home that I own"
+c95b1f7dd92f56cd22f393ced5208b07e04dbdf71bb749908491ce0b5b0321de,"Question: purchased soups, broths or bone broths? (This includes prepared, chilled, frozen and powdered products)
+Timeframe: past 3 months"
+7148344e0006ce3d047fb9999d0b955ccc0632d8a720552b18246acc404320fb,"Question: purchased Speciality Cheese? (by speciality cheese we typically mean smaller blocks of international cheese varieties, or cheese made with other animal milks other than cow's milk, aged, smoked, blue, or with flavoured with herbs spices or fruits)
+Timeframe: past 3 months"
+25837a376771db46eff5c6b3ff9f81013a2a945c9a34154b2e284e497ab61102,"Question: purchased speciality produce? (by this we mean packaged salad greens, herbs and salad kits that are organic, pesticide-free, or produced in greenhouses, vertical farms etc)
+Timeframe: past 3 months"
+f5fe862feebd99817a1ab98a4ce123274c66fe10c17e63b0a7a64e3d726b45bc,"Question: made a purchase from a speciality supermarket? (by this we mean a store focusing on specific types of products like organic foods, international imported or gourmet items)
+Timeframe: past 3 months"
+ae4561ce06dd9df711087b7f3a2e28c1c3dc9b1d45246291260e8bb98c6c7a83,"Question: purchased specialty fruit? (by this we mean fruit that is organic, pesticide-free, or produced in greenhouses, vertical farms etc.)
+Timeframe: past 3 months"
+7d3d30d46009880e28fd12021f06d8c10228ba98504cdf5f07b73fa6fd031ca9,"Question: purchased from a sporting goods and equipment retailer? (by this we mean a retailer offering a range of brands across sports apparel, footwear, equipment, gear etc.)
+Timeframe: past 12 months"
+632b0194013db64063193c21c6f3ef4c36c767b13a28c4be1789e0d80a2f3413,"Question: purchased any sports merchandise? (this includes sports tops, sweatshirts, accessories, caps, beanies, etc.)
+Timeframe: past 12 months"
+5b165cc8dc816e912327845171df9b4a06ddda5cada171c7dc47810c6666824b,"Question: purchased sports nutrition products? (this could include protein powders and bars, pre-workout, sports drinks, etc.)
+Timeframe: past 3 months"
+e78e2ec984696809e41e879e032531065c40b8a19450d48ae9f54d000b474302,"Question: purchased sports supplements? (this could include protein powders and bars, pre-workout, sports drinks, etc.)
+Timeframe: past 3 months"
+49ad3bf6fb6b1d8d210adebbaf36c0f6171ea3c5f9c604a8b3af841223989b8c,"Question: consumed in the three months
+Qualifying answers: Carbohydrate replenishment powders | Collagen powders | Protein powders | Sports bars (e.g. protein bars) | Sports drinks"
+bc2fdf31be32d72905c086eac7fc223a0f69417ef9abfe5d8d8ab8524ed6a049,"Question: purchased sports beverages and powders? (this includes electrolytes and other recovery products)
+Timeframe: past 3 months"
+a787fc26d0cdbc0e3f76034adbb6a24e01069b73fa6fe66ccd545f8951997a9b,"Question: purchased sportswear? (by sportswear we mean clothing designed for sport or physical activities such as running, training, basketball, football, etc.)
+Timeframe: past 12 months"
+00e52a46547bd16fe5cd11a3a4995c05962fe35c79ae8922359b7706b1dc3f64,"Question: Please let us know if you have purchased
+Timeframe: past 12 months
+Qualifying answers: I have purchased footwear (over $100) for running or walking (for exercise) | I have purchased footwear (over $100) for sports | I have purchased running hats or running clothing | I have purchased sports clothing or accessories"
+c1921a6e9ab2947f5525e837c1b8134c6d4ee4bdbf3cdd97ecda314d43c9c737,"Question: paid for, or do you currently rent self-storage? (by this we mean paying to store personal items in a facility outside of your home)
+Timeframe: past 2 years"
+1dd3467483f48eb070a309431a12a8631f11cc25286494d3f6d396f05f1115c1,"Question: subscribed to or paid for an online streaming service? (by this we mean an online streaming service you purchase for watching entertainment)
+Timeframe: past 12 months"
+0f4cc4d723ea962306f3b1c89389e74659a86b69bd53df358f664861a5427f14,"Question: r consumption of entertainment
+Qualifying answers: I currently have a subscription/access to a satellite service | I currently have a subscription/access to an online streaming service | I currently watch on-demand content from a free to air service"
+9f417d28d8c14b304d08cab3a0f52b1a6c3a622d5351cafc352b5767f41b8af7,"Question: purchased streetwear? (this includes footwear, apparel and accessories)
+Timeframe: past 12 months"
+d04907f79a9d59ee9fd27fd2889f87ddd6701cb9b6663a1cee04f9193f4aadcd,"Question: purchased sugar confectionary/lollies? (By this we typically mean a bag of single piece sugar based products, hard candy, gummy lollies, pastilles and liquorice)
+Timeframe: past 3 months"
+c544ce4ea4213c2e024c5882b79e48ed3b9b1f7575f2e22289f5e39423859cc3,"Question: purchased sugar confectionary/candy? (By this we typically mean a bag of single piece sugar based products, hard candy, gummy candy, pastilles and liquorice)
+Timeframe: past 3 months"
+1b4be13294c5caa149187f6e238b8cd499db8f4cd2c2871af3ea12082ea80e69,"Question: purchased suncare products? (by suncare we mean sunscreen, sun-tan lotion, and other sun protection products, including aftersun)
+Timeframe: past 12 months"
+f0d8d46ac62c8f55bd238c764ef8a92e6087c8e2196463461c8a5595eaae502c,"Question: purchased suncare products? (by suncare we mean sunscreen, sun-tan lotion, and other sun protection products, including aftersun or skincare products with SPF)
+Timeframe: past 12 months"
+68a89f2a41e9f70155972afd4aac173dcdafc6e57e5d285bade31bab5b4f88f7,"Question: purchased sunglasses
+Timeframe: past 12 months"
+b0d0da1e55c5677a1da3335e46ebc490a84e05fb84d0924653cd85e3f7387e79,"Question: or your employer paid into a super or superannuation fund
+Timeframe: past 12 months"
+62e06aac099384033b017637b4f5cd3fbcda6399b774b700e55d1862d9c22e07,"Question: made a purchase from a supermarket
+Timeframe: past 3 months"
+4122dfd167f7e3182d92cf76b6b8854d8e54292d28b7ee14a282cc01d0b7ae48,"Question: made a purchase from a grocery store
+Timeframe: past 3 months"
+08d50aae1c54fe318c51811bc9bacc930b199b7e210cd70cda84700711146f4c,"Question: purchased sweet baked goods from a cafe, bakery or fast food restaurant
+Timeframe: past 3 months"
+66c2caf6d58511916350e88163429497f36a126d446e596bf859469594bc0406,"Question: purchased a swimming pool? (this includes in-ground and above-ground swimming pools)
+Timeframe: past 5 years"
+af026dede10d37de143c50925c2cfb22889a43b5ca7c0db9f3928c09106f79c4,"Question: purchased swimwear
+Timeframe: past 12 months"
+ba6c2376ff4d479af9668fe786118576565fb13f673ee7bf0bef22e57473ce44,"Question: used a takeaway food or drink delivery service
+Timeframe: past 3 months"
+92d4064bb15d10a229fdcb288727915d90c0dda3f7176f3429d73f5b0234f5c8,"Question: purchased teeth whitening products
+Timeframe: past 3 months"
+c51316f45e2ae379e4cbbf2e2bd8030fed785ca71802142ff56d9e0e20df7c4e,"Question: purchased a temporary tattoo? (by this we mean non-permanent tattoos)
+Timeframe: past 2 years"
+78206ed294be5b4f7790d84cb895ea4e6516db1b77cdd378e833237e7daffcb7,"Question: purchased tickets for theatre shows in London through a ticket platform? (This includes tickets for musicals, plays, opera, or dance etc)
+Timeframe: past 12 months"
+0b7f34e5a813aa8faeed363272c0c47aeb665b50181fbdcabb47174e03479987,"Question: purchased tickets for theatre shows in New York through a ticket platform? (this includes tickets for musicals, plays, opera, dance, etc.)
+Timeframe: past 12 months"
+26be513dbcdf14c70d486c85a16a3168d3b8baf24ad6bc0bb2d8d0ce1c8fd7d7,"Question: seen or engaged with a mental health therapist? (this includes online or in-person)
+Timeframe: past 12 months"
+50b14ef23e30fdb5c8e10d6eb95330dad14c2b18792a3579f9df5ea3f49e6a95,"Question: purchased tiles from a retailer? (this can include tiles for flooring, walls, decorative purposes, etc.)
+Timeframe: past 2 years"
+eee609d2975293fb658e61266efcf9fd0b923b633565623ded49569f027e67e3,"Question: purchased timber, outdoor fencing, farming buildings, or outdoor timber furniture
+Timeframe: past 5 years"
+26c472d85745a9d28289e23631cced5b4590d77c39889845a1ef067dfc32ee70,"Question: purchased wraps or tortillas
+Timeframe: past 3 months"
+306c885d475cfa8ee652a155e16f27db58ee2a641581853ec703c4fd2f2e74a8,"Question: purchased trade or safety footwear? (this is footwear typically with additional safety features/materials to protect feet from hazards)
+Timeframe: past 12 months"
+9ba892256e07609420bdfb651c2fc0e393ab5ff111b56ccd8ff86c8899f9deca,"Question: used a travel booking service? (by this we mean online or offline platforms or services for planning, booking, and managing various aspects of travel)
+Timeframe: past 12 months"
+df7c9c030229c92827a5f14860d2802048054b69610c7371519049737680b293,"Question: purchased travel insurance
+Timeframe: past 12 months
+Qualifying answers: No, but I am likely to in the next 12 months"
+e31ebaa21e0a580ce2a5628d6f49422e9ae666bbaf8242d464f7d74046f57c37,"Question: purchased tyres or tyre services? (this includes wheel alignment, wheel balancing, tyre repairs, etc.)
+Timeframe: past 2 years"
+3bbc50329822d42e347db42d6d7478473f4949c2b58c3b46f0783f4ac461a1e4,"Question: read, listened to or watched any UK news or journalism content
+Timeframe: past 12 months"
+921da3dc2a098c37f4f07dbf7626db5266230255e11aaf5b168030a649fd44a1,"Question: bought underwear & lingerie
+Timeframe: past 12 months"
+4864a828273c785656dda0fa99f67da6d48bafd5a47ba438e2cb6b10f650cbbc,"Question: purchased socks, underwear or other clothing basics? (by other clothing basics we mean t-shirts, vests, and similar items)
+Timeframe: past 12 months"
+3f64587326d8d86c6ac569b26a3a6e65f33099b2ab5b97650c2ae47107bb9cd7,"Question: purchased socks, underwear or other clothing basics? (by other clothing basics we mean t-shirts, vests, and similar items)
+Timeframe: past 6 months"
+6c7526c397401e10f5738875c270013941e17e74081f461ffdee40a982511e0c,"Question: paid for a utility? (by utility we mean electricity, broadband, gas or water etc.)
+Timeframe: past 12 months"
+bfb191d3696b247c54ab7ce4a3025241c53deca7a5d239f6adfd1fe60eadb21f,"Question: purchased a vape
+Timeframe: past 3 months"
+281f9373842e03f6961d79d0dc9956d5e380cd427495ee2234d5dbfd3b967f00,"Qualifying answers: I do some or all of the household grocery shopping and I've bought products to make vegetarian, vegan, or plant-based meals in the last month"
+aa87bb24de499cfe5f6a10a20e2e29c9483528d16c1638e5a9584f6788996ae1,"Question: used a virtual/AI assistant? (by this we mean automated programs that can help with tasks and answer questions using spoken or typed commands etc)
+Timeframe: past 12 months"
+78bf7a16e0e00a0b41f7172f3bee3161d762d4e037b22c8147aaa352cf15cb7e,"Question: used or paid for virtual reality (VR) fitness services or apps? (by this we mean online classes and/or coaching)
+Timeframe: past 12 months"
+ef41302ddb5df42b020b48fa23f1bca0012d6ddff4b12ee529aee19afbc549cc,"Question: In New Zealand the total number of people with severe to moderate functional vision loss is estimated to be 180,000. Do you...
+Qualifying answers: Have limited or no useful sight affecting day-to-day tasks | Have moderate or severe vision loss affecting your day-to-day tasks | Support someone that has limited useful sight affecting their day-to-day tasks | Support someone that has moderate or severe vision loss that affect their day-to-day tasks"
+77e9c36435f5abc979bc6de2be0f667b14d83626b17c14ea12b2bfd1c21978ca,"Question: purchased vitamins or supplements
+Timeframe: past 3 months"
+9ce33a38e44f20eeb2f26fccce5707df96a43e8cfd9191fea0ec45d08f8a0a24,"Question: undertaken any vocational training/education? (By vocational education/training we mean certificate or diploma-level courses specific to a particular industry)
+Timeframe: past 2 years"
+3d9031bfbbe6dbd3351b390a62ee201b36eb9c9655d86e5a9b96157b1f973323,"Question: purchased vodka
+Timeframe: past 3 months"
+288213b1afc0adbee056e075dd275a1aaaedbe0b16262d88fdedee36f0c2db03,"Question: purchased water sports equipment, gear or apparel? (this includes surfboards, stand-up paddleboards, snorkelling gear, wetsuits, etc.)
+Timeframe: past 12 months"
+8b1d2562a79787e1f701a3958a9bb34e913e76e141b8c4f55ba787a0f12e0af1,"Question: purchased water toys? (this includes inflatable floats, beach balls, water slides, etc.)
+Timeframe: past 12 months"
+b18ccf79b878eee2671d52ec9ff311189db3c93ffa807099682d60f5adf3eb00,"Question: purchased any water toys or pools? (this includes inflatable pools, toys, sports equipment, above ground pools etc.)
+Timeframe: past 12 months"
+9fb4afeb964226fc8afc64ff0d1cd7410294ad7699464e2c24fa9e8c70cffecc,"Question: have any money currently invested in
+Qualifying answers: Another way (what is that?) | Managed fund | Savings account with a bank | Shares, either by yourself, through a brokerage or an online platform | Term deposit with a bank"
+c49928ae664099ba1c1cfd671ef0ada2b110d24ced25412e774128caff11751f,"Question: have any money currently invested in
+Qualifying answers: Managed fund | Other way (what is that?) | Savings account with a bank | Shares, either by yourself, through a brokerage or an online platform | Term deposit with a bank"
+c405c3970c114115334b61a02ed81f6357b0f8b9b8552d1b0dfcd1209270967c,"Question: used a wealth management service? (wealth management services includes financial planning, shares/trading apps, term deposits, etc.)
+Timeframe: past 2 years"
+86513d22042169b59ec6fee75182341c677dfd72ff86cb1b29f0a5c1691ca4e1,"Question: purchased weight-management products or services? (by weight management we mean products and services to help you typically lose unwanted body weight)
+Timeframe: past 12 months"
+7ff5f4ecdfae57628eb89c2152b22017b16fd3d758ca15ebba3139ff7fe6b3bb,"Question: purchased an over-the-counter or prescribed weight loss drug? (these drugs are commonly available in injection or pill forms)
+Timeframe: past 12 months"
+c7e7b8a22214c4ba9a87d4dcc6d5371306f84594c5080cf246d7d7110ad722dd,"Question: consumed spirits
+Timeframe: past 3 months
+Qualifying answers: Whisky/Bourbon"
+e0f26f6126897bb1e9bd9ec27bab101e4b44cdd5a6ae345c0ae12132f7fcef6b,"Question: purchased whisky or bourbon
+Timeframe: past 3 months"
+20b7b9c58b441b70787ca751a82108774344b161c942efd876d09bd4db2cebdc,"Question: purchased wine
+Timeframe: past 3 months"
+b855e5deaf9ff262726dca6ef3be96e309078f3bd8d1a21291bee7e6efb059d1,"Question: purchased women's activewear
+Timeframe: past 12 months"
+2e93161d9143fc390a44464b3c3a5e908d5c3d44c688ad1c67aa91eb6942d0eb,"Question: purchased women's shoes
+Timeframe: past 12 months"
+60bf145fdc4ea03946edc6f266d93efb1d5dfc99ca10fceb32530ab3485026a8,"Question: purchased womens clothing
+Timeframe: past 6 months"
+ac8b3773726209ed9033645f413022f2f1f57c259083c1b847414c472bb00fee,"Question: purchased women's clothing
+Timeframe: past 12 months"
+b53d30b83d1b5458fa1e4de17f4016f107eb54246e181496ea67a1449fbc199c,"Question: attended or watched a major women's sporting event
+Timeframe: past 2 years"
+f0ae7b9dbb0291000e3ad59c097acaf5306d60a60731df15ba3639fdacef6983,"Question: ever....
+Qualifying answers: Been involved in the decision making on a workplace training course | Participated in a workplace training course | Thought about participating in a workplace training course"
+fe2346304c1dd004228a06f05d9f0645a75892f65f7c6816f89642e958925934,"Question: purchased yoghurt? (this includes dairy and non-dairy alternatives)
+Timeframe: past 3 months"
+5b9b6e7d62d6163365c4d4179db6d3f80258c073ab13c8b87d08c7fdec13324a,"Question: purchased yogurt? (this includes dairy and non-dairy alternatives)
+Timeframe: past 3 months"
+fda76bb826bcb555220d08eaf4766c3d3e3445ddb37b2d3ecbf5a2c72f6f4004,"Question: booked accommodation? (this includes hotels, vacation rentals, or outdoor lodging)
+Timeframe: past 12 months"
+5270b020d611255e2c490d159c86c9444debd7645c1fd98be844090e57457fbe,"Question: used a salary or wage advance/pay on demand service? (by this we mean a service that enables you to receive your salary, wages or pay ahead of its scheduled time)
+Timeframe: past 12 months"
+c66fabd43c5d7c9dbdecaf1057885a01742be8e6813389bd2a55e86ca7d56dfd,"Question: purchased a non-alcoholic spirit or pre-mixed drink? (by non-alcoholic spirit we mean a beverage simulating the taste of an alcoholic spirit or pre-mixed cocktail containing a simulated spirit but with no alcoholic content)
+Timeframe: past 3 months
+Qualifying answers: No, but I am open or likely to buying it in the near future"
+e870232bb95cf47e489d6d9f6b014c6c3ac7bbd164129feaf6964921b2acfa50,"Question: Thinking about situations where alcohol is normally consumed, have you done
+Timeframe: past three months
+Qualifying answers: Purchased or consumed a non alcoholic, alcohol free or 0% alcohol drink | Thought about purchasing or consuming a non alcoholic, alcohol free or 0% alcohol drink"
+1836c7e44290eeb368fb2cbd963948db8bb790052cc91978aa346e2b3376290f,"Question: purchased a non-alcoholic spirit or pre-mixed drink? (by non-alcoholic spirit we mean a beverage simulating the taste of an alcoholic spirit or pre-mixed cocktail containing a simulated spirit but with no alcoholic content)
+Timeframe: past 3 months"
+a4165f4491cad6ad78e1b5d32baf7c70e79165386814b8c0496e0849b6d14442,"Question: purchased non-alcoholic spirits
+Timeframe: past 3 months"
+792ad5bf5befa762518485daaa109fdce2991979bcb40cd1b74f7eb09ad6e2db,"Question: purchased baby feeding products or accessories? (by baby feeding products we typically mean baby feeding bottles, teats and other baby feeding accessories)
+Timeframe: past 3 years
+Qualifying answers: No, but I am planning to start a family in the next 2 years"
+6642108e9515ef8c7c568b7c01bcfcf9f70884197d7c36cb33833add03a81f14,"Question: Please select which of the following statements applies to you
+Qualifying answers: I am a parent with a baby or toddler | I am pregnant/my partner is pregnant and expecting a baby | I intend to start a family in the next 2 years"
+1ebab1be4ea6a1353eace478dd5206e063a49bfa1abe072f6351b4ac9f4b474c,"Question: purchased a loaf of bread
+Timeframe: past 3 months"
+2841864f67dd6e1ce253b30e8692921a5d78b005b36f6ae95d2c6edcee606fee,"Question: paid into a car finance policy or leasing service? (this could be for yourself or paid for by your employer)
+Timeframe: past 12 months"
+54fad6b7d75390fc952851b52d8022941ff65a4a2630d58e9f334ea679e5cd66,"Question: purchased chips
+Timeframe: past 3 months"
+9bb8347ecbb291a5a238e861390796ba4fcce0e5cad66a82d4fd728a791c86d8,"Question: purchased a bag of crisps
+Timeframe: past 3 months"
+28317ff0aaf71f9d7c0ac133f8b43f4f58d79f3535b1c1040b268760dc1427f1,"Qualifying answers: I've bought chips, crisps or crackers in the last month"
+db8441f8a585cb4272543e8b5a6672af175f6db793a8515411266175a4775808,"Question: purchased costume or novelty apparel
+Timeframe: past 12 months"
+76d019aab0227e63dab8e3632566d06be031ceff7dd3b1b45fba7ae4018b47a5,"Question: purchased
+Timeframe: past three months
+Qualifying answers: Craft beer"
+6b14569f1fc83128797026ab3ae7544af15b4dd4181fe20214617b78512fea74,"Question: purchased
+Timeframe: past three months
+Qualifying answers: Craft cider | Regular cider"
+05d698c38f67d51fd211752bfd6bdfdd32b11d808638dccb742d7ff47305f23c,"Question: purchased, traded, or do you currently own cryptocurrency
+Timeframe: past 12 months"
+637026b0e97a3314759cf29feb87b03849ad516a2aa57b6be82c8f20537924c0,"Question: purchased spirits? (This could be in a drink at a bar or restaurant, or bottle at home)
+Timeframe: past 3 months
+Qualifying answers: Dark/spiced Rum | Whisky/Bourbon/Scotch"
+542fdaac8be8fd07320d2c438334a73738b6a6ad58c66e984f30b06bd275e926,"Question: purchased any deli or pre-packaged meat products? (this includes sliced meats, bacon, sausages, etc.)
+Timeframe: past 3 months"
+75bfbc88e6465c5f4183c6769f6876e8d2f7c2aa277d5973c5ed0bd5578b8242,"Question: do some or all of your household's grocery shopping and have bought from a supermarket
+Timeframe: past month
+Qualifying answers: Antipasto platters | Bacon | Bacon hocks and bones | Sliced meats (e.g. ham, shaved, salami)"
+85d43b77ec344f0c3f1bdb20662904815a846c7130d0df9fabc358c7e59dda31,"Question: used an EV charging station? (by EV we mean an electric vehicle)
+Timeframe: past 12 months
+Qualifying answers: No, but I am open or likely to own or use an EV in the near future"
+95f5ffa5f70fd52fbf31e8d9c0c04861c07a2850269c000ca12eca1eab9bb888,"Question: attended a major event? (by major events we mean large scale festivals or national sports, arts, or cultural events, conferences, etc.)
+Timeframe: past 2 years"
+bb5900ef3d3271c0aaf4e56fd665ee900c3ef77d47db6c9796eb9a6fc9e3b536,"Question: purchased from a footwear retailer? (by this we mean a retailer that sells a range of footwear brands)
+Timeframe: past 12 months"
+179cd5bbf714d47df261d9853b8d6ab9293d3b58a43b14f077f3bd4c5479c2b6,"Question: purchased...
+Timeframe: past month
+Qualifying answers: Fresh roasted coffee beans | Fresh roasted ground coffee"
+f24a30afb8d8e0ea133e6be409c261f184406266b397fec77515f9fff80216d8,"Question: purchased frozen fruit
+Timeframe: past 3 months"
+162a40c8f938523d2c9722a8ca745f3d385efd89ab5c001620b1ed161bdd9530,"Question: purchased a gaming PC? (by this we mean a computer built for gaming with high-performance specs)
+Timeframe: past 12 months"
+2a93c902e9265c475737599f49ad84d8ab27c172b95b8ed8b54fd69192a65141,"Question: purchased a health or wellbeing drink? (by health and wellbeing drink we mean a drink chosen to proactively support your health or wellbeing e.g. immunity, gut health, vitality, cognition etc through a nutritional benefit)
+Timeframe: past 3 months"
+90e6cd59d5417e5019793ed024e17033049127d57bff37b8f2da6a161d168021,"Question: purchased
+Timeframe: past 3 months
+Qualifying answers: Bath, body or skin products for babies | Bath, body, skin or haircare products | Bath, body, skin or haircare products for kids | Dishwashing or laundry detergents | House cleaners | Toothpaste or oral care products"
+926de417cde6c003fcc9cf3c5f3c06c4670a258eb15ea6e96aea73f2b0d66d04,"Question: purchased household or outdoor cleaning products? (this includes cleaning products for your kitchen, bathroom, house exterior, etc.)
+Timeframe: past 3 months"
+4b568204410062d1d2d3b363ea2fad5283beaba2f96e18a9aad7e11c6bf6bbf9,"Question: purchased household cleaners
+Timeframe: past 3 months"
+a9c235a3568fa596c34df536e68e2fbef182ed4afa00bbeddb7d8af8024385d9,"Question: purchased infant milk formula or toddler milk
+Timeframe: past 2 years
+Qualifying answers: No, but I'm hoping to start a family in the next 2 years"
+3aa03b674217737485f578e8b4754801cb0a7dccb6440c9545a4f806e8b0370c,"Question: Please select which of the following statements applies to you ...
+Qualifying answers: I am a grandparent or caregiver of a toddler or young child | I am a parent with a toddler | I am a parent with a young child (2 years+) | I am pregnant/my partner is pregnant and expecting a baby | I intend to start a family in the next 2 years"
+53c0b33f0b20100c1afac10164cb6f5e2acf7e39147b34dfa749be738fd7de92,"Question: purchased infant milk formula or toddler milk
+Timeframe: past 2 years"
+5993d0ba8fcbda230b21d606d6ff67cf225fc9bbcc8883dbafae8b314e656df3,"Question: used an investment website or app? (this means managing/growing financial portfolios through investing/trading on an online website or app)
+Timeframe: past 12 months"
+baccb4590e305c7d202889e26d43538f0317eb3d943392a1b9b2b032994f8458,"Question: purchased leafy greens or herbs? (Note this could include salad mixes, leafy greens like spinach, rocket etc or herbs like coriander, parsley etc.)
+Timeframe: past 3 months"
+88b6df0c149ca9b4ca24825013265ce31fc24d3031aae3ff7f78af06d13fb726,"Question: booked a night at a Luxury Lodge in Australia? (by luxury lodge we mean a lodge charging more than AUD$800 per night)
+Timeframe: past 3 years"
+3e1658c428a32120e8699f5c52952bc02b317b611d074dd119cb352512e23ac2,"Question: invested money into a managed fund, or do you have an existing investment portfolio
+Timeframe: past 2 years
+Qualifying answers: No, but open to likely to in the near future"
+2c3c7ff5362d7ef9e97067d3105d00daedab381e410bad5472a3fdeeb68db4b1,"Question: used beauty or wellness services? (this includes massages, spas, face and body treatments, hair removal, etc.)
+Timeframe: past 12 months"
+cc12e707dd1ba40a6ed56ec973d3ed832b737815a5eb3dd20850c2980c38f84a,"Question: purchased bedding items (e.g. mattresses, beds, and pillows)
+Timeframe: past 2 years
+Qualifying answers: No, but I am open or likely to buying them in the near future"
+4b9924f7379454f2043b9cd43ed6814183b25528765a89aebd7181b229db17f1,"Question: purchased medicinal cannabis products
+Timeframe: past 12 months"
+50e73147702b529252a55b5d699ed350214a62cf323313f8205c9e12e6e8da8b,"Question: purchased medicinal cannabis products
+Timeframe: past 12 months
+Qualifying answers: No, I am open or likely to in the near future"
+27422b2e00a5d1e57afa9e1a45948cf0cac019993b6a6c9104bff2376c27b1f4,"Question: purchased mens clothing
+Timeframe: past 6 months"
+6449f8f0b1345cc8532f3ad6bdac0430d016f2810f45ea10a4aa99355aad04ae,"Question: purchased motorbike sports apparel or accessories? (this could include sports like motocross, adventure riding, etc.)
+Timeframe: past 2 years"
+3ff22f04e7d8609c69cc0719fbc93875775fc4d082dfe6cf805a4b4947a9aabf,"Question: purchased nappies/nappy pants/baby wipes
+Timeframe: past 3 months"
+041d187ac202e53886d801e2377accaf4fc25e6caa670bb5ecdb43e4624cd108,"Question: purchased diapers/training pants/baby wipes
+Timeframe: past 3 months"
+ac8fe777a1dd8ccff96b03ae422dfc7f5d1c4bf7cbaa71b4d290e79744b7880c,"Question: enrolled or completed an online university course
+Timeframe: past 3 years"
+28b3223fcd3acceb985ec0622026bb91c681057dc50a07f612b33e7e2c32e788,"Question: enrolled or completed an online college course
+Timeframe: past 3 years"
+be737cb426acc01deb6b72a742994086057559c40b38d8a33b48ededd253b017,"Question: purchased personal lubricants or gel
+Timeframe: past 3 months"
+5bb9e75d9569ff99c5a2a27977243089bb73e952af8d060bc48c09c7d423c53a,"Question: purchased a power bank? (by this we mean a portable charger for your electronic devices)
+Timeframe: past 12 months"
+8c22650e6a550f16983a82c99b6740828320f0ec2e78c41a293b02cfeae5efd9,"Question: purchased premium cat food? (by premium we mean cat food with higher quality ingredients and whole meats typically sold at specialist pet food stores and approximately priced at USD$10+ per lb)
+Timeframe: past 3 months"
+d097a0da28ce4b5ef44b85df4714360c1c122203bb651aab02daaf25c7c834ae,"Question: paid for a membership or to be on the waiting list to a prestigious members club? (By this we mean memberships that offer exclusive access to benefits, events, sports, dining experiences or entertainment etc.)
+Timeframe: past 3 years"
+52eb889972292f3151fb50a4d4ebda66dae1137ac3c847d17da3ad17cc412171,"Question: purchased premium skincare? (by premium skincare we mean products (excluding makeup) that are typical sold at a department store, boutique, or skincare specialist store, usually AUD$50+ per item)
+Timeframe: past 12 months"
+f825e2f11189f9431a5fdf54f020d7b97c0edb0bd8831c3c6d4e872a525b1395,"Question: purchased premium skincare? (by premium skincare we mean products (excluding makeup) that are typically sold at a department store, boutique, or skincare specialist store, usually CAD$50+ per item)
+Timeframe: past 12 months"
+c67f57febb542d57d4e2f1caa975f3310cef81c86fddec8013f45846789ccd2d,"Question: purchased premium skincare? (by premium skincare we mean products (excluding makeup) that are typical sold at a department store, boutique, or skincare specialist store, usually £30+ per item)
+Timeframe: past 12 months"
+0e5a4af5a7423f874ae2aba15c0e11cf21034bf6bd1b36862db718230dabefcd,"Question: purchased premium skincare? (by premium skincare we mean products (excluding makeup) that are typical sold at a department store, boutique, or skincare specialist store, usually USD$50+ per item)
+Timeframe: past 12 months"
+508f8448d352d5bc72f8a7c08288443d8c08b19e9582de19545b049ac7ecc492,"Question: purchased premium women's clothing? (by premium we mean women's clothing made with high-quality fabrics that is often more expensive than mass-produced brands, usually AUD$120+ per item)
+Timeframe: past 2 years
+Qualifying answers: No, but i'm open or likely to in the near future"
+7f7caeaf2b8026bcbe1a70d2cd334c37d34fcda1b906957af0796eed3f757e99,"Question: purchased premium women's clothing? (by premium we mean women's clothing made with high-quality fabrics that is often more expensive than mass-produced brands, usually USD$120+ per item)
+Timeframe: past 2 years"
+363e5d0f08d77df0cc8e0de1777e3fa39c93edbf300b7210d51db05fdf64f357,"Question: applied for a job in primary or STEM industries? (primary industries includes agriculture, fishing, forestry, mining, and extraction of natural resources like oil and gas and STEM industries includes science, technology, engineering and mathematics)
+Timeframe: past 5 years"
+a7bf0674934bdc429b944a083c2e1dd72e0ffe870564ab8fddef421d52f35276,"Question: used a property finance and analytics website? (this includes websites providing tools, data, and analysis for house prices, market information, investments, financing, etc)
+Timeframe: past 2 years"
+252384905875021f508a896cdea1292314d198ab4e3eaffbbc697cd10bcb7962,"Question: joined a retirement village or community? (this could be a retirement village, community or assisted-living residences, but does not include aged-care facilities)
+Timeframe: past 10 years
+Qualifying answers: No, but I am likely to in the next 10 years"
+67e6a8b9ccaf1a06e55649dbce3187b95e1754fbad235a4084efd67bc5a878a3,"Question: purchased savoury crackers
+Timeframe: past 3 months"
+974d40c008c14ac810c7f6a4f883d8aac17f0d8ba433f31097d3962f4a10f06c,"Question: sold or bought a used car
+Timeframe: past 12 months
+Qualifying answers: No, but I am likely to sell or buy a used car in the next 12 months | Purchased a used boat | Purchased a used campervan caravan or motorhome | Purchased a used car | Purchased a used car or van | Purchased another motor vehicle second hand (truck machinery motorcycle scooter) | Sold a used boat | Sold a used campervan caravan or motorhome | Sold a used car | Sold another motor vehicle second hand (truck machinery motorcycle scooter)"
+86de70a1b16d3f463383d9675ef2de1c815759c5a1753d5d07e9c62de216398b,"Question: sold or bought a used car
+Timeframe: past 12 months
+Qualifying answers: No, but I am likely to sell or buy a used car in the next 12 months"
+90cf4435b083223273c83379b1e609d5b715505f2fae9883340cd0ffa66549c9,"Question: used short-term loan service? (by short term loan we typically mean a loan with a higher interest rate than a bank, e.g. payday loans)
+Timeframe: past 3 years"
+666364eeeba3d7ae0e64a776e0fc44e08a811f2a761a8028d56cc66e87167b93,"Question: made a purchase from a smoothie, juice or other beverage bar? (this means an establishment that makes beverages to order)
+Timeframe: past 3 months"
+39fe7b8c6a9d3b22e919ba6445fd8b133a2452b6a0687719aebbcfa96fbc38f1,"Question: purhcased syrups or food sweatner products
+Timeframe: past 3 months"
+e76daa78bd16022ace5c32416fb907f9f2c28c66eb2c5cc14a0f84779c82c18b,"Question: purchased packaged tea? (this includes black, green, fruit/herbal tea, etc. and can come in tea bags or loose leaf)
+Timeframe: past 3 months"
+aa54a4ba134c568e1e9c367d457c8ca4768a75e5e2f3c0228c8a4b8bfdd3e6c7,"Question: purchased a television (TV)
+Timeframe: past 12 months"
+a0032240d7bc7b297494a00c45168e15cf39738b5e8daeaec591e1a11f14f045,"Question: purchased tickets through a ticket platform? (this could be for theatre, museums, sightseeing activities, sports games, etc.)
+Timeframe: past 12 months"
+565fdbe7ab8bd5e9cd2d776ad6ddcee9cee8eca170954ed49ac3edf2d8dd80a1,"Question: purchased an umbrella
+Timeframe: past 3 years"
+ce06c22f5145a35debc77ea4b0b5c113468f9791ab5aef573b62f8b2e7214be0,"Question: purchased accessories for a ute or four-wheel drive vehicle? (this can include canopies, ute lids, roof racks, cross bars, side rails, etc.)
+Timeframe: past 3 years"
+33fbe4707ccdc50850fee103919f4b5d7f20710870199bc3f37d2799e489bd72,"Question: got a WoF or CoF for a motor vehicle
+Timeframe: past 2 years"
+b7f7af17de4f826232f8e0bea3bf0786b36d675e5a1cbeecb27b5b541133db3c,"Question: purchased spirits? (This could be in a drink at a bar or restaurant, or bottle at home)
+Timeframe: past 3 months
+Qualifying answers: Gin | Tequila | Vodka | White Rum"
+fb5acb850e08206458e41cee259434f90d69609e3b57cdeae886a84d2e483e1f,"Question: purchased white spirits? (this includes tequila, gin, vodka, etc)
+Timeframe: past 3 months"
+31995b768a2c2d9c7f5339beec3f003a96304bdcbed2fa6e6786d5192160d685,"Question: purchased a ‘better for you' soft drink? (by ‘better for you' we mean soft drinks typically low in sugar, carbs or with natural flavours etc.)
+Timeframe: past 3 months"
+783c7b7ce5f4f39bd7ae3f65fdd84c5af7803b0bfa390b5099210a5f8dd20768,"Question: purchased a ‘better for you' soda? (by ‘better for you' we mean sodas free from artificial sweeteners or artificial ingredients and low in sugar and calories)
+Timeframe: past 3 months"

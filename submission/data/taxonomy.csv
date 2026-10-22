@@ -1,0 +1,58 @@
+sector,subsector
+Food,Fresh food & dairy
+Food,Pantry staples
+Food,Snacks & confectionery
+Food,"Frozen, chilled & ready meals"
+Food,Health & alternative foods
+Food,Baby & kids food
+Drinks,Soft & functional drinks
+Drinks,Coffee & tea
+Drinks,Beer & cider
+Drinks,Wine
+Drinks,Spirits & RTDs
+Drinks,Non-alcoholic alternatives
+Food service,"Restaurants, cafes & bakeries"
+Food service,Food delivery & meal kits
+Retail,General & online retail
+Health & beauty,Personal care
+Health & beauty,"Skincare, cosmetics & beauty services"
+Health & beauty,OTC medicines & treatments
+Health & beauty,Vitamins & supplements
+Health & beauty,Women's & reproductive health
+Health & beauty,Health services
+Health & beauty,Fitness
+Health & beauty,Weight management
+Household,Cleaning & laundry
+Household,Household consumables
+Home,"Furniture, homeware & bedding"
+Home,Appliances & kitchenware
+Home,"DIY, hardware & garden"
+Home,"Property, building & renovation"
+Home,Home & utility services
+Apparel,Clothing
+Apparel,Footwear
+Apparel,"Accessories, bags & jewellery"
+Apparel,Sport & outdoor apparel
+Pets,Pet food
+Pets,Pet care & services
+Baby & kids,Baby & kids products
+Automotive,Vehicle purchase
+Automotive,"Vehicle care, parts & services"
+Automotive,Vehicle rental & subscription
+Finance,Banking & payments
+Finance,Insurance
+Finance,Loans & credit
+Finance,Investing & retirement
+Travel,"Transport, flights & cruises"
+Travel,Accommodation
+Travel,"Holidays, tours & booking"
+Leisure,"Events, attractions & experiences"
+Leisure,Gambling & lotteries
+Leisure,"Media, news & entertainment"
+Leisure,"Hobbies, gifts & recreation goods"
+Technology,Devices & electronics
+Technology,Digital & telecom services
+Services,"Education, jobs & training"
+Services,Professional & care services
+Services,Charities
+Services,Business & workplace

@@ -1,0 +1,72 @@
+{
+  "selected": {
+    "model": "retrieval_alpha_10",
+    "variant": "retrieval",
+    "alpha": 10.0,
+    "train_mae": 0.05510981699433487,
+    "mae": 0.07358386238067317,
+    "rmse": 0.09409188416712366,
+    "coverage_80": 0.8502824858757062,
+    "mean_width": 0.27225547054997445,
+    "interval_score": 0.33509278133805037
+  },
+  "cv_folds": 5,
+  "features": [
+    "freq_months",
+    "typical_frequency_months",
+    "geography_name",
+    "tax_sector",
+    "tax_subsector",
+    "prof_action",
+    "prof_gate",
+    "prof_frequency",
+    "prof_price_band",
+    "est_eligible_class",
+    "est_active_of_eligible_class",
+    "est_open_of_rest_class",
+    "est_direct_total_class",
+    "geo_x_sector",
+    "price_x_frequency",
+    "gate_x_eligible_class",
+    "subsector_x_direct_total_class",
+    "retrieved_incidence",
+    "retrieved_incidence_missing"
+  ],
+  "development_rows": 708,
+  "holdout_rows": 125,
+  "holdout_rows_used_for_evaluation_model_fit": false,
+  "holdout_comparison": [
+    {
+      "variant": "baseline",
+      "alpha": 10.0,
+      "cv_mae": 0.07328350851567231,
+      "cv_interval_score": 0.34130229297243814,
+      "mae": 0.0782289923636308,
+      "rmse": 0.10207456274075491,
+      "coverage_80": 0.808,
+      "mean_width": 0.2785097316038869,
+      "interval_score": 0.39682050476551767,
+      "median_absolute_error": 0.06373581023873609,
+      "p25_absolute_error": 0.028071682245758456,
+      "p75_absolute_error": 0.10584397557704817
+    },
+    {
+      "variant": "retrieval",
+      "alpha": 10.0,
+      "cv_mae": 0.07358386238067317,
+      "cv_interval_score": 0.33509278133805037,
+      "mae": 0.07937401647360558,
+      "rmse": 0.10363345938203383,
+      "coverage_80": 0.808,
+      "mean_width": 0.2724119223296412,
+      "interval_score": 0.39820735494605086,
+      "median_absolute_error": 0.0550196806952849,
+      "p25_absolute_error": 0.030839094993343752,
+      "p75_absolute_error": 0.11294155639547099
+    }
+  ],
+  "logit_interval_radius": 0.6461426249452586,
+  "evaluation_retrieval_missing_rate": 0.36014405762304924,
+  "prediction_retrieval_missing_rate": 0.36363636363636365,
+  "warning": "Previously examined holdout; approximate grouped-OOF calibration. Deployment uses all labeled rows; its coverage is not independently evaluated."
+}

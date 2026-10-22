@@ -1,0 +1,8 @@
+context,view,reference_rows,query_rows,training_queries,validation_queries,holdout_queries,prediction_queries
+cv_00,cv,566,708,566,142,0,0
+cv_01,cv,567,708,567,141,0,0
+cv_02,cv,566,708,566,142,0,0
+cv_03,cv,566,708,566,142,0,0
+cv_04,cv,567,708,567,141,0,0
+evaluation,evaluation,708,833,708,0,125,0
+deployment,deployment,833,943,833,0,0,110

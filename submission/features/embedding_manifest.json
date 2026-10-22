@@ -1,0 +1,47 @@
+{
+  "status": "complete",
+  "cleaning_version": "survey-scaffolding-v3-no-category",
+  "embedding_model": "text-embedding-3-small",
+  "training_rows": 833,
+  "prediction_rows": 110,
+  "unique_texts": 645,
+  "input_fields": [
+    "question_text",
+    "qualifying_options"
+  ],
+  "metadata_only_fields": [
+    "category_name",
+    "geography_name"
+  ],
+  "category_in_embedding": false,
+  "empty_after_cleaning_rows": 0,
+  "rule_selection": "Reviewed scaffolding informed by unique development-only 3-7-gram frequencies",
+  "stem_patterns": [
+    "^(?:which|what)\\s+(?:one\\s+)?of\\s+the\\s+following\\s+(?:statements?\\s+)?(?:best\\s+)?(?:describes?\\s+you|appl(?:y|ies)(?:\\s+to\\s+you)?)\\s*[:?]?\\s*",
+    "^which\\s+(?:best\\s+)?describes?\\s+you\\s*[:?]?\\s*",
+    "^(?:which|what)\\s+(?:one\\s+)?of\\s+the\\s+following(?:\\s+|$)",
+    "^(?:(?:have|did|do|are)\\s+you(?:\\s*/\\s*|\\s+|[.?!:]+|$))+"
+  ],
+  "time_pattern": "\\b(?:in|over|within|during)\\s+the\\s+(?:past|last)\\s+(?:(?:\\d+(?:\\.\\d+)?|one|two|three|four|five|six|seven|eight|nine|ten|eleven|twelve|a|an)\\s+)?(?:days?|weeks?|months?|years?)\\b",
+  "standard_option_pattern": "^(?:yes|no|yes,?\\s+i\\s+(?:have|do|am)|no,?\\s+but\\s+(?:(?:i|we)\\s+)?(?:(?:am|are|would\\s+be)\\s+)?(?:open(?:\\s+or\\s+likely)?|likely|(?:would\\s+)?consider)(?:\\s+to)?(?:\\s+(?:buy|purchase|use|visit|rent|purchasing|buying|using|visiting|renting|it|this|(?:these|such)\\s+(?:products|services)|doing\\s+so))?(?:\\s+in)?(?:\\s+the)?(?:\\s+near)?(?:\\s+future)?)[.!?]*$",
+  "standard_options_handling": "Omit complete generic answers from embedding text; retain originals and removed options for audit",
+  "time_handling": "Remove generic recall phrase from question but preserve its text in Timeframe",
+  "preserved": [
+    "action",
+    "specific-answer negation/future intent",
+    "eligibility",
+    "note content without label",
+    "time context"
+  ],
+  "targets_used": false,
+  "final_model_modified": false,
+  "dimensions": 1536,
+  "usage": {
+    "model": "text-embedding-3-small",
+    "unique_texts": 645,
+    "cache_hits": 0,
+    "api_calls": 21,
+    "total_tokens": 21039,
+    "dimensions": 1536
+  }
+}

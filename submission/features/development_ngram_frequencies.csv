@@ -1,0 +1,1115 @@
+field,ngram,unique_document_count,document_share,unique_documents,word_count
+question_text,in the past,429,0.9285714285714286,462,3
+question_text,months have you,348,0.7532467532467533,462,3
+question_text,have you purchased,277,0.5995670995670995,462,3
+question_text,months have you purchased,232,0.5021645021645021,462,4
+question_text,past 12 months,205,0.44372294372294374,462,3
+question_text,in the past 12 months,204,0.44155844155844154,462,5
+question_text,in the past 12,204,0.44155844155844154,462,4
+question_text,the past 12 months,204,0.44155844155844154,462,4
+question_text,the past 12,204,0.44155844155844154,462,3
+question_text,12 months have,203,0.4393939393939394,462,3
+question_text,past 12 months have,202,0.43722943722943725,462,4
+question_text,in the past 12 months have,201,0.43506493506493504,462,6
+question_text,the past 12 months have,201,0.43506493506493504,462,5
+question_text,12 months have you,201,0.43506493506493504,462,4
+question_text,past 12 months have you,200,0.4329004329004329,462,5
+question_text,in the past 12 months have you,199,0.43073593073593075,462,7
+question_text,the past 12 months have you,199,0.43073593073593075,462,6
+question_text,past months have you,144,0.3116883116883117,462,4
+question_text,past months have,144,0.3116883116883117,462,3
+question_text,in the past months,143,0.30952380952380953,462,4
+question_text,the past months,143,0.30952380952380953,462,3
+question_text,in the past months have you,142,0.30735930735930733,462,6
+question_text,in the past months have,142,0.30735930735930733,462,5
+question_text,the past months have you,142,0.30735930735930733,462,5
+question_text,the past months have,142,0.30735930735930733,462,4
+question_text,past months have you purchased,130,0.2813852813852814,462,5
+question_text,in the past months have you purchased,128,0.27705627705627706,462,7
+question_text,the past months have you purchased,128,0.27705627705627706,462,6
+question_text,12 months have you purchased,101,0.21861471861471862,462,5
+question_text,past 12 months have you purchased,100,0.21645021645021645,462,6
+question_text,the past 12 months have you purchased,99,0.21428571428571427,462,7
+question_text,in the past years,78,0.16883116883116883,462,4
+question_text,the past years,78,0.16883116883116883,462,3
+question_text,in the past years have you,77,0.16666666666666666,462,6
+question_text,in the past years have,77,0.16666666666666666,462,5
+question_text,the past years have you,77,0.16666666666666666,462,5
+question_text,past years have you,77,0.16666666666666666,462,4
+question_text,the past years have,77,0.16666666666666666,462,4
+question_text,past years have,77,0.16666666666666666,462,3
+question_text,years have you,77,0.16666666666666666,462,3
+question_text,note this includes,60,0.12987012987012986,462,3
+question_text,note by this we,52,0.11255411255411256,462,4
+question_text,by this we,52,0.11255411255411256,462,3
+question_text,note by this,52,0.11255411255411256,462,3
+question_text,note by this we mean,49,0.10606060606060606,462,5
+question_text,by this we mean,49,0.10606060606060606,462,4
+question_text,this we mean,49,0.10606060606060606,462,3
+question_text,have you used,43,0.09307359307359307,462,3
+question_text,in the past years have you purchased,42,0.09090909090909091,462,7
+question_text,the past years have you purchased,42,0.09090909090909091,462,6
+question_text,past years have you purchased,42,0.09090909090909091,462,5
+question_text,years have you purchased,42,0.09090909090909091,462,4
+question_text,months have you used,38,0.08225108225108226,462,4
+question_text,the past 12 months have you used,34,0.0735930735930736,462,7
+question_text,past 12 months have you used,34,0.0735930735930736,462,6
+question_text,12 months have you used,34,0.0735930735930736,462,5
+question_text,note this could,25,0.05411255411255411,462,3
+question_text,note this can include,22,0.047619047619047616,462,4
+question_text,note this can,22,0.047619047619047616,462,3
+question_text,this can include,22,0.047619047619047616,462,3
+question_text,of the following,21,0.045454545454545456,462,3
+question_text,products note this,20,0.04329004329004329,462,3
+question_text,have you bought,19,0.04112554112554113,462,3
+question_text,note this could include,17,0.0367965367965368,462,4
+question_text,this could include,17,0.0367965367965368,462,3
+question_text,any of the following,16,0.03463203463203463,462,4
+question_text,any of the,16,0.03463203463203463,462,3
+question_text,service note by,16,0.03463203463203463,462,3
+question_text,products note this includes,15,0.032467532467532464,462,4
+question_text,have you paid,15,0.032467532467532464,462,3
+question_text,have you purchased premium,14,0.030303030303030304,462,4
+question_text,have you used an,14,0.030303030303030304,462,4
+question_text,months have you bought,14,0.030303030303030304,462,4
+question_text,you purchased premium,14,0.030303030303030304,462,3
+question_text,you used an,14,0.030303030303030304,462,3
+question_text,past 12 months have you used an,13,0.02813852813852814,462,7
+question_text,12 months have you used an,13,0.02813852813852814,462,6
+question_text,months have you used an,13,0.02813852813852814,462,5
+question_text,have you paid for,13,0.02813852813852814,462,4
+question_text,have you purchased or,13,0.02813852813852814,462,4
+question_text,you paid for,13,0.02813852813852814,462,3
+question_text,you purchased or,13,0.02813852813852814,462,3
+question_text,months have you purchased premium,12,0.025974025974025976,462,5
+question_text,the past 12 months have you paid,11,0.023809523809523808,462,7
+question_text,the past months have you purchased premium,11,0.023809523809523808,462,7
+question_text,past 12 months have you paid,11,0.023809523809523808,462,6
+question_text,past months have you purchased premium,11,0.023809523809523808,462,6
+question_text,12 months have you paid,11,0.023809523809523808,462,5
+question_text,have you used an online,11,0.023809523809523808,462,5
+question_text,months have you paid,11,0.023809523809523808,462,4
+question_text,you used an online,11,0.023809523809523808,462,4
+question_text,have you visited,11,0.023809523809523808,462,3
+question_text,this could be,11,0.023809523809523808,462,3
+question_text,used an online,11,0.023809523809523808,462,3
+question_text,12 months have you used an online,10,0.021645021645021644,462,7
+question_text,months have you used an online,10,0.021645021645021644,462,6
+question_text,service note by this we mean,10,0.021645021645021644,462,6
+question_text,service note by this we,10,0.021645021645021644,462,5
+question_text,service note by this,10,0.021645021645021644,462,4
+question_text,note by premium,10,0.021645021645021644,462,3
+question_text,products note by,10,0.021645021645021644,462,3
+question_text,past 12 months have you paid for,9,0.01948051948051948,462,7
+question_text,past 12 months have you purchased or,9,0.01948051948051948,462,7
+question_text,12 months have you paid for,9,0.01948051948051948,462,6
+question_text,12 months have you purchased or,9,0.01948051948051948,462,6
+question_text,months have you paid for,9,0.01948051948051948,462,5
+question_text,months have you purchased or,9,0.01948051948051948,462,5
+question_text,have you booked,9,0.01948051948051948,462,3
+question_text,service note this,9,0.01948051948051948,462,3
+question_text,have you purchased or paid into,8,0.017316017316017316,462,6
+question_text,have you purchased or paid,8,0.017316017316017316,462,5
+question_text,you purchased or paid into,8,0.017316017316017316,462,5
+question_text,by premium we mean,8,0.017316017316017316,462,4
+question_text,months have you visited,8,0.017316017316017316,462,4
+question_text,note this could be,8,0.017316017316017316,462,4
+question_text,purchased or paid into,8,0.017316017316017316,462,4
+question_text,you purchased or paid,8,0.017316017316017316,462,4
+question_text,by premium we,8,0.017316017316017316,462,3
+question_text,or paid into,8,0.017316017316017316,462,3
+question_text,premium we mean,8,0.017316017316017316,462,3
+question_text,purchased or paid,8,0.017316017316017316,462,3
+question_text,12 months have you purchased or paid,7,0.015151515151515152,462,7
+question_text,months have you purchased or paid into,7,0.015151515151515152,462,7
+question_text,past 12 months have you purchased from,7,0.015151515151515152,462,7
+question_text,the past 12 months have you bought,7,0.015151515151515152,462,7
+question_text,the past 12 months have you visited,7,0.015151515151515152,462,7
+question_text,12 months have you purchased from,7,0.015151515151515152,462,6
+question_text,months have you purchased or paid,7,0.015151515151515152,462,6
+question_text,past 12 months have you bought,7,0.015151515151515152,462,6
+question_text,past 12 months have you visited,7,0.015151515151515152,462,6
+question_text,12 months have you bought,7,0.015151515151515152,462,5
+question_text,12 months have you visited,7,0.015151515151515152,462,5
+question_text,months have you purchased from,7,0.015151515151515152,462,5
+question_text,note by premium we mean,7,0.015151515151515152,462,5
+question_text,have you purchased from,7,0.015151515151515152,462,4
+question_text,note by premium we,7,0.015151515151515152,462,4
+question_text,service note this includes,7,0.015151515151515152,462,4
+question_text,care products note,7,0.015151515151515152,462,3
+question_text,have you made,7,0.015151515151515152,462,3
+question_text,in the last,7,0.015151515151515152,462,3
+question_text,retailer note by,7,0.015151515151515152,462,3
+question_text,you purchased from,7,0.015151515151515152,462,3
+question_text,past 12 months have you donated to,6,0.012987012987012988,462,7
+question_text,the past 12 months have you booked,6,0.012987012987012988,462,7
+question_text,the past 12 months have you donated,6,0.012987012987012988,462,7
+question_text,12 months have you donated to,6,0.012987012987012988,462,6
+question_text,past 12 months have you booked,6,0.012987012987012988,462,6
+question_text,past 12 months have you donated,6,0.012987012987012988,462,6
+question_text,12 months have you booked,6,0.012987012987012988,462,5
+question_text,12 months have you donated,6,0.012987012987012988,462,5
+question_text,months have you donated to,6,0.012987012987012988,462,5
+question_text,months have you purchased packaged,6,0.012987012987012988,462,5
+question_text,care products note this,6,0.012987012987012988,462,4
+question_text,have you donated to,6,0.012987012987012988,462,4
+question_text,have you purchased any,6,0.012987012987012988,462,4
+question_text,have you purchased packaged,6,0.012987012987012988,462,4
+question_text,months have you booked,6,0.012987012987012988,462,4
+question_text,months have you donated,6,0.012987012987012988,462,4
+question_text,months have you made,6,0.012987012987012988,462,4
+question_text,have you donated,6,0.012987012987012988,462,3
+question_text,note by luxury,6,0.012987012987012988,462,3
+question_text,or service note,6,0.012987012987012988,462,3
+question_text,services note by,6,0.012987012987012988,462,3
+question_text,we typically mean,6,0.012987012987012988,462,3
+question_text,you donated to,6,0.012987012987012988,462,3
+question_text,you purchased any,6,0.012987012987012988,462,3
+question_text,you purchased packaged,6,0.012987012987012988,462,3
+question_text,12 months have you read listened to,5,0.010822510822510822,462,7
+question_text,have you read listened to or watched,5,0.010822510822510822,462,7
+question_text,in the past months have you bought,5,0.010822510822510822,462,7
+question_text,months have you read listened to or,5,0.010822510822510822,462,7
+question_text,past 12 months have you read listened,5,0.010822510822510822,462,7
+question_text,the past 12 months have you read,5,0.010822510822510822,462,7
+question_text,the past months have you purchased packaged,5,0.010822510822510822,462,7
+question_text,you read listened to or watched any,5,0.010822510822510822,462,7
+question_text,12 months have you read listened,5,0.010822510822510822,462,6
+question_text,any of the following in the,5,0.010822510822510822,462,6
+question_text,have you read listened to or,5,0.010822510822510822,462,6
+question_text,months have you read listened to,5,0.010822510822510822,462,6
+question_text,past 12 months have you read,5,0.010822510822510822,462,6
+question_text,past months have you purchased packaged,5,0.010822510822510822,462,6
+question_text,read listened to or watched any,5,0.010822510822510822,462,6
+question_text,the past months have you bought,5,0.010822510822510822,462,6
+question_text,you read listened to or watched,5,0.010822510822510822,462,6
+question_text,12 months have you read,5,0.010822510822510822,462,5
+question_text,any of the following in,5,0.010822510822510822,462,5
+question_text,care products note this includes,5,0.010822510822510822,462,5
+question_text,have you read listened to,5,0.010822510822510822,462,5
+question_text,listened to or watched any,5,0.010822510822510822,462,5
+question_text,months have you made purchase,5,0.010822510822510822,462,5
+question_text,months have you purchased any,5,0.010822510822510822,462,5
+question_text,months have you purchased men,5,0.010822510822510822,462,5
+question_text,months have you read listened,5,0.010822510822510822,462,5
+question_text,of the following in the,5,0.010822510822510822,462,5
+question_text,past months have you bought,5,0.010822510822510822,462,5
+question_text,read listened to or watched,5,0.010822510822510822,462,5
+question_text,you read listened to or,5,0.010822510822510822,462,5
+question_text,food note this includes,5,0.010822510822510822,462,4
+question_text,have you made purchase,5,0.010822510822510822,462,4
+question_text,have you purchased men,5,0.010822510822510822,462,4
+question_text,have you read listened,5,0.010822510822510822,462,4
+question_text,in the last months,5,0.010822510822510822,462,4
+question_text,listened to or watched,5,0.010822510822510822,462,4
+question_text,months have you read,5,0.010822510822510822,462,4
+question_text,note this includes any,5,0.010822510822510822,462,4
+question_text,of the following in,5,0.010822510822510822,462,4
+question_text,or service note by,5,0.010822510822510822,462,4
+question_text,read listened to or,5,0.010822510822510822,462,4
+question_text,the following in the,5,0.010822510822510822,462,4
+question_text,to or watched any,5,0.010822510822510822,462,4
+question_text,which of the following,5,0.010822510822510822,462,4
+question_text,you read listened to,5,0.010822510822510822,462,4
+question_text,accessories note this,5,0.010822510822510822,462,3
+question_text,app or service,5,0.010822510822510822,462,3
+question_text,car note by,5,0.010822510822510822,462,3
+question_text,following in the,5,0.010822510822510822,462,3
+question_text,food note this,5,0.010822510822510822,462,3
+question_text,have you read,5,0.010822510822510822,462,3
+question_text,listened to or,5,0.010822510822510822,462,3
+question_text,or watched any,5,0.010822510822510822,462,3
+question_text,read listened to,5,0.010822510822510822,462,3
+question_text,the following in,5,0.010822510822510822,462,3
+question_text,the last months,5,0.010822510822510822,462,3
+question_text,this includes any,5,0.010822510822510822,462,3
+question_text,to or watched,5,0.010822510822510822,462,3
+question_text,we mean an,5,0.010822510822510822,462,3
+question_text,we mean clothing,5,0.010822510822510822,462,3
+question_text,we mean online,5,0.010822510822510822,462,3
+question_text,which of the,5,0.010822510822510822,462,3
+question_text,you made purchase,5,0.010822510822510822,462,3
+question_text,you purchased men,5,0.010822510822510822,462,3
+question_text,you read listened,5,0.010822510822510822,462,3
+question_text,12 months have you donated to or,4,0.008658008658008658,462,7
+question_text,any of the following in the past,4,0.008658008658008658,462,7
+question_text,haircare products note this includes shampoo conditioner,4,0.008658008658008658,462,7
+question_text,have you donated to or engaged with,4,0.008658008658008658,462,7
+question_text,have you used an online or app,4,0.008658008658008658,462,7
+question_text,in the past months have you used,4,0.008658008658008658,462,7
+question_text,in the past years have you attended,4,0.008658008658008658,462,7
+question_text,in the past years have you paid,4,0.008658008658008658,462,7
+question_text,in the past years have you used,4,0.008658008658008658,462,7
+question_text,months have you donated to or engaged,4,0.008658008658008658,462,7
+question_text,months have you used an online or,4,0.008658008658008658,462,7
+question_text,past 12 months have you purchased men,4,0.008658008658008658,462,7
+question_text,past years have you attended or watched,4,0.008658008658008658,462,7
+question_text,products note this includes shampoo conditioner treatments,4,0.008658008658008658,462,7
+question_text,service note this includes any form of,4,0.008658008658008658,462,7
+question_text,the past 12 months have you made,4,0.008658008658008658,462,7
+question_text,the past years have you attended or,4,0.008658008658008658,462,7
+question_text,the past years have you paid for,4,0.008658008658008658,462,7
+question_text,the past years have you purchased or,4,0.008658008658008658,462,7
+question_text,years have you attended or watched major,4,0.008658008658008658,462,7
+question_text,you used an online or app based,4,0.008658008658008658,462,7
+question_text,12 months have you purchased men,4,0.008658008658008658,462,6
+question_text,haircare products note this includes shampoo,4,0.008658008658008658,462,6
+question_text,have you attended or watched major,4,0.008658008658008658,462,6
+question_text,have you donated to or engaged,4,0.008658008658008658,462,6
+question_text,have you used an online or,4,0.008658008658008658,462,6
+question_text,months have you donated to or,4,0.008658008658008658,462,6
+question_text,months have you made purchase from,4,0.008658008658008658,462,6
+question_text,note by this we mean online,4,0.008658008658008658,462,6
+question_text,note this includes any form of,4,0.008658008658008658,462,6
+question_text,note this includes shampoo conditioner treatments,4,0.008658008658008658,462,6
+question_text,of the following in the past,4,0.008658008658008658,462,6
+question_text,past 12 months have you made,4,0.008658008658008658,462,6
+question_text,past years have you attended or,4,0.008658008658008658,462,6
+question_text,past years have you paid for,4,0.008658008658008658,462,6
+question_text,past years have you purchased or,4,0.008658008658008658,462,6
+question_text,products note this includes shampoo conditioner,4,0.008658008658008658,462,6
+question_text,service note this includes any form,4,0.008658008658008658,462,6
+question_text,the past months have you used,4,0.008658008658008658,462,6
+question_text,the past years have you attended,4,0.008658008658008658,462,6
+question_text,the past years have you paid,4,0.008658008658008658,462,6
+question_text,the past years have you used,4,0.008658008658008658,462,6
+question_text,used an online or app based,4,0.008658008658008658,462,6
+question_text,years have you attended or watched,4,0.008658008658008658,462,6
+question_text,you donated to or engaged with,4,0.008658008658008658,462,6
+question_text,you used an online or app,4,0.008658008658008658,462,6
+question_text,12 months have you made,4,0.008658008658008658,462,5
+question_text,accessories note this can include,4,0.008658008658008658,462,5
+question_text,an online or app based,4,0.008658008658008658,462,5
+question_text,by this we mean online,4,0.008658008658008658,462,5
+question_text,donated to or engaged with,4,0.008658008658008658,462,5
+question_text,haircare products note this includes,4,0.008658008658008658,462,5
+question_text,have you attended or watched,4,0.008658008658008658,462,5
+question_text,have you booked night at,4,0.008658008658008658,462,5
+question_text,have you donated to or,4,0.008658008658008658,462,5
+question_text,have you made purchase from,4,0.008658008658008658,462,5
+question_text,months have you purchased hair,4,0.008658008658008658,462,5
+question_text,note by luxury we mean,4,0.008658008658008658,462,5
+question_text,note this includes any form,4,0.008658008658008658,462,5
+question_text,note this includes shampoo conditioner,4,0.008658008658008658,462,5
+question_text,past months have you used,4,0.008658008658008658,462,5
+question_text,past years have you attended,4,0.008658008658008658,462,5
+question_text,past years have you paid,4,0.008658008658008658,462,5
+question_text,past years have you used,4,0.008658008658008658,462,5
+question_text,products note this includes shampoo,4,0.008658008658008658,462,5
+question_text,service note this includes any,4,0.008658008658008658,462,5
+question_text,the following in the past,4,0.008658008658008658,462,5
+question_text,this includes any form of,4,0.008658008658008658,462,5
+question_text,this includes shampoo conditioner treatments,4,0.008658008658008658,462,5
+question_text,used an online or app,4,0.008658008658008658,462,5
+question_text,years have you attended or,4,0.008658008658008658,462,5
+question_text,years have you paid for,4,0.008658008658008658,462,5
+question_text,years have you purchased or,4,0.008658008658008658,462,5
+question_text,you attended or watched major,4,0.008658008658008658,462,5
+question_text,you donated to or engaged,4,0.008658008658008658,462,5
+question_text,you used an online or,4,0.008658008658008658,462,5
+question_text,accessories note this can,4,0.008658008658008658,462,4
+question_text,an online or app,4,0.008658008658008658,462,4
+question_text,attended or watched major,4,0.008658008658008658,462,4
+question_text,by luxury we mean,4,0.008658008658008658,462,4
+question_text,donated to or engaged,4,0.008658008658008658,462,4
+question_text,following in the past,4,0.008658008658008658,462,4
+question_text,haircare products note this,4,0.008658008658008658,462,4
+question_text,have you attended or,4,0.008658008658008658,462,4
+question_text,have you booked night,4,0.008658008658008658,462,4
+question_text,have you purchased hair,4,0.008658008658008658,462,4
+question_text,includes any form of,4,0.008658008658008658,462,4
+question_text,includes shampoo conditioner treatments,4,0.008658008658008658,462,4
+question_text,news or journalism content,4,0.008658008658008658,462,4
+question_text,note by luxury we,4,0.008658008658008658,462,4
+question_text,note this includes shampoo,4,0.008658008658008658,462,4
+question_text,online or app based,4,0.008658008658008658,462,4
+question_text,or services note by,4,0.008658008658008658,462,4
+question_text,this could be for,4,0.008658008658008658,462,4
+question_text,this includes any form,4,0.008658008658008658,462,4
+question_text,this includes shampoo conditioner,4,0.008658008658008658,462,4
+question_text,this we mean online,4,0.008658008658008658,462,4
+question_text,to or engaged with,4,0.008658008658008658,462,4
+question_text,used an online or,4,0.008658008658008658,462,4
+question_text,years have you attended,4,0.008658008658008658,462,4
+question_text,years have you paid,4,0.008658008658008658,462,4
+question_text,years have you used,4,0.008658008658008658,462,4
+question_text,you attended or watched,4,0.008658008658008658,462,4
+question_text,you booked night at,4,0.008658008658008658,462,4
+question_text,you donated to or,4,0.008658008658008658,462,4
+question_text,you made purchase from,4,0.008658008658008658,462,4
+question_text,activities such as,4,0.008658008658008658,462,3
+question_text,an online or,4,0.008658008658008658,462,3
+question_text,any form of,4,0.008658008658008658,462,3
+question_text,attended or watched,4,0.008658008658008658,462,3
+question_text,booked night at,4,0.008658008658008658,462,3
+question_text,by luxury we,4,0.008658008658008658,462,3
+question_text,could be for,4,0.008658008658008658,462,3
+question_text,donated to or,4,0.008658008658008658,462,3
+question_text,haircare products note,4,0.008658008658008658,462,3
+question_text,have you attended,4,0.008658008658008658,462,3
+question_text,have you engaged,4,0.008658008658008658,462,3
+question_text,includes any form,4,0.008658008658008658,462,3
+question_text,includes shampoo conditioner,4,0.008658008658008658,462,3
+question_text,items such as,4,0.008658008658008658,462,3
+question_text,luxury we mean,4,0.008658008658008658,462,3
+question_text,made purchase from,4,0.008658008658008658,462,3
+question_text,news or journalism,4,0.008658008658008658,462,3
+question_text,note these are,4,0.008658008658008658,462,3
+question_text,online or app,4,0.008658008658008658,462,3
+question_text,or accessories note,4,0.008658008658008658,462,3
+question_text,or app based,4,0.008658008658008658,462,3
+question_text,or engaged with,4,0.008658008658008658,462,3
+question_text,or journalism content,4,0.008658008658008658,462,3
+question_text,or services note,4,0.008658008658008658,462,3
+question_text,or watched major,4,0.008658008658008658,462,3
+question_text,products we mean,4,0.008658008658008658,462,3
+question_text,retailer note this,4,0.008658008658008658,462,3
+question_text,services we mean,4,0.008658008658008658,462,3
+question_text,shampoo conditioner treatments,4,0.008658008658008658,462,3
+question_text,supplements note this,4,0.008658008658008658,462,3
+question_text,this includes shampoo,4,0.008658008658008658,462,3
+question_text,to or engaged,4,0.008658008658008658,462,3
+question_text,we mean products,4,0.008658008658008658,462,3
+question_text,where you can,4,0.008658008658008658,462,3
+question_text,you attended or,4,0.008658008658008658,462,3
+question_text,you booked night,4,0.008658008658008658,462,3
+question_text,you purchased hair,4,0.008658008658008658,462,3
+question_text,12 months have you made purchase from,3,0.006493506493506494,462,7
+question_text,12 months have you purchased from an,3,0.006493506493506494,462,7
+question_text,and dry shampoo these products are typically,3,0.006493506493506494,462,7
+question_text,appliance note this could include fridges washing,3,0.006493506493506494,462,7
+question_text,as battery replacement and touching up scratches,3,0.006493506493506494,462,7
+question_text,but not changes such as battery replacement,3,0.006493506493506494,462,7
+question_text,by significant modification we mean major mechanical,3,0.006493506493506494,462,7
+question_text,by suncare we mean sunscreen sun tan,3,0.006493506493506494,462,7
+question_text,car note by significant modification we mean,3,0.006493506493506494,462,7
+question_text,changes but not changes such as battery,3,0.006493506493506494,462,7
+question_text,changes such as battery replacement and touching,3,0.006493506493506494,462,7
+question_text,conditioner treatments dye stylers hairspray and dry,3,0.006493506493506494,462,7
+question_text,cosmetic changes but not changes such as,3,0.006493506493506494,462,7
+question_text,could include fridges washing machines dryers ovens,3,0.006493506493506494,462,7
+question_text,dye stylers hairspray and dry shampoo these,3,0.006493506493506494,462,7
+question_text,food note this includes both dry wet,3,0.006493506493506494,462,7
+question_text,for planning booking and managing various aspects,3,0.006493506493506494,462,7
+question_text,hairspray and dry shampoo these products are,3,0.006493506493506494,462,7
+question_text,have you purchased large household appliance note,3,0.006493506493506494,462,7
+question_text,have you purchased premium haircare products note,3,0.006493506493506494,462,7
+question_text,health service note this includes any form,3,0.006493506493506494,462,7
+question_text,household appliance note this could include fridges,3,0.006493506493506494,462,7
+question_text,in the past years have you booked,3,0.006493506493506494,462,7
+question_text,in the past years have you bought,3,0.006493506493506494,462,7
+question_text,in the past years have you engaged,3,0.006493506493506494,462,7
+question_text,in the past years have you visited,3,0.006493506493506494,462,7
+question_text,includes shampoo conditioner treatments dye stylers hairspray,3,0.006493506493506494,462,7
+question_text,large household appliance note this could include,3,0.006493506493506494,462,7
+question_text,major mechanical or cosmetic changes but not,3,0.006493506493506494,462,7
+question_text,mean major mechanical or cosmetic changes but,3,0.006493506493506494,462,7
+question_text,mean sunscreen sun tan lotion and other,3,0.006493506493506494,462,7
+question_text,mechanical or cosmetic changes but not changes,3,0.006493506493506494,462,7
+question_text,modification we mean major mechanical or cosmetic,3,0.006493506493506494,462,7
+question_text,months have you purchased premium haircare products,3,0.006493506493506494,462,7
+question_text,not changes such as battery replacement and,3,0.006493506493506494,462,7
+question_text,note by significant modification we mean major,3,0.006493506493506494,462,7
+question_text,note by suncare we mean sunscreen sun,3,0.006493506493506494,462,7
+question_text,note this could include fridges washing machines,3,0.006493506493506494,462,7
+question_text,note this includes shampoo conditioner treatments dye,3,0.006493506493506494,462,7
+question_text,or cosmetic changes but not changes such,3,0.006493506493506494,462,7
+question_text,or service note by this we mean,3,0.006493506493506494,462,7
+question_text,past 12 months have you booked an,3,0.006493506493506494,462,7
+question_text,past 12 months have you made purchase,3,0.006493506493506494,462,7
+question_text,past 12 months have you purchased hair,3,0.006493506493506494,462,7
+question_text,past 12 months have you purchased women,3,0.006493506493506494,462,7
+question_text,past months have you purchased premium haircare,3,0.006493506493506494,462,7
+question_text,past years have you booked night at,3,0.006493506493506494,462,7
+question_text,past years have you purchased brand new,3,0.006493506493506494,462,7
+question_text,past years have you purchased large household,3,0.006493506493506494,462,7
+question_text,planning booking and managing various aspects of,3,0.006493506493506494,462,7
+question_text,premium haircare products note this includes shampoo,3,0.006493506493506494,462,7
+question_text,products note by suncare we mean sunscreen,3,0.006493506493506494,462,7
+question_text,purchased large household appliance note this could,3,0.006493506493506494,462,7
+question_text,purchased premium haircare products note this includes,3,0.006493506493506494,462,7
+question_text,services for planning booking and managing various,3,0.006493506493506494,462,7
+question_text,shampoo conditioner treatments dye stylers hairspray and,3,0.006493506493506494,462,7
+question_text,significant modification we mean major mechanical or,3,0.006493506493506494,462,7
+question_text,stylers hairspray and dry shampoo these products,3,0.006493506493506494,462,7
+question_text,such as battery replacement and touching up,3,0.006493506493506494,462,7
+question_text,sun tan lotion and other sun protection,3,0.006493506493506494,462,7
+question_text,suncare products note by suncare we mean,3,0.006493506493506494,462,7
+question_text,suncare we mean sunscreen sun tan lotion,3,0.006493506493506494,462,7
+question_text,sunscreen sun tan lotion and other sun,3,0.006493506493506494,462,7
+question_text,tan lotion and other sun protection products,3,0.006493506493506494,462,7
+question_text,the past months have you purchased any,3,0.006493506493506494,462,7
+question_text,the past months have you purchased health,3,0.006493506493506494,462,7
+question_text,the past months have you purchased ready,3,0.006493506493506494,462,7
+question_text,the past years have you booked night,3,0.006493506493506494,462,7
+question_text,the past years have you purchased an,3,0.006493506493506494,462,7
+question_text,the past years have you purchased brand,3,0.006493506493506494,462,7
+question_text,the past years have you purchased large,3,0.006493506493506494,462,7
+question_text,the past years have you purchased luxury,3,0.006493506493506494,462,7
+question_text,this could include fridges washing machines dryers,3,0.006493506493506494,462,7
+question_text,this includes shampoo conditioner treatments dye stylers,3,0.006493506493506494,462,7
+question_text,treatments dye stylers hairspray and dry shampoo,3,0.006493506493506494,462,7
+question_text,used an online or app based physical,3,0.006493506493506494,462,7
+question_text,we mean major mechanical or cosmetic changes,3,0.006493506493506494,462,7
+question_text,we mean sunscreen sun tan lotion and,3,0.006493506493506494,462,7
+question_text,years have you purchased large household appliance,3,0.006493506493506494,462,7
+question_text,you purchased large household appliance note this,3,0.006493506493506494,462,7
+question_text,you purchased premium haircare products note this,3,0.006493506493506494,462,7
+question_text,your car note by significant modification we,3,0.006493506493506494,462,7
+question_text,12 months have you booked an,3,0.006493506493506494,462,6
+question_text,12 months have you made purchase,3,0.006493506493506494,462,6
+question_text,12 months have you purchased hair,3,0.006493506493506494,462,6
+question_text,12 months have you purchased women,3,0.006493506493506494,462,6
+question_text,an online or app based physical,3,0.006493506493506494,462,6
+question_text,and dry shampoo these products are,3,0.006493506493506494,462,6
+question_text,appliance note this could include fridges,3,0.006493506493506494,462,6
+question_text,as battery replacement and touching up,3,0.006493506493506494,462,6
+question_text,battery replacement and touching up scratches,3,0.006493506493506494,462,6
+question_text,booking and managing various aspects of,3,0.006493506493506494,462,6
+question_text,but not changes such as battery,3,0.006493506493506494,462,6
+question_text,by significant modification we mean major,3,0.006493506493506494,462,6
+question_text,by suncare we mean sunscreen sun,3,0.006493506493506494,462,6
+question_text,car note by significant modification we,3,0.006493506493506494,462,6
+question_text,changes but not changes such as,3,0.006493506493506494,462,6
+question_text,changes such as battery replacement and,3,0.006493506493506494,462,6
+question_text,conditioner treatments dye stylers hairspray and,3,0.006493506493506494,462,6
+question_text,cosmetic changes but not changes such,3,0.006493506493506494,462,6
+question_text,could include fridges washing machines dryers,3,0.006493506493506494,462,6
+question_text,dry shampoo these products are typically,3,0.006493506493506494,462,6
+question_text,dye stylers hairspray and dry shampoo,3,0.006493506493506494,462,6
+question_text,food note by premium we mean,3,0.006493506493506494,462,6
+question_text,food note this includes both dry,3,0.006493506493506494,462,6
+question_text,for planning booking and managing various,3,0.006493506493506494,462,6
+question_text,hairspray and dry shampoo these products,3,0.006493506493506494,462,6
+question_text,have you purchased large household appliance,3,0.006493506493506494,462,6
+question_text,have you purchased premium haircare products,3,0.006493506493506494,462,6
+question_text,health service note this includes any,3,0.006493506493506494,462,6
+question_text,household appliance note this could include,3,0.006493506493506494,462,6
+question_text,include fridges washing machines dryers ovens,3,0.006493506493506494,462,6
+question_text,includes shampoo conditioner treatments dye stylers,3,0.006493506493506494,462,6
+question_text,insurance policy note this could be,3,0.006493506493506494,462,6
+question_text,large household appliance note this could,3,0.006493506493506494,462,6
+question_text,lotion and other sun protection products,3,0.006493506493506494,462,6
+question_text,major mechanical or cosmetic changes but,3,0.006493506493506494,462,6
+question_text,mean major mechanical or cosmetic changes,3,0.006493506493506494,462,6
+question_text,mean sunscreen sun tan lotion and,3,0.006493506493506494,462,6
+question_text,mechanical or cosmetic changes but not,3,0.006493506493506494,462,6
+question_text,modification we mean major mechanical or,3,0.006493506493506494,462,6
+question_text,months have you purchased from an,3,0.006493506493506494,462,6
+question_text,months have you purchased premium haircare,3,0.006493506493506494,462,6
+question_text,not changes such as battery replacement,3,0.006493506493506494,462,6
+question_text,note by significant modification we mean,3,0.006493506493506494,462,6
+question_text,note by suncare we mean sunscreen,3,0.006493506493506494,462,6
+question_text,note by this we mean an,3,0.006493506493506494,462,6
+question_text,note by this we typically mean,3,0.006493506493506494,462,6
+question_text,note this could include fridges washing,3,0.006493506493506494,462,6
+question_text,note this includes both dry wet,3,0.006493506493506494,462,6
+question_text,or cosmetic changes but not changes,3,0.006493506493506494,462,6
+question_text,or service note by this we,3,0.006493506493506494,462,6
+question_text,past months have you purchased any,3,0.006493506493506494,462,6
+question_text,past months have you purchased health,3,0.006493506493506494,462,6
+question_text,past months have you purchased ready,3,0.006493506493506494,462,6
+question_text,past years have you booked night,3,0.006493506493506494,462,6
+question_text,past years have you purchased an,3,0.006493506493506494,462,6
+question_text,past years have you purchased brand,3,0.006493506493506494,462,6
+question_text,past years have you purchased large,3,0.006493506493506494,462,6
+question_text,past years have you purchased luxury,3,0.006493506493506494,462,6
+question_text,planning booking and managing various aspects,3,0.006493506493506494,462,6
+question_text,premium haircare products note this includes,3,0.006493506493506494,462,6
+question_text,products note by suncare we mean,3,0.006493506493506494,462,6
+question_text,purchased large household appliance note this,3,0.006493506493506494,462,6
+question_text,purchased premium haircare products note this,3,0.006493506493506494,462,6
+question_text,retailer note by this we mean,3,0.006493506493506494,462,6
+question_text,services for planning booking and managing,3,0.006493506493506494,462,6
+question_text,services note by this we mean,3,0.006493506493506494,462,6
+question_text,shampoo conditioner treatments dye stylers hairspray,3,0.006493506493506494,462,6
+question_text,significant modification we mean major mechanical,3,0.006493506493506494,462,6
+question_text,stylers hairspray and dry shampoo these,3,0.006493506493506494,462,6
+question_text,such as battery replacement and touching,3,0.006493506493506494,462,6
+question_text,sun tan lotion and other sun,3,0.006493506493506494,462,6
+question_text,suncare products note by suncare we,3,0.006493506493506494,462,6
+question_text,suncare we mean sunscreen sun tan,3,0.006493506493506494,462,6
+question_text,sunscreen sun tan lotion and other,3,0.006493506493506494,462,6
+question_text,tan lotion and other sun protection,3,0.006493506493506494,462,6
+question_text,the past years have you booked,3,0.006493506493506494,462,6
+question_text,the past years have you bought,3,0.006493506493506494,462,6
+question_text,the past years have you engaged,3,0.006493506493506494,462,6
+question_text,the past years have you visited,3,0.006493506493506494,462,6
+question_text,this could include fridges washing machines,3,0.006493506493506494,462,6
+question_text,this includes shampoo conditioner treatments dye,3,0.006493506493506494,462,6
+question_text,treatments dye stylers hairspray and dry,3,0.006493506493506494,462,6
+question_text,we mean major mechanical or cosmetic,3,0.006493506493506494,462,6
+question_text,we mean sunscreen sun tan lotion,3,0.006493506493506494,462,6
+question_text,years have you booked night at,3,0.006493506493506494,462,6
+question_text,years have you purchased brand new,3,0.006493506493506494,462,6
+question_text,years have you purchased large household,3,0.006493506493506494,462,6
+question_text,you purchased large household appliance note,3,0.006493506493506494,462,6
+question_text,you purchased premium haircare products note,3,0.006493506493506494,462,6
+question_text,your car note by significant modification,3,0.006493506493506494,462,6
+question_text,and dry shampoo these products,3,0.006493506493506494,462,5
+question_text,and managing various aspects of,3,0.006493506493506494,462,5
+question_text,and other sun protection products,3,0.006493506493506494,462,5
+question_text,app or service note by,3,0.006493506493506494,462,5
+question_text,appliance note this could include,3,0.006493506493506494,462,5
+question_text,as battery replacement and touching,3,0.006493506493506494,462,5
+question_text,battery replacement and touching up,3,0.006493506493506494,462,5
+question_text,booking and managing various aspects,3,0.006493506493506494,462,5
+question_text,but not changes such as,3,0.006493506493506494,462,5
+question_text,by significant modification we mean,3,0.006493506493506494,462,5
+question_text,by suncare we mean sunscreen,3,0.006493506493506494,462,5
+question_text,by this we mean an,3,0.006493506493506494,462,5
+question_text,by this we typically mean,3,0.006493506493506494,462,5
+question_text,car note by significant modification,3,0.006493506493506494,462,5
+question_text,changes but not changes such,3,0.006493506493506494,462,5
+question_text,changes such as battery replacement,3,0.006493506493506494,462,5
+question_text,conditioner treatments dye stylers hairspray,3,0.006493506493506494,462,5
+question_text,cosmetic changes but not changes,3,0.006493506493506494,462,5
+question_text,could include fridges washing machines,3,0.006493506493506494,462,5
+question_text,dry shampoo these products are,3,0.006493506493506494,462,5
+question_text,dye stylers hairspray and dry,3,0.006493506493506494,462,5
+question_text,food note by premium we,3,0.006493506493506494,462,5
+question_text,food note this includes both,3,0.006493506493506494,462,5
+question_text,for planning booking and managing,3,0.006493506493506494,462,5
+question_text,fridges washing machines dryers ovens,3,0.006493506493506494,462,5
+question_text,hairspray and dry shampoo these,3,0.006493506493506494,462,5
+question_text,have you purchased brand new,3,0.006493506493506494,462,5
+question_text,have you purchased from an,3,0.006493506493506494,462,5
+question_text,have you purchased large household,3,0.006493506493506494,462,5
+question_text,have you purchased premium haircare,3,0.006493506493506494,462,5
+question_text,health service note this includes,3,0.006493506493506494,462,5
+question_text,household appliance note this could,3,0.006493506493506494,462,5
+question_text,include fridges washing machines dryers,3,0.006493506493506494,462,5
+question_text,includes shampoo conditioner treatments dye,3,0.006493506493506494,462,5
+question_text,insurance policy note this could,3,0.006493506493506494,462,5
+question_text,large household appliance note this,3,0.006493506493506494,462,5
+question_text,lotion and other sun protection,3,0.006493506493506494,462,5
+question_text,major mechanical or cosmetic changes,3,0.006493506493506494,462,5
+question_text,mean major mechanical or cosmetic,3,0.006493506493506494,462,5
+question_text,mean sunscreen sun tan lotion,3,0.006493506493506494,462,5
+question_text,mechanical or cosmetic changes but,3,0.006493506493506494,462,5
+question_text,modification we mean major mechanical,3,0.006493506493506494,462,5
+question_text,months have you booked an,3,0.006493506493506494,462,5
+question_text,months have you purchased health,3,0.006493506493506494,462,5
+question_text,months have you purchased ready,3,0.006493506493506494,462,5
+question_text,months have you purchased socks,3,0.006493506493506494,462,5
+question_text,months have you purchased women,3,0.006493506493506494,462,5
+question_text,not changes such as battery,3,0.006493506493506494,462,5
+question_text,note by significant modification we,3,0.006493506493506494,462,5
+question_text,note by suncare we mean,3,0.006493506493506494,462,5
+question_text,note by this we typically,3,0.006493506493506494,462,5
+question_text,note this could include fridges,3,0.006493506493506494,462,5
+question_text,note this includes both dry,3,0.006493506493506494,462,5
+question_text,online or app based physical,3,0.006493506493506494,462,5
+question_text,or cosmetic changes but not,3,0.006493506493506494,462,5
+question_text,or service note by this,3,0.006493506493506494,462,5
+question_text,past years have you booked,3,0.006493506493506494,462,5
+question_text,past years have you bought,3,0.006493506493506494,462,5
+question_text,past years have you engaged,3,0.006493506493506494,462,5
+question_text,past years have you visited,3,0.006493506493506494,462,5
+question_text,planning booking and managing various,3,0.006493506493506494,462,5
+question_text,policy note this could be,3,0.006493506493506494,462,5
+question_text,premium haircare products note this,3,0.006493506493506494,462,5
+question_text,products note by suncare we,3,0.006493506493506494,462,5
+question_text,products note this could include,3,0.006493506493506494,462,5
+question_text,products or services note by,3,0.006493506493506494,462,5
+question_text,purchased large household appliance note,3,0.006493506493506494,462,5
+question_text,purchased premium haircare products note,3,0.006493506493506494,462,5
+question_text,replacement and touching up scratches,3,0.006493506493506494,462,5
+question_text,retailer note by this we,3,0.006493506493506494,462,5
+question_text,services for planning booking and,3,0.006493506493506494,462,5
+question_text,services note by this we,3,0.006493506493506494,462,5
+question_text,shampoo conditioner treatments dye stylers,3,0.006493506493506494,462,5
+question_text,shampoo these products are typically,3,0.006493506493506494,462,5
+question_text,significant modification we mean major,3,0.006493506493506494,462,5
+question_text,snacks note this can include,3,0.006493506493506494,462,5
+question_text,stylers hairspray and dry shampoo,3,0.006493506493506494,462,5
+question_text,such as battery replacement and,3,0.006493506493506494,462,5
+question_text,sun tan lotion and other,3,0.006493506493506494,462,5
+question_text,suncare products note by suncare,3,0.006493506493506494,462,5
+question_text,suncare we mean sunscreen sun,3,0.006493506493506494,462,5
+question_text,sunscreen sun tan lotion and,3,0.006493506493506494,462,5
+question_text,supplements note this could include,3,0.006493506493506494,462,5
+question_text,tan lotion and other sun,3,0.006493506493506494,462,5
+question_text,this could include fridges washing,3,0.006493506493506494,462,5
+question_text,this includes both dry wet,3,0.006493506493506494,462,5
+question_text,treatments dye stylers hairspray and,3,0.006493506493506494,462,5
+question_text,we mean major mechanical or,3,0.006493506493506494,462,5
+question_text,we mean sunscreen sun tan,3,0.006493506493506494,462,5
+question_text,years have you booked night,3,0.006493506493506494,462,5
+question_text,years have you purchased an,3,0.006493506493506494,462,5
+question_text,years have you purchased brand,3,0.006493506493506494,462,5
+question_text,years have you purchased large,3,0.006493506493506494,462,5
+question_text,years have you purchased luxury,3,0.006493506493506494,462,5
+question_text,you purchased large household appliance,3,0.006493506493506494,462,5
+question_text,you purchased premium haircare products,3,0.006493506493506494,462,5
+question_text,your car note by significant,3,0.006493506493506494,462,5
+question_text,and dry shampoo these,3,0.006493506493506494,462,4
+question_text,and managing various aspects,3,0.006493506493506494,462,4
+question_text,and not found at,3,0.006493506493506494,462,4
+question_text,and other sun protection,3,0.006493506493506494,462,4
+question_text,and touching up scratches,3,0.006493506493506494,462,4
+question_text,app or service note,3,0.006493506493506494,462,4
+question_text,appliance note this could,3,0.006493506493506494,462,4
+question_text,as battery replacement and,3,0.006493506493506494,462,4
+question_text,battery replacement and touching,3,0.006493506493506494,462,4
+question_text,booking and managing various,3,0.006493506493506494,462,4
+question_text,but not changes such,3,0.006493506493506494,462,4
+question_text,by significant modification we,3,0.006493506493506494,462,4
+question_text,by suncare we mean,3,0.006493506493506494,462,4
+question_text,by this we typically,3,0.006493506493506494,462,4
+question_text,car note by significant,3,0.006493506493506494,462,4
+question_text,changes but not changes,3,0.006493506493506494,462,4
+question_text,changes such as battery,3,0.006493506493506494,462,4
+question_text,conditioner treatments dye stylers,3,0.006493506493506494,462,4
+question_text,cosmetic changes but not,3,0.006493506493506494,462,4
+question_text,could include fridges washing,3,0.006493506493506494,462,4
+question_text,delivery service note by,3,0.006493506493506494,462,4
+question_text,dry shampoo these products,3,0.006493506493506494,462,4
+question_text,dye stylers hairspray and,3,0.006493506493506494,462,4
+question_text,food note by premium,3,0.006493506493506494,462,4
+question_text,for planning booking and,3,0.006493506493506494,462,4
+question_text,fridges washing machines dryers,3,0.006493506493506494,462,4
+question_text,hairspray and dry shampoo,3,0.006493506493506494,462,4
+question_text,have you booked an,3,0.006493506493506494,462,4
+question_text,have you bought or,3,0.006493506493506494,462,4
+question_text,have you or your,3,0.006493506493506494,462,4
+question_text,have you purchased an,3,0.006493506493506494,462,4
+question_text,have you purchased brand,3,0.006493506493506494,462,4
+question_text,have you purchased health,3,0.006493506493506494,462,4
+question_text,have you purchased large,3,0.006493506493506494,462,4
+question_text,have you purchased luxury,3,0.006493506493506494,462,4
+question_text,have you purchased ready,3,0.006493506493506494,462,4
+question_text,have you purchased socks,3,0.006493506493506494,462,4
+question_text,have you purchased women,3,0.006493506493506494,462,4
+question_text,health service note this,3,0.006493506493506494,462,4
+question_text,household appliance note this,3,0.006493506493506494,462,4
+question_text,in the past month,3,0.006493506493506494,462,4
+question_text,include fridges washing machines,3,0.006493506493506494,462,4
+question_text,includes both dry wet,3,0.006493506493506494,462,4
+question_text,insurance policy note this,3,0.006493506493506494,462,4
+question_text,large household appliance note,3,0.006493506493506494,462,4
+question_text,lotion and other sun,3,0.006493506493506494,462,4
+question_text,major mechanical or cosmetic,3,0.006493506493506494,462,4
+question_text,managing various aspects of,3,0.006493506493506494,462,4
+question_text,mean major mechanical or,3,0.006493506493506494,462,4
+question_text,mean sunscreen sun tan,3,0.006493506493506494,462,4
+question_text,mechanical or cosmetic changes,3,0.006493506493506494,462,4
+question_text,modification we mean major,3,0.006493506493506494,462,4
+question_text,not changes such as,3,0.006493506493506494,462,4
+question_text,note by significant modification,3,0.006493506493506494,462,4
+question_text,note by suncare we,3,0.006493506493506494,462,4
+question_text,note these are products,3,0.006493506493506494,462,4
+question_text,note this includes both,3,0.006493506493506494,462,4
+question_text,or app based physical,3,0.006493506493506494,462,4
+question_text,or cosmetic changes but,3,0.006493506493506494,462,4
+question_text,other sun protection products,3,0.006493506493506494,462,4
+question_text,planning booking and managing,3,0.006493506493506494,462,4
+question_text,policy note this could,3,0.006493506493506494,462,4
+question_text,premium haircare products note,3,0.006493506493506494,462,4
+question_text,products note by suncare,3,0.006493506493506494,462,4
+question_text,products note this could,3,0.006493506493506494,462,4
+question_text,products or services note,3,0.006493506493506494,462,4
+question_text,purchased large household appliance,3,0.006493506493506494,462,4
+question_text,purchased premium haircare products,3,0.006493506493506494,462,4
+question_text,replacement and touching up,3,0.006493506493506494,462,4
+question_text,retailer note by this,3,0.006493506493506494,462,4
+question_text,services for planning booking,3,0.006493506493506494,462,4
+question_text,services note by this,3,0.006493506493506494,462,4
+question_text,shampoo conditioner treatments dye,3,0.006493506493506494,462,4
+question_text,shampoo these products are,3,0.006493506493506494,462,4
+question_text,significant modification we mean,3,0.006493506493506494,462,4
+question_text,snacks note this can,3,0.006493506493506494,462,4
+question_text,stylers hairspray and dry,3,0.006493506493506494,462,4
+question_text,such as battery replacement,3,0.006493506493506494,462,4
+question_text,sun tan lotion and,3,0.006493506493506494,462,4
+question_text,suncare products note by,3,0.006493506493506494,462,4
+question_text,suncare we mean sunscreen,3,0.006493506493506494,462,4
+question_text,sunscreen sun tan lotion,3,0.006493506493506494,462,4
+question_text,supplements note this could,3,0.006493506493506494,462,4
+question_text,tan lotion and other,3,0.006493506493506494,462,4
+question_text,than aud 400 night,3,0.006493506493506494,462,4
+question_text,that are made from,3,0.006493506493506494,462,4
+question_text,that may help with,3,0.006493506493506494,462,4
+question_text,these products are typically,3,0.006493506493506494,462,4
+question_text,this could include fridges,3,0.006493506493506494,462,4
+question_text,this includes both dry,3,0.006493506493506494,462,4
+question_text,this we mean an,3,0.006493506493506494,462,4
+question_text,this we typically mean,3,0.006493506493506494,462,4
+question_text,treatments dye stylers hairspray,3,0.006493506493506494,462,4
+question_text,washing machines dryers ovens,3,0.006493506493506494,462,4
+question_text,we mean major mechanical,3,0.006493506493506494,462,4
+question_text,we mean retailer that,3,0.006493506493506494,462,4
+question_text,we mean sunscreen sun,3,0.006493506493506494,462,4
+question_text,years have you booked,3,0.006493506493506494,462,4
+question_text,years have you bought,3,0.006493506493506494,462,4
+question_text,years have you engaged,3,0.006493506493506494,462,4
+question_text,years have you visited,3,0.006493506493506494,462,4
+question_text,you purchased brand new,3,0.006493506493506494,462,4
+question_text,you purchased from an,3,0.006493506493506494,462,4
+question_text,you purchased large household,3,0.006493506493506494,462,4
+question_text,you purchased premium haircare,3,0.006493506493506494,462,4
+question_text,your car note by,3,0.006493506493506494,462,4
+question_text,and dry shampoo,3,0.006493506493506494,462,3
+question_text,and managing various,3,0.006493506493506494,462,3
+question_text,and not found,3,0.006493506493506494,462,3
+question_text,and other sun,3,0.006493506493506494,462,3
+question_text,and touching up,3,0.006493506493506494,462,3
+question_text,any type of,3,0.006493506493506494,462,3
+question_text,app based physical,3,0.006493506493506494,462,3
+question_text,apparel note by,3,0.006493506493506494,462,3
+question_text,appliance note this,3,0.006493506493506494,462,3
+question_text,are made from,3,0.006493506493506494,462,3
+question_text,as battery replacement,3,0.006493506493506494,462,3
+question_text,aud 400 night,3,0.006493506493506494,462,3
+question_text,battery replacement and,3,0.006493506493506494,462,3
+question_text,booking and managing,3,0.006493506493506494,462,3
+question_text,both dry wet,3,0.006493506493506494,462,3
+question_text,but not changes,3,0.006493506493506494,462,3
+question_text,by significant modification,3,0.006493506493506494,462,3
+question_text,by suncare we,3,0.006493506493506494,462,3
+question_text,changes but not,3,0.006493506493506494,462,3
+question_text,changes such as,3,0.006493506493506494,462,3
+question_text,clothing note by,3,0.006493506493506494,462,3
+question_text,conditioner treatments dye,3,0.006493506493506494,462,3
+question_text,cosmetic changes but,3,0.006493506493506494,462,3
+question_text,could include fridges,3,0.006493506493506494,462,3
+question_text,delivery service note,3,0.006493506493506494,462,3
+question_text,do you have,3,0.006493506493506494,462,3
+question_text,dog food note,3,0.006493506493506494,462,3
+question_text,dry shampoo these,3,0.006493506493506494,462,3
+question_text,dye stylers hairspray,3,0.006493506493506494,462,3
+question_text,education note by,3,0.006493506493506494,462,3
+question_text,fast food note,3,0.006493506493506494,462,3
+question_text,food and treats,3,0.006493506493506494,462,3
+question_text,food note by,3,0.006493506493506494,462,3
+question_text,for planning booking,3,0.006493506493506494,462,3
+question_text,fridges washing machines,3,0.006493506493506494,462,3
+question_text,hairspray and dry,3,0.006493506493506494,462,3
+question_text,have you or,3,0.006493506493506494,462,3
+question_text,have you rented,3,0.006493506493506494,462,3
+question_text,health service note,3,0.006493506493506494,462,3
+question_text,household appliance note,3,0.006493506493506494,462,3
+question_text,include fridges washing,3,0.006493506493506494,462,3
+question_text,includes both dry,3,0.006493506493506494,462,3
+question_text,insurance policy note,3,0.006493506493506494,462,3
+question_text,large household appliance,3,0.006493506493506494,462,3
+question_text,lotion and other,3,0.006493506493506494,462,3
+question_text,machines dryers ovens,3,0.006493506493506494,462,3
+question_text,major mechanical or,3,0.006493506493506494,462,3
+question_text,managing various aspects,3,0.006493506493506494,462,3
+question_text,may help with,3,0.006493506493506494,462,3
+question_text,mean major mechanical,3,0.006493506493506494,462,3
+question_text,mean retailer that,3,0.006493506493506494,462,3
+question_text,mean sunscreen sun,3,0.006493506493506494,462,3
+question_text,mechanical or cosmetic,3,0.006493506493506494,462,3
+question_text,modification we mean,3,0.006493506493506494,462,3
+question_text,not changes such,3,0.006493506493506494,462,3
+question_text,not found at,3,0.006493506493506494,462,3
+question_text,note by major,3,0.006493506493506494,462,3
+question_text,note by online,3,0.006493506493506494,462,3
+question_text,note by significant,3,0.006493506493506494,462,3
+question_text,note by suncare,3,0.006493506493506494,462,3
+question_text,or cosmetic changes,3,0.006493506493506494,462,3
+question_text,or paid for,3,0.006493506493506494,462,3
+question_text,other sun protection,3,0.006493506493506494,462,3
+question_text,packaged snacks note,3,0.006493506493506494,462,3
+question_text,planning booking and,3,0.006493506493506494,462,3
+question_text,policy note this,3,0.006493506493506494,462,3
+question_text,premium haircare products,3,0.006493506493506494,462,3
+question_text,products are typically,3,0.006493506493506494,462,3
+question_text,products or services,3,0.006493506493506494,462,3
+question_text,provider note by,3,0.006493506493506494,462,3
+question_text,purchased brand new,3,0.006493506493506494,462,3
+question_text,purchased from an,3,0.006493506493506494,462,3
+question_text,purchased large household,3,0.006493506493506494,462,3
+question_text,purchased premium haircare,3,0.006493506493506494,462,3
+question_text,replacement and touching,3,0.006493506493506494,462,3
+question_text,retailer we mean,3,0.006493506493506494,462,3
+question_text,services for planning,3,0.006493506493506494,462,3
+question_text,shampoo these products,3,0.006493506493506494,462,3
+question_text,significant modification we,3,0.006493506493506494,462,3
+question_text,snacks note this,3,0.006493506493506494,462,3
+question_text,store or online,3,0.006493506493506494,462,3
+question_text,stylers hairspray and,3,0.006493506493506494,462,3
+question_text,such as battery,3,0.006493506493506494,462,3
+question_text,sun protection products,3,0.006493506493506494,462,3
+question_text,sun tan lotion,3,0.006493506493506494,462,3
+question_text,suncare products note,3,0.006493506493506494,462,3
+question_text,suncare we mean,3,0.006493506493506494,462,3
+question_text,sunscreen sun tan,3,0.006493506493506494,462,3
+question_text,supplements note by,3,0.006493506493506494,462,3
+question_text,sweet or savoury,3,0.006493506493506494,462,3
+question_text,tan lotion and,3,0.006493506493506494,462,3
+question_text,than aud 400,3,0.006493506493506494,462,3
+question_text,that are made,3,0.006493506493506494,462,3
+question_text,that may help,3,0.006493506493506494,462,3
+question_text,the past month,3,0.006493506493506494,462,3
+question_text,these are products,3,0.006493506493506494,462,3
+question_text,these products are,3,0.006493506493506494,462,3
+question_text,this includes both,3,0.006493506493506494,462,3
+question_text,this we typically,3,0.006493506493506494,462,3
+question_text,to help you,3,0.006493506493506494,462,3
+question_text,to your home,3,0.006493506493506494,462,3
+question_text,touching up scratches,3,0.006493506493506494,462,3
+question_text,treatments dye stylers,3,0.006493506493506494,462,3
+question_text,various aspects of,3,0.006493506493506494,462,3
+question_text,vitamins or supplements,3,0.006493506493506494,462,3
+question_text,washing machines dryers,3,0.006493506493506494,462,3
+question_text,we mean major,3,0.006493506493506494,462,3
+question_text,we mean retailer,3,0.006493506493506494,462,3
+question_text,we mean sunscreen,3,0.006493506493506494,462,3
+question_text,you booked an,3,0.006493506493506494,462,3
+question_text,you bought or,3,0.006493506493506494,462,3
+question_text,you or your,3,0.006493506493506494,462,3
+question_text,you purchased an,3,0.006493506493506494,462,3
+question_text,you purchased brand,3,0.006493506493506494,462,3
+question_text,you purchased health,3,0.006493506493506494,462,3
+question_text,you purchased large,3,0.006493506493506494,462,3
+question_text,you purchased luxury,3,0.006493506493506494,462,3
+question_text,you purchased ready,3,0.006493506493506494,462,3
+question_text,you purchased socks,3,0.006493506493506494,462,3
+question_text,you purchased women,3,0.006493506493506494,462,3
+question_text,your car note,3,0.006493506493506494,462,3
+qualifying_options,in the last,19,0.21839080459770116,87,3
+qualifying_options,yes no but,16,0.1839080459770115,87,3
+qualifying_options,in the near future,12,0.13793103448275862,87,4
+qualifying_options,in the near,12,0.13793103448275862,87,3
+qualifying_options,the near future,12,0.13793103448275862,87,3
+qualifying_options,likely to in the,11,0.12643678160919541,87,4
+qualifying_options,likely to in,11,0.12643678160919541,87,3
+qualifying_options,to in the,11,0.12643678160919541,87,3
+qualifying_options,likely to in the near future,10,0.11494252873563218,87,6
+qualifying_options,likely to in the near,10,0.11494252873563218,87,5
+qualifying_options,to in the near future,10,0.11494252873563218,87,5
+qualifying_options,to in the near,10,0.11494252873563218,87,4
+qualifying_options,in the next,10,0.11494252873563218,87,3
+qualifying_options,or likely to,10,0.11494252873563218,87,3
+qualifying_options,open or likely to,9,0.10344827586206896,87,4
+qualifying_options,open or likely,9,0.10344827586206896,87,3
+qualifying_options,all of the household grocery shopping and,8,0.09195402298850575,87,7
+qualifying_options,do some or all of the household,8,0.09195402298850575,87,7
+qualifying_options,or all of the household grocery shopping,8,0.09195402298850575,87,7
+qualifying_options,or likely to in the near future,8,0.09195402298850575,87,7
+qualifying_options,some or all of the household grocery,8,0.09195402298850575,87,7
+qualifying_options,all of the household grocery shopping,8,0.09195402298850575,87,6
+qualifying_options,do some or all of the,8,0.09195402298850575,87,6
+qualifying_options,of the household grocery shopping and,8,0.09195402298850575,87,6
+qualifying_options,or all of the household grocery,8,0.09195402298850575,87,6
+qualifying_options,or likely to in the near,8,0.09195402298850575,87,6
+qualifying_options,some or all of the household,8,0.09195402298850575,87,6
+qualifying_options,all of the household grocery,8,0.09195402298850575,87,5
+qualifying_options,do some or all of,8,0.09195402298850575,87,5
+qualifying_options,of the household grocery shopping,8,0.09195402298850575,87,5
+qualifying_options,or all of the household,8,0.09195402298850575,87,5
+qualifying_options,or likely to in the,8,0.09195402298850575,87,5
+qualifying_options,some or all of the,8,0.09195402298850575,87,5
+qualifying_options,the household grocery shopping and,8,0.09195402298850575,87,5
+qualifying_options,all of the household,8,0.09195402298850575,87,4
+qualifying_options,do some or all,8,0.09195402298850575,87,4
+qualifying_options,household grocery shopping and,8,0.09195402298850575,87,4
+qualifying_options,of the household grocery,8,0.09195402298850575,87,4
+qualifying_options,or all of the,8,0.09195402298850575,87,4
+qualifying_options,or likely to in,8,0.09195402298850575,87,4
+qualifying_options,some or all of,8,0.09195402298850575,87,4
+qualifying_options,the household grocery shopping,8,0.09195402298850575,87,4
+qualifying_options,all of the,8,0.09195402298850575,87,3
+qualifying_options,do some or,8,0.09195402298850575,87,3
+qualifying_options,grocery shopping and,8,0.09195402298850575,87,3
+qualifying_options,household grocery shopping,8,0.09195402298850575,87,3
+qualifying_options,no but am,8,0.09195402298850575,87,3
+qualifying_options,of the household,8,0.09195402298850575,87,3
+qualifying_options,or all of,8,0.09195402298850575,87,3
+qualifying_options,some or all,8,0.09195402298850575,87,3
+qualifying_options,the household grocery,8,0.09195402298850575,87,3
+qualifying_options,of the household grocery shopping and ve,7,0.08045977011494253,87,7
+qualifying_options,open or likely to in the near,7,0.08045977011494253,87,7
+qualifying_options,the household grocery shopping and ve bought,7,0.08045977011494253,87,7
+qualifying_options,household grocery shopping and ve bought,7,0.08045977011494253,87,6
+qualifying_options,open or likely to in the,7,0.08045977011494253,87,6
+qualifying_options,the household grocery shopping and ve,7,0.08045977011494253,87,6
+qualifying_options,grocery shopping and ve bought,7,0.08045977011494253,87,5
+qualifying_options,household grocery shopping and ve,7,0.08045977011494253,87,5
+qualifying_options,open or likely to in,7,0.08045977011494253,87,5
+qualifying_options,grocery shopping and ve,7,0.08045977011494253,87,4
+qualifying_options,in the last month,7,0.08045977011494253,87,4
+qualifying_options,in the next years,7,0.08045977011494253,87,4
+qualifying_options,shopping and ve bought,7,0.08045977011494253,87,4
+qualifying_options,and ve bought,7,0.08045977011494253,87,3
+qualifying_options,in the past,7,0.08045977011494253,87,3
+qualifying_options,shopping and ve,7,0.08045977011494253,87,3
+qualifying_options,the last month,7,0.08045977011494253,87,3
+qualifying_options,the next years,7,0.08045977011494253,87,3
+qualifying_options,no but am open or likely to,5,0.05747126436781609,87,7
+qualifying_options,but am open or likely to,5,0.05747126436781609,87,6
+qualifying_options,no but am open or likely,5,0.05747126436781609,87,6
+qualifying_options,am open or likely to,5,0.05747126436781609,87,5
+qualifying_options,but am open or likely,5,0.05747126436781609,87,5
+qualifying_options,no but am open or,5,0.05747126436781609,87,5
+qualifying_options,am open or likely,5,0.05747126436781609,87,4
+qualifying_options,but am open or,5,0.05747126436781609,87,4
+qualifying_options,in the last year,5,0.05747126436781609,87,4
+qualifying_options,no but am open,5,0.05747126436781609,87,4
+qualifying_options,yes no but am,5,0.05747126436781609,87,4
+qualifying_options,am open or,5,0.05747126436781609,87,3
+qualifying_options,but am open,5,0.05747126436781609,87,3
+qualifying_options,the last year,5,0.05747126436781609,87,3
+qualifying_options,have booked rental car for future travel,4,0.04597701149425287,87,7
+qualifying_options,have hired rental car in the last,4,0.04597701149425287,87,7
+qualifying_options,hired rental car in the last year,4,0.04597701149425287,87,7
+qualifying_options,booked rental car for future travel,4,0.04597701149425287,87,6
+qualifying_options,have booked rental car for future,4,0.04597701149425287,87,6
+qualifying_options,have hired rental car in the,4,0.04597701149425287,87,6
+qualifying_options,hired rental car in the last,4,0.04597701149425287,87,6
+qualifying_options,rental car in the last year,4,0.04597701149425287,87,6
+qualifying_options,booked rental car for future,4,0.04597701149425287,87,5
+qualifying_options,car in the last year,4,0.04597701149425287,87,5
+qualifying_options,have booked rental car for,4,0.04597701149425287,87,5
+qualifying_options,have hired rental car in,4,0.04597701149425287,87,5
+qualifying_options,hired rental car in the,4,0.04597701149425287,87,5
+qualifying_options,in the past 12 months,4,0.04597701149425287,87,5
+qualifying_options,rental car for future travel,4,0.04597701149425287,87,5
+qualifying_options,rental car in the last,4,0.04597701149425287,87,5
+qualifying_options,booked rental car for,4,0.04597701149425287,87,4
+qualifying_options,car for future travel,4,0.04597701149425287,87,4
+qualifying_options,car in the last,4,0.04597701149425287,87,4
+qualifying_options,have booked rental car,4,0.04597701149425287,87,4
+qualifying_options,have hired rental car,4,0.04597701149425287,87,4
+qualifying_options,hired rental car in,4,0.04597701149425287,87,4
+qualifying_options,in the last years,4,0.04597701149425287,87,4
+qualifying_options,in the past 12,4,0.04597701149425287,87,4
+qualifying_options,rental car for future,4,0.04597701149425287,87,4
+qualifying_options,rental car in the,4,0.04597701149425287,87,4
+qualifying_options,the next 12 months,4,0.04597701149425287,87,4
+qualifying_options,the past 12 months,4,0.04597701149425287,87,4
+qualifying_options,am likely to,4,0.04597701149425287,87,3
+qualifying_options,booked rental car,4,0.04597701149425287,87,3
+qualifying_options,car for future,4,0.04597701149425287,87,3
+qualifying_options,car in the,4,0.04597701149425287,87,3
+qualifying_options,for future travel,4,0.04597701149425287,87,3
+qualifying_options,have booked rental,4,0.04597701149425287,87,3
+qualifying_options,have hired rental,4,0.04597701149425287,87,3
+qualifying_options,hired rental car,4,0.04597701149425287,87,3
+qualifying_options,my partner is,4,0.04597701149425287,87,3
+qualifying_options,next 12 months,4,0.04597701149425287,87,3
+qualifying_options,no but open,4,0.04597701149425287,87,3
+qualifying_options,past 12 months,4,0.04597701149425287,87,3
+qualifying_options,rental car for,4,0.04597701149425287,87,3
+qualifying_options,rental car in,4,0.04597701149425287,87,3
+qualifying_options,the last years,4,0.04597701149425287,87,3
+qualifying_options,the next 12,4,0.04597701149425287,87,3
+qualifying_options,the past 12,4,0.04597701149425287,87,3
+qualifying_options,am open or likely to in the,3,0.034482758620689655,87,7
+qualifying_options,booked rental car for future travel have,3,0.034482758620689655,87,7
+qualifying_options,but am open or likely to in,3,0.034482758620689655,87,7
+qualifying_options,but open or likely to in the,3,0.034482758620689655,87,7
+qualifying_options,by yourself through brokerage or an online,3,0.034482758620689655,87,7
+qualifying_options,car for future travel have hired rental,3,0.034482758620689655,87,7
+qualifying_options,either by yourself through brokerage or an,3,0.034482758620689655,87,7
+qualifying_options,for future travel have hired rental car,3,0.034482758620689655,87,7
+qualifying_options,future travel have hired rental car in,3,0.034482758620689655,87,7
+qualifying_options,in the last year have booked rental,3,0.034482758620689655,87,7
+qualifying_options,likely to in the near future yes,3,0.034482758620689655,87,7
+qualifying_options,no but open or likely to in,3,0.034482758620689655,87,7
+qualifying_options,rental car for future travel have hired,3,0.034482758620689655,87,7
+qualifying_options,rental car in the last year have,3,0.034482758620689655,87,7
+qualifying_options,shares either by yourself through brokerage or,3,0.034482758620689655,87,7
+qualifying_options,to start family in the next years,3,0.034482758620689655,87,7
+qualifying_options,travel have hired rental car in the,3,0.034482758620689655,87,7
+qualifying_options,yes no but am open or likely,3,0.034482758620689655,87,7
+qualifying_options,yourself through brokerage or an online platform,3,0.034482758620689655,87,7
+qualifying_options,am open or likely to in,3,0.034482758620689655,87,6
+qualifying_options,but open or likely to in,3,0.034482758620689655,87,6
+qualifying_options,by yourself through brokerage or an,3,0.034482758620689655,87,6
+qualifying_options,car for future travel have hired,3,0.034482758620689655,87,6
+qualifying_options,car in the last year have,3,0.034482758620689655,87,6
+qualifying_options,either by yourself through brokerage or,3,0.034482758620689655,87,6
+qualifying_options,for future travel have hired rental,3,0.034482758620689655,87,6
+qualifying_options,future travel have hired rental car,3,0.034482758620689655,87,6
+qualifying_options,in the last year have booked,3,0.034482758620689655,87,6
+qualifying_options,no but open or likely to,3,0.034482758620689655,87,6
+qualifying_options,rental car for future travel have,3,0.034482758620689655,87,6
+qualifying_options,shares either by yourself through brokerage,3,0.034482758620689655,87,6
+qualifying_options,start family in the next years,3,0.034482758620689655,87,6
+qualifying_options,the last year have booked rental,3,0.034482758620689655,87,6
+qualifying_options,through brokerage or an online platform,3,0.034482758620689655,87,6
+qualifying_options,to in the near future yes,3,0.034482758620689655,87,6
+qualifying_options,to start family in the next,3,0.034482758620689655,87,6
+qualifying_options,travel have hired rental car in,3,0.034482758620689655,87,6
+qualifying_options,yes no but am open or,3,0.034482758620689655,87,6
+qualifying_options,yourself through brokerage or an online,3,0.034482758620689655,87,6
+qualifying_options,brokerage or an online platform,3,0.034482758620689655,87,5
+qualifying_options,but open or likely to,3,0.034482758620689655,87,5
+qualifying_options,by yourself through brokerage or,3,0.034482758620689655,87,5
+qualifying_options,car for future travel have,3,0.034482758620689655,87,5
+qualifying_options,either by yourself through brokerage,3,0.034482758620689655,87,5
+qualifying_options,family in the next years,3,0.034482758620689655,87,5
+qualifying_options,for future travel have hired,3,0.034482758620689655,87,5
+qualifying_options,future travel have hired rental,3,0.034482758620689655,87,5
+qualifying_options,in the last year have,3,0.034482758620689655,87,5
+qualifying_options,in the near future yes,3,0.034482758620689655,87,5
+qualifying_options,in the next years am,3,0.034482758620689655,87,5
+qualifying_options,last year have booked rental,3,0.034482758620689655,87,5
+qualifying_options,no but open or likely,3,0.034482758620689655,87,5
+qualifying_options,shares either by yourself through,3,0.034482758620689655,87,5
+qualifying_options,start family in the next,3,0.034482758620689655,87,5
+qualifying_options,the last year have booked,3,0.034482758620689655,87,5
+qualifying_options,through brokerage or an online,3,0.034482758620689655,87,5
+qualifying_options,to start family in the,3,0.034482758620689655,87,5
+qualifying_options,travel have hired rental car,3,0.034482758620689655,87,5
+qualifying_options,yes no but am open,3,0.034482758620689655,87,5
+qualifying_options,yourself through brokerage or an,3,0.034482758620689655,87,5
+qualifying_options,brokerage or an online,3,0.034482758620689655,87,4
+qualifying_options,but open or likely,3,0.034482758620689655,87,4
+qualifying_options,by yourself through brokerage,3,0.034482758620689655,87,4
+qualifying_options,either by yourself through,3,0.034482758620689655,87,4
+qualifying_options,family in the next,3,0.034482758620689655,87,4
+qualifying_options,for future travel have,3,0.034482758620689655,87,4
+qualifying_options,future travel have hired,3,0.034482758620689655,87,4
+qualifying_options,in the last months,3,0.034482758620689655,87,4
+qualifying_options,in the next months,3,0.034482758620689655,87,4
+qualifying_options,in the past years,3,0.034482758620689655,87,4
+qualifying_options,last year have booked,3,0.034482758620689655,87,4
+qualifying_options,no but open or,3,0.034482758620689655,87,4
+qualifying_options,or an online platform,3,0.034482758620689655,87,4
+qualifying_options,shares either by yourself,3,0.034482758620689655,87,4
+qualifying_options,start family in the,3,0.034482758620689655,87,4
+qualifying_options,term deposit with bank,3,0.034482758620689655,87,4
+qualifying_options,the last year have,3,0.034482758620689655,87,4
+qualifying_options,the near future yes,3,0.034482758620689655,87,4
+qualifying_options,the next years am,3,0.034482758620689655,87,4
+qualifying_options,through brokerage or an,3,0.034482758620689655,87,4
+qualifying_options,to start family in,3,0.034482758620689655,87,4
+qualifying_options,travel have hired rental,3,0.034482758620689655,87,4
+qualifying_options,way what is that,3,0.034482758620689655,87,4
+qualifying_options,year have booked rental,3,0.034482758620689655,87,4
+qualifying_options,yes no but have,3,0.034482758620689655,87,4
+qualifying_options,yes no but open,3,0.034482758620689655,87,4
+qualifying_options,yourself through brokerage or,3,0.034482758620689655,87,4
+qualifying_options,an online platform,3,0.034482758620689655,87,3
+qualifying_options,brokerage or an,3,0.034482758620689655,87,3
+qualifying_options,but open or,3,0.034482758620689655,87,3
+qualifying_options,by yourself through,3,0.034482758620689655,87,3
+qualifying_options,deposit with bank,3,0.034482758620689655,87,3
+qualifying_options,either by yourself,3,0.034482758620689655,87,3
+qualifying_options,family in the,3,0.034482758620689655,87,3
+qualifying_options,future travel have,3,0.034482758620689655,87,3
+qualifying_options,last year have,3,0.034482758620689655,87,3
+qualifying_options,likely to buy,3,0.034482758620689655,87,3
+qualifying_options,near future yes,3,0.034482758620689655,87,3
+qualifying_options,next years am,3,0.034482758620689655,87,3
+qualifying_options,no but have,3,0.034482758620689655,87,3
+qualifying_options,or an online,3,0.034482758620689655,87,3
+qualifying_options,shares either by,3,0.034482758620689655,87,3
+qualifying_options,start family in,3,0.034482758620689655,87,3
+qualifying_options,term deposit with,3,0.034482758620689655,87,3
+qualifying_options,the last months,3,0.034482758620689655,87,3
+qualifying_options,the next months,3,0.034482758620689655,87,3
+qualifying_options,the past years,3,0.034482758620689655,87,3
+qualifying_options,through brokerage or,3,0.034482758620689655,87,3
+qualifying_options,to start family,3,0.034482758620689655,87,3
+qualifying_options,travel have hired,3,0.034482758620689655,87,3
+qualifying_options,way what is,3,0.034482758620689655,87,3
+qualifying_options,what is that,3,0.034482758620689655,87,3
+qualifying_options,year have booked,3,0.034482758620689655,87,3
+qualifying_options,yes in the,3,0.034482758620689655,87,3
+qualifying_options,yourself through brokerage,3,0.034482758620689655,87,3

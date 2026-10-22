@@ -1,0 +1,32 @@
+{
+  "status": "complete",
+  "top_k": 5,
+  "cv_repeats": 1,
+  "cv_folds_per_repeat": 5,
+  "min_similarity": null,
+  "no_match_value": null,
+  "views": [
+    "cv",
+    "evaluation",
+    "deployment"
+  ],
+  "contexts": 7,
+  "maximum_llm_choices_before_cache": 5316,
+  "same_category_excluded": true,
+  "targets_shown_to_llm": false,
+  "llm_input_fields": [
+    "question_text",
+    "qualifying_options",
+    "disqualifying_options"
+  ],
+  "llm_candidate_ids": "Opaque local IDs only; no source row IDs, metadata, ranks or scores",
+  "llm_can_abstain": true,
+  "training_model_fitted": false,
+  "feature_name": "retrieved_incidence",
+  "warning": "CV tables are context-specific; never use a single global target-derived column across folds",
+  "embedding_model": "text-embedding-3-small",
+  "embedding_cleaning_version": "survey-scaffolding-v3-no-category",
+  "eligible_queries": 5316,
+  "no_match_queries": 0,
+  "llm_abstentions": 1985
+}

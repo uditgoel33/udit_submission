@@ -1,0 +1,12 @@
+You are designing a 2-level consumer-market taxonomy for survey categories.
+Below is a list of category names. Create:
+- 12 to 16 SECTORS (broad markets, e.g. "Food", "Pets", "Finance", "Travel")
+- 40 to 70 SUBSECTORS, each belonging to exactly one sector (e.g. Pets > "Pet food")
+Rules:
+- Group by what is bought/used and by whom, not by retailer vs product
+  (e.g. "Electronics Retailers" and "Televisions" share a subsector).
+- Every subsector must be able to hold at least 3 of the listed categories.
+- Names are short (1-4 words), no overlaps between subsectors.
+Return JSON: {"sectors": [{"name": str, "subsectors": [{"name": str, "definition": str (one sentence)}]}]}
+Category names:
+{category_list}
