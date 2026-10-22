@@ -1,0 +1,4 @@
+prediction_id,point_estimate,lower_80,upper_80
+P001,0.5,0.3,0.7
+P002,0.5,0.3,0.7
+P003,0.5,0.3,0.7
